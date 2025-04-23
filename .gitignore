@@ -1,0 +1,8 @@
+# Environment
+.env
+
+# Python cache
+__pycache__/
+
+# Logbestanden
+*.log
