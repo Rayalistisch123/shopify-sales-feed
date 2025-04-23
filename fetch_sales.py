@@ -37,11 +37,11 @@ def fetch_all_orders():
 # 4) Aggregatie per variant SKU
 def aggregate_sales_by_variant(orders):
     summary = defaultdict(lambda:{
-        'variant_sku': None,
+        'ID': None,
         'variant_id': None,
-        'variant_title': None,
-        'total_quantity': 0,
-        'total_revenue': 0.0
+        'Artikel': None,
+        'TotaalVerkocht': 0,
+        'TotaalOmzet': 0.0
     })
     for order in orders:
         for line in order.get('line_items', []):
