@@ -1,28 +1,43 @@
-steps:
-  - name: Checkout code
-    uses: actions/checkout@v3
-    with:
-      persist-credentials: true  # laat de GITHUB_TOKEN credentials behouden
-      fetch-depth: 0            # volledige git history nodig voor push
+name: Update Shopify Variant Sales JSON
 
-  - name: Setup Python
-    uses: actions/setup-python@v4
-    with:
-      python-version: '3.11'
+permissions:
+  contents: write
 
-  - name: Install dependencies
-    run: pip install requests python-dotenv
+on:
+  schedule:
+    # Draai elk uur op minuut 0
+    - cron: '0 * * * *'
+  workflow_dispatch:  # handmatig trigger
 
-  - name: Write .env from secrets
-    run: |
-      echo "SHOP_NAME=${{ secrets.SHOP_NAME }}" > .env
-      echo "ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }}" >> .env
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
 
-  - name: Generate variant_sales.json
-    run: python fetch_sales.py
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
-  - name: Commit & push JSON
-    uses: stefanzweifel/git-auto-commit-action@v4
-    with:
-      commit_message: "⟳ Update variant_sales.json"
-      file_pattern: variant_sales.json
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dotenv
+
+      - name: Write .env from secrets
+        run: |
+          echo "SHOP_NAME=${{ secrets.SHOP_NAME }}" > .env
+          echo "ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }}" >> .env
+
+      - name: Generate variant_sales.json
+        run: python fetch_sales.py
+
+      - name: Commit & push JSON
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "⟳ Update variant_sales.json"
+          file_pattern: variant_sales.json
