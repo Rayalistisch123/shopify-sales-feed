@@ -1,5 +1,89 @@
 [
   {
+    "ID": "211748.12.000S",
+    "VariantID": 46151047381130,
+    "Name": "Cardigan Happy love | Off-white | Studio Poespas",
+    "SoldQuantity": 48,
+    "RevenueTotal": 2256.0
+  },
+  {
+    "ID": "211676.10.00S1",
+    "VariantID": 46165403795594,
+    "Name": "Trui Crochet | Wit | Studio Poespas",
+    "SoldQuantity": 33,
+    "RevenueTotal": 1947.0
+  },
+  {
+    "ID": "211794.60.000M",
+    "VariantID": 46150981386378,
+    "Name": "Skirt Stefanie | Light blue | Freebird",
+    "SoldQuantity": 2,
+    "RevenueTotal": 178.0
+  },
+  {
+    "ID": "211793.60.000M",
+    "VariantID": 46150981222538,
+    "Name": "Gilet Gelena | Light blue | Freebird",
+    "SoldQuantity": 1,
+    "RevenueTotal": 119.0
+  },
+  {
+    "ID": "211615.80",
+    "VariantID": 46151156695178,
+    "Name": "Haarklem mini block print | Roze/wit",
+    "SoldQuantity": 3,
+    "RevenueTotal": 17.25
+  },
+  {
+    "ID": "211836.80",
+    "VariantID": 46151164264586,
+    "Name": "Telefoonkoord Meis | Lang | Mintgroen/roze",
+    "SoldQuantity": 2,
+    "RevenueTotal": 20.0
+  },
+  {
+    "ID": "24388.80",
+    "VariantID": 46181891539082,
+    "Name": "Shopper Stripe-a-licious | Blue purple | Studio Poespas",
+    "SoldQuantity": 14,
+    "RevenueTotal": 560.0
+  },
+  {
+    "ID": "211482.42.00S3",
+    "VariantID": 46150976635018,
+    "Name": "Dress Plissé | Pink champagne | Studio Poespas",
+    "SoldQuantity": 26,
+    "RevenueTotal": 1794.0
+  },
+  {
+    "ID": "211644.80.00S3",
+    "VariantID": 46150965952650,
+    "Name": "Top Team | Oranje/lila | Studio Poespas",
+    "SoldQuantity": 3,
+    "RevenueTotal": 135.0
+  },
+  {
+    "ID": "24167.90.000M",
+    "VariantID": 46151031750794,
+    "Name": "Cargo pants Nevada | Black | Refined Department",
+    "SoldQuantity": 7,
+    "RevenueTotal": 448.0
+  },
+  {
+    "ID": "24161.90.000M",
+    "VariantID": 46151030603914,
+    "Name": "Off-shoulder blouse Montana | Black | Refined Department",
+    "SoldQuantity": 4,
+    "RevenueTotal": 196.0
+  },
+  {
+    "ID": "211894.64.00S4",
+    "VariantID": 46151048134794,
+    "Name": "Sweater Strawberry milkshake | Studio Poespas",
+    "SoldQuantity": 12,
+    "RevenueTotal": 780.0
+  },
+  {
     "ID": "211932.64.0029",
     "VariantID": 46151045415050,
     "Name": "Broek Yve | Bittersweet pink | Harper & Yve",
@@ -47,13 +131,6 @@
     "Name": "Top Sorbet | Lilac-orange | Studio Poespas",
     "SoldQuantity": 35,
     "RevenueTotal": 1470.0
-  },
-  {
-    "ID": "211482.42.00S3",
-    "VariantID": 46150976635018,
-    "Name": "Dress Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 25,
-    "RevenueTotal": 1725.0
   },
   {
     "ID": "211859.60.00S2",
@@ -117,13 +194,6 @@
     "Name": "Dress Plissé | Pink champagne | Studio Poespas",
     "SoldQuantity": 28,
     "RevenueTotal": 1932.0
-  },
-  {
-    "ID": "24388.80",
-    "VariantID": 46181891539082,
-    "Name": "Shopper Stripe-a-licious | Blue purple | Studio Poespas",
-    "SoldQuantity": 13,
-    "RevenueTotal": 520.0
   },
   {
     "ID": "211919.50.00XS",
@@ -201,13 +271,6 @@
     "Name": "Short Sofia | Blue | Studio Amaya",
     "SoldQuantity": 4,
     "RevenueTotal": 316.0
-  },
-  {
-    "ID": "211676.10.00S1",
-    "VariantID": 46165403795594,
-    "Name": "Trui Crochet | Wit | Studio Poespas",
-    "SoldQuantity": 32,
-    "RevenueTotal": 1888.0
   },
   {
     "ID": "211978.6400S2",
@@ -754,13 +817,6 @@
     "Name": "Gilet Gelena | Light blue | Freebird",
     "SoldQuantity": 1,
     "RevenueTotal": 119.0
-  },
-  {
-    "ID": "211794.60.000M",
-    "VariantID": 46150981386378,
-    "Name": "Skirt Stefanie | Light blue | Freebird",
-    "SoldQuantity": 1,
-    "RevenueTotal": 89.0
   },
   {
     "ID": "24368.14.000L",
@@ -2191,25 +2247,11 @@
     "RevenueTotal": 149.0
   },
   {
-    "ID": "24167.90.000M",
-    "VariantID": 46151031750794,
-    "Name": "Cargo pants Nevada | Black | Refined Department",
-    "SoldQuantity": 6,
-    "RevenueTotal": 384.0
-  },
-  {
     "ID": "24288.90.000S",
     "VariantID": 46151053738122,
     "Name": "Dress Danessa | Black | Freebird",
     "SoldQuantity": 1,
     "RevenueTotal": 129.0
-  },
-  {
-    "ID": "24161.90.000M",
-    "VariantID": 46151030603914,
-    "Name": "Off-shoulder blouse Montana | Black | Refined Department",
-    "SoldQuantity": 3,
-    "RevenueTotal": 147.0
   },
   {
     "ID": "111746.64.0007",
@@ -2387,13 +2429,6 @@
     "RevenueTotal": 7.96
   },
   {
-    "ID": "211748.12.000S",
-    "VariantID": 46151047381130,
-    "Name": "Cardigan Happy love | Off-white | Studio Poespas",
-    "SoldQuantity": 47,
-    "RevenueTotal": 2209.0
-  },
-  {
     "ID": "VARIANT_46161952276618",
     "VariantID": 46161952276618,
     "Name": "Behang Safari | Circle of Life Collection",
@@ -2560,13 +2595,6 @@
     "Name": "Trui ajour marshmallow | Geel | Studio Poespas",
     "SoldQuantity": 6,
     "RevenueTotal": 188.1
-  },
-  {
-    "ID": "211894.64.00S4",
-    "VariantID": 46151048134794,
-    "Name": "Sweater Strawberry milkshake | Studio Poespas",
-    "SoldQuantity": 11,
-    "RevenueTotal": 715.0
   },
   {
     "ID": "1454.10.001",
@@ -4660,13 +4688,6 @@
     "Name": "Oorbellen snoepdog | Goud | Studio Poespas",
     "SoldQuantity": 5,
     "RevenueTotal": 70.0
-  },
-  {
-    "ID": "211615.80",
-    "VariantID": 46151156695178,
-    "Name": "Haarklem mini block print | Roze/wit",
-    "SoldQuantity": 2,
-    "RevenueTotal": 11.5
   },
   {
     "ID": "211854.42",
@@ -7196,13 +7217,6 @@
     "RevenueTotal": 20.7
   },
   {
-    "ID": "211836.80",
-    "VariantID": 46151164264586,
-    "Name": "Telefoonkoord Meis | Lang | Mintgroen/roze",
-    "SoldQuantity": 1,
-    "RevenueTotal": 10.0
-  },
-  {
     "ID": "24370.80.00XL",
     "VariantID": 46186844389514,
     "Name": "Skirt DJ | Multi print | Studio Amaya",
@@ -8965,13 +8979,6 @@
     "Name": "Jumpsuit Vasili | Off-white | Freebird",
     "SoldQuantity": 1,
     "RevenueTotal": 119.0
-  },
-  {
-    "ID": "211644.80.00S3",
-    "VariantID": 46150965952650,
-    "Name": "Top Team | Oranje/lila | Studio Poespas",
-    "SoldQuantity": 2,
-    "RevenueTotal": 90.0
   },
   {
     "ID": "24165.20.000S",
