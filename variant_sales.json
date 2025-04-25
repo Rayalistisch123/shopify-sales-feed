@@ -1,5 +1,54 @@
 [
   {
+    "ID": "VARIANT_46181235753098",
+    "VariantID": 46181235753098,
+    "Name": "Digitale giftcard",
+    "SoldQuantity": 1,
+    "RevenueTotal": 20.0
+  },
+  {
+    "ID": "24366.60.00XS",
+    "VariantID": 46151062978698,
+    "Name": "Skirt Star | Blue | Studio Amaya",
+    "SoldQuantity": 1,
+    "RevenueTotal": 79.0
+  },
+  {
+    "ID": "24365.60.00XS",
+    "VariantID": 46151063273610,
+    "Name": "Jacket Heart | Blue | Studio Amaya",
+    "SoldQuantity": 2,
+    "RevenueTotal": 218.0
+  },
+  {
+    "ID": "24391.80",
+    "VariantID": 46181894881418,
+    "Name": "Crossbody bag Stripe-a-licious | Red pink | Studio Poespas",
+    "SoldQuantity": 15,
+    "RevenueTotal": 375.0
+  },
+  {
+    "ID": "PP2066S",
+    "VariantID": 46168941691018,
+    "Name": "Behang Concrete gold | Lichtbruin | Staaltje",
+    "SoldQuantity": 2,
+    "RevenueTotal": 3.98
+  },
+  {
+    "ID": "PP2169S",
+    "VariantID": 46150398902410,
+    "Name": "Behang Golden leaves | Beige | Staaltje",
+    "SoldQuantity": 2,
+    "RevenueTotal": 3.98
+  },
+  {
+    "ID": "PP3059S",
+    "VariantID": 46166091432074,
+    "Name": "Behang Bronze stuc | Staaltje",
+    "SoldQuantity": 2,
+    "RevenueTotal": 3.98
+  },
+  {
     "ID": "24388.80",
     "VariantID": 46181891539082,
     "Name": "Shopper Stripe-a-licious | Blue purple | Studio Poespas",
@@ -278,13 +327,6 @@
     "Name": "Armbandjes XOXO | Set van 3 | Studio Poespas",
     "SoldQuantity": 2,
     "RevenueTotal": 29.9
-  },
-  {
-    "ID": "24391.80",
-    "VariantID": 46181894881418,
-    "Name": "Crossbody bag Stripe-a-licious | Red pink | Studio Poespas",
-    "SoldQuantity": 14,
-    "RevenueTotal": 350.0
   },
   {
     "ID": "211595.80.00S3",
@@ -584,8 +626,8 @@
     "ID": "211474.50.000S",
     "VariantID": 46150977978506,
     "Name": "Jacket Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 24,
-    "RevenueTotal": 1159.1999999999994
+    "SoldQuantity": 23,
+    "RevenueTotal": 1110.8999999999994
   },
   {
     "ID": "24209.60.000M",
@@ -857,15 +899,15 @@
     "ID": "211475.50.000S",
     "VariantID": 46150977781898,
     "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 13,
-    "RevenueTotal": 536.9000000000001
+    "SoldQuantity": 12,
+    "RevenueTotal": 495.6000000000001
   },
   {
     "ID": "211474.50.000M",
     "VariantID": 46150978011274,
     "Name": "Jacket Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 27,
-    "RevenueTotal": 1304.0999999999995
+    "SoldQuantity": 26,
+    "RevenueTotal": 1255.7999999999995
   },
   {
     "ID": "24132.50.000S",
@@ -1172,8 +1214,8 @@
     "ID": "211748.12.000M",
     "VariantID": 46151047413898,
     "Name": "Cardigan Happy love | Off-white | Studio Poespas",
-    "SoldQuantity": 50,
-    "RevenueTotal": 2350.0
+    "SoldQuantity": 49,
+    "RevenueTotal": 2303.0
   },
   {
     "ID": "PP3011S",
@@ -1620,8 +1662,8 @@
     "ID": "211676.11.00S2",
     "VariantID": 46165403828362,
     "Name": "Trui Crochet | Wit | Studio Poespas",
-    "SoldQuantity": 23,
-    "RevenueTotal": 1357.0
+    "SoldQuantity": 22,
+    "RevenueTotal": 1298.0
   },
   {
     "ID": "211671.52.000L",
@@ -1816,8 +1858,8 @@
     "ID": "24205.14.000L",
     "VariantID": 46151041876106,
     "Name": "Oversized blouse Lottie | Flower | Refined Department",
-    "SoldQuantity": 4,
-    "RevenueTotal": 256.0
+    "SoldQuantity": 3,
+    "RevenueTotal": 192.0
   },
   {
     "ID": "211460.64000S",
@@ -2243,8 +2285,8 @@
     "ID": "211298.42.00S1",
     "VariantID": 46150876004490,
     "Name": "Top Sugar dust | Oscar gold | Studio Poespas",
-    "SoldQuantity": 6,
-    "RevenueTotal": 330.0
+    "SoldQuantity": 5,
+    "RevenueTotal": 275.0
   },
   {
     "ID": "24299.80.000M",
@@ -2747,8 +2789,8 @@
     "ID": "24362.60.000S",
     "VariantID": 46151062225034,
     "Name": "Top Kenza | Multi print | Studio Amaya",
-    "SoldQuantity": 9,
-    "RevenueTotal": 621.0
+    "SoldQuantity": 8,
+    "RevenueTotal": 552.0
   },
   {
     "ID": "211093.40.00S2",
@@ -3265,8 +3307,8 @@
     "ID": "24213.14.000L",
     "VariantID": 46151044071562,
     "Name": "Printed pants Novel | Flower | Refined Department",
-    "SoldQuantity": 2,
-    "RevenueTotal": 128.0
+    "SoldQuantity": 1,
+    "RevenueTotal": 64.0
   },
   {
     "ID": "24128.80.000S",
@@ -3556,13 +3598,6 @@
     "RevenueTotal": 1.99
   },
   {
-    "ID": "PP3059S",
-    "VariantID": 46166091432074,
-    "Name": "Behang Bronze stuc | Staaltje",
-    "SoldQuantity": 1,
-    "RevenueTotal": 1.99
-  },
-  {
     "ID": "111715.64.0506",
     "VariantID": 46150987808906,
     "Name": "Swimsuit Amandine | Rapture rose | Konges Slojd",
@@ -3762,8 +3797,8 @@
     "ID": "24363.60.000M",
     "VariantID": 46151063175306,
     "Name": "Pants Novi | Multi print | Studio Amaya",
-    "SoldQuantity": 4,
-    "RevenueTotal": 276.0
+    "SoldQuantity": 3,
+    "RevenueTotal": 207.0
   },
   {
     "ID": "211948.60.0030",
@@ -4469,8 +4504,8 @@
     "ID": "211473.50.000S",
     "VariantID": 46150976962698,
     "Name": "Top Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 5,
-    "RevenueTotal": 175.0
+    "SoldQuantity": 4,
+    "RevenueTotal": 140.0
   },
   {
     "ID": "24371.60.00XS",
@@ -4499,13 +4534,6 @@
     "Name": "4-in-1 Top Jolie | Wit/zand | Nukus",
     "SoldQuantity": 1,
     "RevenueTotal": 69.0
-  },
-  {
-    "ID": "211797.64.00XS",
-    "VariantID": 46150982369418,
-    "Name": "Dress Daantje | Pink | Freebird",
-    "SoldQuantity": 1,
-    "RevenueTotal": 159.0
   },
   {
     "ID": "14025.12.0708",
@@ -5029,8 +5057,8 @@
     "ID": "29472.10.0002",
     "VariantID": 46150784614538,
     "Name": "Shirt Lizzy | Volant wit | Babidu",
-    "SoldQuantity": 2,
-    "RevenueTotal": 45.9
+    "SoldQuantity": 1,
+    "RevenueTotal": 22.95
   },
   {
     "ID": "24682.14.000M",
@@ -5220,20 +5248,6 @@
     "Name": "Magic nipples | Tepelcovers | MAGIC Bodyfashion",
     "SoldQuantity": 2,
     "RevenueTotal": 30.0
-  },
-  {
-    "ID": "24178.64.000S",
-    "VariantID": 46151037485194,
-    "Name": "Pants Jill | Powder | Nukus",
-    "SoldQuantity": 1,
-    "RevenueTotal": 99.0
-  },
-  {
-    "ID": "24177.18.00XS",
-    "VariantID": 46151035912330,
-    "Name": "Pants Jill | Light sand | Nukus",
-    "SoldQuantity": 1,
-    "RevenueTotal": 99.0
   },
   {
     "ID": "14098.80.0340",
@@ -5456,8 +5470,8 @@
     "ID": "24132.50.000M",
     "VariantID": 46151026278538,
     "Name": "Top Meredith | Green print | Ydence",
-    "SoldQuantity": 2,
-    "RevenueTotal": 118.0
+    "SoldQuantity": 1,
+    "RevenueTotal": 59.0
   },
   {
     "ID": "211636.90.0038",
@@ -5465,20 +5479,6 @@
     "Name": "Top Aria | Black | A-view",
     "SoldQuantity": 1,
     "RevenueTotal": 24.0
-  },
-  {
-    "ID": "14139.64.098104",
-    "VariantID": 46151032799370,
-    "Name": "Jersey shirt Seia | Rose salmon | Baje Studio",
-    "SoldQuantity": 1,
-    "RevenueTotal": 39.0
-  },
-  {
-    "ID": "24090.14.00XS",
-    "VariantID": 46151050887306,
-    "Name": "Skort Lotti | Light ecru | JOSH V",
-    "SoldQuantity": 1,
-    "RevenueTotal": 139.0
   },
   {
     "ID": "211535.80.00S4",
@@ -6065,8 +6065,8 @@
     "ID": "211299.60.00S2",
     "VariantID": 46150876397706,
     "Name": "Top Sugar dust | Icy blue | Studio Poespas",
-    "SoldQuantity": 4,
-    "RevenueTotal": 220.0
+    "SoldQuantity": 2,
+    "RevenueTotal": 110.0
   },
   {
     "ID": "14106.90.0350",
@@ -6487,13 +6487,6 @@
     "Name": "Jeanne singlet | Melange grey | Stieglitz",
     "SoldQuantity": 1,
     "RevenueTotal": 39.0
-  },
-  {
-    "ID": "24289.80.000M",
-    "VariantID": 46151053443210,
-    "Name": "Dress Dania | Multi coral | Freebird",
-    "SoldQuantity": 2,
-    "RevenueTotal": 298.0
   },
   {
     "ID": "24121.50.000L",
@@ -7152,13 +7145,6 @@
     "Name": "Wide leg pants Mara | Green | Refined Department",
     "SoldQuantity": 4,
     "RevenueTotal": 299.8
-  },
-  {
-    "ID": "14105.80.0026",
-    "VariantID": 46151028310154,
-    "Name": "Sneakers Velcro | Burnished lilac | En Fant",
-    "SoldQuantity": 2,
-    "RevenueTotal": 84.0
   },
   {
     "ID": "24367.14.00XL",
@@ -8064,13 +8050,6 @@
     "RevenueTotal": 33.0
   },
   {
-    "ID": "24365.60.00XS",
-    "VariantID": 46151063273610,
-    "Name": "Jacket Heart | Blue | Studio Amaya",
-    "SoldQuantity": 1,
-    "RevenueTotal": 109.0
-  },
-  {
     "ID": "PP3098",
     "VariantID": 46161848795274,
     "Name": "Behang Safari | Circle of Life Collection | Staaltje",
@@ -8230,6 +8209,13 @@
     "Name": "Bomberjack Juno | Kalamata | Konges Slojd",
     "SoldQuantity": 1,
     "RevenueTotal": 77.0
+  },
+  {
+    "ID": "24289.80.000M",
+    "VariantID": 46151053443210,
+    "Name": "Dress Dania | Multi coral | Freebird",
+    "SoldQuantity": 1,
+    "RevenueTotal": 149.0
   },
   {
     "ID": "VARIANT_46162007031946",
@@ -8967,11 +8953,11 @@
     "RevenueTotal": 459.98
   },
   {
-    "ID": "PP2169S",
-    "VariantID": 46150398902410,
-    "Name": "Behang Golden leaves | Beige | Staaltje",
+    "ID": "14105.80.0026",
+    "VariantID": 46151028310154,
+    "Name": "Sneakers Velcro | Burnished lilac | En Fant",
     "SoldQuantity": 1,
-    "RevenueTotal": 1.99
+    "RevenueTotal": 42.0
   },
   {
     "ID": "PP2222",
