@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import certifi
 from dotenv import load_dotenv
 from collections import defaultdict
 
@@ -24,12 +25,18 @@ def get_next_link(headers):
     return None
 
 # 3) Haal alle betaalde orders op
+# Voeg verify=certifi.where() toe om SSL-certificaten goed te valideren
 def fetch_all_orders():
     url = f"{BASE_URL}/orders.json"
     params = {'status': 'any', 'financial_status': 'paid', 'limit': 250}
     orders = []
     while url:
-        response = requests.get(url, headers=HEADERS, params=params)
+        response = requests.get(
+            url,
+            headers=HEADERS,
+            params=params,
+            verify=certifi.where()
+        )
         response.raise_for_status()
         batch = response.json().get('orders', [])
         orders.extend(batch)
@@ -63,7 +70,6 @@ def aggregate_sales_by_variant(orders):
             record['SoldQuantity'] += quantity
             record['RevenueTotal'] += quantity * price
 
-    # Converteer naar lijst voor JSON-export
     return list(summary.values())
 
 # 5) Schrijf result naar variant_sales.json
