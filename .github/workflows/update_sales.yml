@@ -26,7 +26,8 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests python-dotenv
+        run: pip install requests python-dotenv certifi
+
 
       - name: Write .env from secrets
         run: |
