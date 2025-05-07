@@ -16,6 +16,11 @@ HEADERS = {
     'Content-Type': 'application/json'
 }
 
+# Detecteer of we in GitHub Actions draaien
+CI = os.getenv('GITHUB_ACTIONS') is not None
+# Bepaal verify-parameter: gebruik lokale certifi bundle tenzij CI, dan skip verify
+VERIFY_PARAM = False if CI else certifi.where()
+
 # ---- 2) Helper voor paginatie (vind 'next' link) ----
 def get_next_link(headers):
     link = headers.get('Link', '')
@@ -36,7 +41,7 @@ def fetch_all_orders():
             url,
             headers=HEADERS,
             params=params,
-            verify=certifi.where()
+            verify=VERIFY_PARAM
         )
         response.raise_for_status()
         batch = response.json().get('orders', [])
@@ -73,7 +78,7 @@ def main():
     data = aggregate_sales_by_variant(orders)
     with open('variant_sales.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print("✅ variant_sales.json bijgewerkt met variant_sku als ID en SSL-verify via certifi.")
+    print("✅ variant_sales.json bijgewerkt (verify={}).".format(VERIFY_PARAM))
 
 if __name__ == '__main__':
     main()
