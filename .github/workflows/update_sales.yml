@@ -24,21 +24,18 @@ jobs:
         with:
           python-version: '3.11'
 
--     - name: Install dependencies
--       run: pip install requests python-dotenv certifi
-+     - name: Install dependencies
-+       run: |
-+         # Installeer security extra van requests, plus certifi
-+         pip install requests[security] python-dotenv certifi
-+
-+     - name: Debug certifi install
-+       run: |
-+         python - << 'EOF'
-+import certifi, os
-+path = certifi.where()
-+print("certifi.where() ->", path)
-+print("Exists? ->", os.path.exists(path))
-+         EOF
+      - name: Install dependencies
+        run: |
+          pip install requests[security] python-dotenv certifi
+
+      - name: Debug certifi install
+        run: |
+          python - << 'EOF'
+          import certifi, os
+          path = certifi.where()
+          print("certifi.where() ->", path)
+          print("Exists? ->", os.path.exists(path))
+          EOF
 
       - name: Write .env from secrets
         run: |
