@@ -5,9 +5,8 @@ permissions:
 
 on:
   schedule:
-    # Draai elk uur op minuut 0
     - cron: '0 * * * *'
-  workflow_dispatch:  # handmatig trigger
+  workflow_dispatch:
 
 jobs:
   update-json:
@@ -25,9 +24,21 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests python-dotenv certifi
-
+-     - name: Install dependencies
+-       run: pip install requests python-dotenv certifi
++     - name: Install dependencies
++       run: |
++         # Installeer security extra van requests, plus certifi
++         pip install requests[security] python-dotenv certifi
++
++     - name: Debug certifi install
++       run: |
++         python - << 'EOF'
++import certifi, os
++path = certifi.where()
++print("certifi.where() ->", path)
++print("Exists? ->", os.path.exists(path))
++         EOF
 
       - name: Write .env from secrets
         run: |
