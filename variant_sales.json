@@ -1,5 +1,75 @@
 [
   {
+    "ID": "24324.59.0028",
+    "VariantID": 46205149970570,
+    "Name": "Short Yve | Light blue | Harper & Yve",
+    "SoldQuantity": 3,
+    "RevenueTotal": 219.96999999999997
+  },
+  {
+    "ID": "24324.59.0027",
+    "VariantID": 46205149937802,
+    "Name": "Short Yve | Light blue | Harper & Yve",
+    "SoldQuantity": 5,
+    "RevenueTotal": 339.95
+  },
+  {
+    "ID": "1717.94",
+    "VariantID": 46150445400202,
+    "Name": "Ketting full of love | Silver/gold kids",
+    "SoldQuantity": 1,
+    "RevenueTotal": 7.5
+  },
+  {
+    "ID": "1335.72.1111",
+    "VariantID": 46150490816650,
+    "Name": "Beanie Sam | Bruin | The New Chapter",
+    "SoldQuantity": 1,
+    "RevenueTotal": 2.5
+  },
+  {
+    "ID": "211081.12.000L",
+    "VariantID": 46150833864842,
+    "Name": "Satin lace thong | Ivory | Magic Bodyfashion",
+    "SoldQuantity": 1,
+    "RevenueTotal": 6.3
+  },
+  {
+    "ID": "211080.12.000S",
+    "VariantID": 46150832554122,
+    "Name": "Satin lace bralette | Ivory | Magic Bodyfashion",
+    "SoldQuantity": 1,
+    "RevenueTotal": 12.0
+  },
+  {
+    "ID": "111663.80",
+    "VariantID": 46151161610378,
+    "Name": "Puzzle Suki | Blue fog multi mix | Liewood",
+    "SoldQuantity": 2,
+    "RevenueTotal": 34.5
+  },
+  {
+    "ID": "211289.50.00ML",
+    "VariantID": 46150861750410,
+    "Name": "Triangel bikini Tova | Groen | 2-piece",
+    "SoldQuantity": 5,
+    "RevenueTotal": 50.0
+  },
+  {
+    "ID": "17402.60",
+    "VariantID": 46151123009674,
+    "Name": "Hamster knockout | Topanga Beach | Konges Slojd",
+    "SoldQuantity": 1,
+    "RevenueTotal": 30.0
+  },
+  {
+    "ID": "111655.80",
+    "VariantID": 46151161381002,
+    "Name": "Fishing game Sebastian | Safari/golden caramel multi mix | Liewood",
+    "SoldQuantity": 2,
+    "RevenueTotal": 30.0
+  },
+  {
     "ID": "24398.80.00ML",
     "VariantID": 46190244167818,
     "Name": "Top Shiny flowers | Orange",
@@ -10,8 +80,8 @@
     "ID": "24400.80.M",
     "VariantID": 46190242922634,
     "Name": "Skort Shiny flowers | Orange",
-    "SoldQuantity": 15,
-    "RevenueTotal": 840.75
+    "SoldQuantity": 14,
+    "RevenueTotal": 781.75
   },
   {
     "ID": "VARIANT_46161952276618",
@@ -80,15 +150,15 @@
     "ID": "211593.80.00S3",
     "VariantID": 46150976831626,
     "Name": "Top Plissé | Rainbow cake | Studio Poespas",
-    "SoldQuantity": 49,
-    "RevenueTotal": 2312.5
+    "SoldQuantity": 48,
+    "RevenueTotal": 2262.5
   },
   {
     "ID": "211595.80.00S3",
     "VariantID": 46150973948042,
     "Name": "Pants Plissé | Rainbow cake | Studio Poespas",
-    "SoldQuantity": 43,
-    "RevenueTotal": 2433.75
+    "SoldQuantity": 42,
+    "RevenueTotal": 2374.75
   },
   {
     "ID": "111752.64.0007",
@@ -896,13 +966,6 @@
     "RevenueTotal": 9.95
   },
   {
-    "ID": "111663.80",
-    "VariantID": 46151161610378,
-    "Name": "Puzzle Suki | Blue fog multi mix | Liewood",
-    "SoldQuantity": 1,
-    "RevenueTotal": 19.5
-  },
-  {
     "ID": "17413.62",
     "VariantID": 46151122944138,
     "Name": "Ki sleutels | Lilac Mix | Konges Slojd",
@@ -955,8 +1018,8 @@
     "ID": "211482.42.00S3",
     "VariantID": 46150976635018,
     "Name": "Dress Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 34,
-    "RevenueTotal": 2208.0
+    "SoldQuantity": 33,
+    "RevenueTotal": 2139.0
   },
   {
     "ID": "24034.80.0203",
@@ -1396,8 +1459,8 @@
     "ID": "211858.42",
     "VariantID": 46151164625034,
     "Name": "Oorbellen lots of love | Goud",
-    "SoldQuantity": 24,
-    "RevenueTotal": 230.0
+    "SoldQuantity": 23,
+    "RevenueTotal": 220.0
   },
   {
     "ID": "211836.80",
@@ -2268,13 +2331,6 @@
     "RevenueTotal": 25.869999999999997
   },
   {
-    "ID": "24324.59.0027",
-    "VariantID": 46205149937802,
-    "Name": "Short Yve | Light blue | Harper & Yve",
-    "SoldQuantity": 4,
-    "RevenueTotal": 259.96
-  },
-  {
     "ID": "211968.60.000S",
     "VariantID": 46151018610826,
     "Name": "Pants Anna | Jeans | Studio Amaya",
@@ -2544,8 +2600,8 @@
     "ID": "24399.80.00SM",
     "VariantID": 46190243643530,
     "Name": "Bomberjacket Shiny flowers | Orange",
-    "SoldQuantity": 23,
-    "RevenueTotal": 1777.5
+    "SoldQuantity": 22,
+    "RevenueTotal": 1698.5
   },
   {
     "ID": "24323.72.0029",
@@ -2796,8 +2852,8 @@
     "ID": "211859.60.00S3",
     "VariantID": 46151048233098,
     "Name": "Lovefest Mr blue sky | Studio Poespas",
-    "SoldQuantity": 11,
-    "RevenueTotal": 741.75
+    "SoldQuantity": 10,
+    "RevenueTotal": 672.75
   },
   {
     "ID": "111716.64.0004",
@@ -3983,13 +4039,6 @@
     "RevenueTotal": 195.5
   },
   {
-    "ID": "24324.59.0028",
-    "VariantID": 46205149970570,
-    "Name": "Short Yve | Light blue | Harper & Yve",
-    "SoldQuantity": 2,
-    "RevenueTotal": 139.98
-  },
-  {
     "ID": "211934.64.000S",
     "VariantID": 46151044399242,
     "Name": "Jacket Willow | Bittersweet pink | Harper & Yve",
@@ -4646,13 +4695,6 @@
     "Name": "Dress Diana maxi | Black | Freebird",
     "SoldQuantity": 1,
     "RevenueTotal": 99.0
-  },
-  {
-    "ID": "211644.80.00S3",
-    "VariantID": 46150965952650,
-    "Name": "Top Team | Oranje/lila | Studio Poespas",
-    "SoldQuantity": 6,
-    "RevenueTotal": 270.0
   },
   {
     "ID": "26383.90.0XXL",
@@ -5943,18 +5985,18 @@
     "RevenueTotal": 43.9
   },
   {
-    "ID": "24400.80.L",
-    "VariantID": 46190242955402,
-    "Name": "Skort Shiny flowers | Orange",
-    "SoldQuantity": 4,
-    "RevenueTotal": 236.0
-  },
-  {
     "ID": "211656.92.0028",
     "VariantID": 46150973292682,
     "Name": "Broek Yve | Dark grey | Harper & Yve",
     "SoldQuantity": 1,
     "RevenueTotal": 41.7
+  },
+  {
+    "ID": "24400.80.L",
+    "VariantID": 46190242955402,
+    "Name": "Skort Shiny flowers | Orange",
+    "SoldQuantity": 3,
+    "RevenueTotal": 177.0
   },
   {
     "ID": "24321.80.000L",
@@ -6636,13 +6678,6 @@
     "RevenueTotal": 10.0
   },
   {
-    "ID": "211289.50.00ML",
-    "VariantID": 46150861750410,
-    "Name": "Triangel bikini Tova | Groen | 2-piece",
-    "SoldQuantity": 4,
-    "RevenueTotal": 40.0
-  },
-  {
     "ID": "24169.72.000M",
     "VariantID": 46151032242314,
     "Name": "Straight leopard jeans Harvey | Leopard | Refined Department",
@@ -6818,6 +6853,13 @@
     "RevenueTotal": 144.0
   },
   {
+    "ID": "211644.80.00S3",
+    "VariantID": 46150965952650,
+    "Name": "Top Team | Oranje/lila | Studio Poespas",
+    "SoldQuantity": 5,
+    "RevenueTotal": 225.0
+  },
+  {
     "ID": "111742.64.0004",
     "VariantID": 46150992724106,
     "Name": "Sleeveless dress stripes | Nectarine | Sproet & Sprout",
@@ -6977,13 +7019,6 @@
     "Name": "Broek Yve | Bittersweet pink | Harper & Yve",
     "SoldQuantity": 3,
     "RevenueTotal": 329.96999999999997
-  },
-  {
-    "ID": "211903.64.0044",
-    "VariantID": 46151002062986,
-    "Name": "Dress Sinda | Pale rose | A-view",
-    "SoldQuantity": 1,
-    "RevenueTotal": 100.0
   },
   {
     "ID": "24396.80",
@@ -9168,13 +9203,6 @@
     "Name": "Halter bikini top cross-back | Ivoor/zwart | Ani Ani",
     "SoldQuantity": 1,
     "RevenueTotal": 35.7
-  },
-  {
-    "ID": "111655.80",
-    "VariantID": 46151161381002,
-    "Name": "Fishing game Sebastian | Safari/golden caramel multi mix | Liewood",
-    "SoldQuantity": 1,
-    "RevenueTotal": 15.0
   },
   {
     "ID": "111106.14",
