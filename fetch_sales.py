@@ -5,7 +5,7 @@ import certifi
 from dotenv import load_dotenv
 from collections import defaultdict
 
-# ---- 1) Laad credentials uit .env ----
+
 load_dotenv()
 SHOP = os.getenv('SHOP_NAME')
 TOKEN = os.getenv('ACCESS_TOKEN')
@@ -16,12 +16,12 @@ HEADERS = {
     'Content-Type': 'application/json'
 }
 
-# Detecteer of we in GitHub Actions draaien
+
 CI = os.getenv('GITHUB_ACTIONS') is not None
-# Bepaal verify-parameter: gebruik lokale certifi bundle tenzij CI, dan skip verify
+
 VERIFY_PARAM = False if CI else certifi.where()
 
-# ---- 2) Helper voor paginatie (vind 'next' link) ----
+
 def get_next_link(headers):
     link = headers.get('Link', '')
     if not link:
@@ -50,7 +50,7 @@ def fetch_all_orders():
         params = {}
     return orders
 
-# ---- 4) Aggregeer op variant_sku en exporteer als 'ID' ----
+
 def aggregate_sales_by_variant(orders):
     summary = defaultdict(lambda: {
         'ID': None,
@@ -60,16 +60,30 @@ def aggregate_sales_by_variant(orders):
         'RevenueTotal': 0.0
     })
     for order in orders:
+        # Verzamel eerst alle refunds per variant_id
+        refunded_items = defaultdict(int)
+        for refund in order.get('refunds', []):
+            for line_item in refund.get('refund_line_items', []):
+                variant_id = line_item.get('line_item', {}).get('variant_id')
+                quantity = line_item.get('quantity', 0)
+                refunded_items[variant_id] += quantity
+
         for line in order.get('line_items', []):
-            sku = line.get('sku') or f"VARIANT_{line.get('variant_id')}"
-            record = summary[sku]
-            record['ID'] = sku
-            record['VariantID'] = line.get('variant_id')
-            record['Name'] = line.get('title')
+            variant_id = line.get('variant_id')
+            sku = line.get('sku') or f"VARIANT_{variant_id}"
             quantity = line.get('quantity', 0)
             price = float(line.get('price', 0.0))
-            record['SoldQuantity'] += quantity
-            record['RevenueTotal'] += quantity * price
+
+            refunded_qty = refunded_items.get(variant_id, 0)
+            sold_qty = quantity  # <- dit is bruto verkoop
+
+            record = summary[sku]
+            record['ID'] = sku
+            record['VariantID'] = variant_id
+            record['Name'] = line.get('title')
+            record['SoldQuantity'] += sold_qty
+            record['RevenueTotal'] += sold_qty * price
+
     return list(summary.values())
 
 # ---- 5) Schrijf de data naar JSON ----
