@@ -28,15 +28,6 @@ jobs:
         run: |
           pip install requests[security] python-dotenv certifi
 
-      - name: Debug certifi install
-        run: |
-          python - << 'EOF'
-          import certifi, os
-          path = certifi.where()
-          print("certifi.where() ->", path)
-          print("Exists? ->", os.path.exists(path))
-          EOF
-
       - name: Write .env from secrets
         run: |
           echo "SHOP_NAME=${{ secrets.SHOP_NAME }}" > .env
@@ -50,3 +41,4 @@ jobs:
         with:
           commit_message: "⟳ Update variant_sales.json"
           file_pattern: variant_sales.json
+          push_options: "--force-with-lease"
