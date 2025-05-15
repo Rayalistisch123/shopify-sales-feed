@@ -57,7 +57,10 @@ def aggregate_sales_by_variant(orders):
         'VariantID': None,
         'Name': None,
         'SoldQuantity': 0,
-        'RevenueTotal': 0.0
+        'ReturnedQuantity': 0,
+        'NetQuantity': 0,
+        'GrossRevenue': 0.0,
+        'NetRevenue': 0.0
     })
     for order in orders:
         # Verzamel eerst alle refunds per variant_id
@@ -75,14 +78,18 @@ def aggregate_sales_by_variant(orders):
             price = float(line.get('price', 0.0))
 
             refunded_qty = refunded_items.get(variant_id, 0)
-            sold_qty = quantity  # <- dit is bruto verkoop
+            gross_qty = quantity  # Dit is bruto verkoop
+            net_qty = quantity - refunded_qty  # Dit is netto verkoop (na retouren)
 
             record = summary[sku]
             record['ID'] = sku
             record['VariantID'] = variant_id
             record['Name'] = line.get('title')
-            record['SoldQuantity'] += sold_qty
-            record['RevenueTotal'] += sold_qty * price
+            record['SoldQuantity'] = gross_qty  # Bruto aantal verkocht
+            record['ReturnedQuantity'] = refunded_qty  # Aantal retour
+            record['NetQuantity'] = net_qty  # Netto aantal (verkocht - retour)
+            record['GrossRevenue'] = gross_qty * price  # Bruto omzet
+            record['NetRevenue'] = net_qty * price  # Netto omzet
 
     return list(summary.values())
 
