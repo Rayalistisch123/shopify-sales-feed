@@ -19,15 +19,13 @@ HEADERS = {
     'Accept': 'application/json'
 }
 
-# ---- 2) Detecteer CI en bepaal verify-parameter ----
+# ---- 2) SSL-verificatie instellen ----
 CI = os.getenv('GITHUB_ACTIONS') is not None
 VERIFY_PARAM = False if CI else certifi.where()
 
-# ---- 3) Helper voor paginatie (vind 'next' link) ----
+# ---- 3) Paginate helper ----
 def get_next_link(headers):
     link = headers.get('Link', '')
-    if not link:
-        return None
     for part in link.split(','):
         if 'rel="next"' in part:
             return part.split(';')[0].strip()[1:-1]
@@ -38,21 +36,21 @@ def fetch_all_orders():
     url = f"{BASE_URL}/orders.json"
     params = {'status': 'any', 'financial_status': 'paid', 'limit': 250}
     orders = []
-    while url:
-        response = requests.get(
-            url,
-            headers=HEADERS,
-            params=params,
-            verify=VERIFY_PARAM
-        )
+    while True:
+        response = requests.get(url, headers=HEADERS, params=params, verify=VERIFY_PARAM)
         response.raise_for_status()
         batch = response.json().get('orders', [])
+        if not batch:
+            break
         orders.extend(batch)
-        url = get_next_link(response.headers)
+        next_link = get_next_link(response.headers)
+        if not next_link:
+            break
+        url = next_link
         params = {}
     return orders
 
-# ---- 5) Aggregatie per variant en key-accumulatie ----
+# ---- 5) Aggregatie per variant SKU ----
 def aggregate_sales_by_variant(orders):
     summary = defaultdict(lambda: {
         'ID': None,
@@ -66,7 +64,7 @@ def aggregate_sales_by_variant(orders):
     })
 
     for order in orders:
-        # Verzamel alle refunded aantallen per variant
+        # Verzamel alle geretourneerde aantallen per variant
         refunded_items = defaultdict(int)
         for refund in order.get('refunds', []):
             for li in refund.get('refund_line_items', []):
@@ -82,11 +80,10 @@ def aggregate_sales_by_variant(orders):
             price = float(line.get('price', 0.0))
 
             rec = summary[sku]
-            # statische velden
             rec['ID'] = sku
             rec['VariantID'] = vid
             rec['Name'] = line.get('title')
-            # cumulatieve velden
+            # Voeg cumulatief toe
             rec['SoldQuantity']     += gross_qty
             rec['ReturnedQuantity'] += refunded_qty
             rec['NetQuantity']      += net_qty
@@ -95,13 +92,18 @@ def aggregate_sales_by_variant(orders):
 
     return list(summary.values())
 
-# ---- 6) Schrijf de data naar JSON (overschrijft bestand) ----
+# ---- 6) Write JSON ----
 def main():
     orders = fetch_all_orders()
+    print(f"Fetched {len(orders)} orders")
     data = aggregate_sales_by_variant(orders)
+    # Debug: print count per SKU for verification
+    # for item in data:
+    #     if item['SoldQuantity'] > 1:
+    #         print(item)
     with open('variant_sales.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"✅ variant_sales.json bijgewerkt (verify={VERIFY_PARAM}).")
+    print(f"✅ variant_sales.json bijgewerkt met {len(data)} varianten (verify={VERIFY_PARAM}).")
 
 if __name__ == '__main__':
     main()
