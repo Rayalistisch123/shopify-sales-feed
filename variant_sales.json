@@ -3,11 +3,41 @@
     "ID": "24426.20",
     "VariantID": 46268589047946,
     "Name": "Family paspoort | Burgundy leopard | Studio Poespas",
-    "SoldQuantity": 138,
+    "SoldQuantity": 143,
     "ReturnedQuantity": 0,
-    "NetQuantity": 138,
-    "GrossRevenue": 4140.0,
-    "NetRevenue": 4140.0
+    "NetQuantity": 143,
+    "GrossRevenue": 4290.0,
+    "NetRevenue": 4290.0
+  },
+  {
+    "ID": "24427.18",
+    "VariantID": 46268592849034,
+    "Name": "Family paspoort | Sand leopard | Studio Poespas",
+    "SoldQuantity": 175,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 175,
+    "GrossRevenue": 5250.0,
+    "NetRevenue": 5250.0
+  },
+  {
+    "ID": "PP2169S",
+    "VariantID": 46150398902410,
+    "Name": "Behang Golden leaves | Beige | Staaltje",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 9.95,
+    "NetRevenue": 9.95
+  },
+  {
+    "ID": "211594.80.00S3",
+    "VariantID": 46150975979658,
+    "Name": "Dress Plissé | Rainbow cake | Studio Poespas",
+    "SoldQuantity": 38,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 38,
+    "GrossRevenue": 2470.0,
+    "NetRevenue": 2470.0
   },
   {
     "ID": "VARIANT_46166073835658",
@@ -18,16 +48,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 609.6,
     "NetRevenue": 609.6
-  },
-  {
-    "ID": "24427.18",
-    "VariantID": 46268592849034,
-    "Name": "Family paspoort | Sand leopard | Studio Poespas",
-    "SoldQuantity": 173,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 173,
-    "GrossRevenue": 5190.0,
-    "NetRevenue": 5190.0
   },
   {
     "ID": "211644.80.00S2",
@@ -108,16 +128,6 @@
     "NetQuantity": 60,
     "GrossRevenue": 3900.0,
     "NetRevenue": 3900.0
-  },
-  {
-    "ID": "211594.80.00S3",
-    "VariantID": 46150975979658,
-    "Name": "Dress Plissé | Rainbow cake | Studio Poespas",
-    "SoldQuantity": 37,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 37,
-    "GrossRevenue": 2405.0,
-    "NetRevenue": 2405.0
   },
   {
     "ID": "211485.50.00S3",
@@ -4978,16 +4988,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 5.97,
     "NetRevenue": 5.97
-  },
-  {
-    "ID": "PP2169S",
-    "VariantID": 46150398902410,
-    "Name": "Behang Golden leaves | Beige | Staaltje",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 7.96,
-    "NetRevenue": 7.96
   },
   {
     "ID": "11803.64",
