@@ -5,9 +5,13 @@ import certifi
 from dotenv import load_dotenv
 from collections import defaultdict
 
-# 1) Laad credentials uit .env\load_dotenv()
+# ---- 1) Laad credentials uit .env ----
+load_dotenv()
 SHOP = os.getenv('SHOP_NAME')
 TOKEN = os.getenv('ACCESS_TOKEN')
+if not SHOP or not TOKEN:
+    raise RuntimeError("Missing SHOP_NAME or ACCESS_TOKEN environment variables")
+
 API_VER = '2025-01'
 BASE_URL = f'https://{SHOP}/admin/api/{API_VER}'
 HEADERS = {
@@ -15,11 +19,11 @@ HEADERS = {
     'Accept': 'application/json'
 }
 
-# 2) Detecteer CI en bepaal verify-parameter
+# ---- 2) Detecteer CI en bepaal verify-parameter ----
 CI = os.getenv('GITHUB_ACTIONS') is not None
 VERIFY_PARAM = False if CI else certifi.where()
 
-# 3) Helper voor paginatie (vind 'next' link)
+# ---- 3) Helper voor paginatie (vind 'next' link) ----
 def get_next_link(headers):
     link = headers.get('Link', '')
     if not link:
@@ -29,16 +33,18 @@ def get_next_link(headers):
             return part.split(';')[0].strip()[1:-1]
     return None
 
-# 4) Haal alle betaalde orders op
+# ---- 4) Haal alle betaalde orders op ----
 def fetch_all_orders():
-    if not SHOP or not TOKEN:
-        raise RuntimeError("Missing SHOP_NAME or ACCESS_TOKEN environment variables")
-
     url = f"{BASE_URL}/orders.json"
     params = {'status': 'any', 'financial_status': 'paid', 'limit': 250}
     orders = []
     while url:
-        response = requests.get(url, headers=HEADERS, params=params, verify=VERIFY_PARAM)
+        response = requests.get(
+            url,
+            headers=HEADERS,
+            params=params,
+            verify=VERIFY_PARAM
+        )
         response.raise_for_status()
         batch = response.json().get('orders', [])
         orders.extend(batch)
@@ -46,7 +52,7 @@ def fetch_all_orders():
         params = {}
     return orders
 
-# 5) Aggregatie per variant en key-accumulatie
+# ---- 5) Aggregatie per variant en key-accumulatie ----
 def aggregate_sales_by_variant(orders):
     summary = defaultdict(lambda: {
         'ID': None,
@@ -60,7 +66,7 @@ def aggregate_sales_by_variant(orders):
     })
 
     for order in orders:
-        # Verzamel alle refunds per variant_id
+        # Verzamel alle refunded aantallen per variant
         refunded_items = defaultdict(int)
         for refund in order.get('refunds', []):
             for li in refund.get('refund_line_items', []):
@@ -71,12 +77,12 @@ def aggregate_sales_by_variant(orders):
             vid = line.get('variant_id')
             sku = line.get('sku') or f"VARIANT_{vid}"
             gross_qty = line.get('quantity', 0)
-            price = float(line.get('price', 0.0))
             refunded_qty = refunded_items.get(vid, 0)
             net_qty = gross_qty - refunded_qty
+            price = float(line.get('price', 0.0))
 
             rec = summary[sku]
-            # statische fields
+            # statische velden
             rec['ID'] = sku
             rec['VariantID'] = vid
             rec['Name'] = line.get('title')
@@ -85,11 +91,11 @@ def aggregate_sales_by_variant(orders):
             rec['ReturnedQuantity'] += refunded_qty
             rec['NetQuantity']      += net_qty
             rec['GrossRevenue']     += gross_qty * price
-            rec['NetRevenue']       += net_qty * price
+            rec['NetRevenue']       += net_qty   * price
 
     return list(summary.values())
 
-# 6) Schrijf de data naar JSON (overschrijft bestand)
+# ---- 6) Schrijf de data naar JSON (overschrijft bestand) ----
 def main():
     orders = fetch_all_orders()
     data = aggregate_sales_by_variant(orders)
