@@ -1,13 +1,43 @@
 [
   {
+    "ID": "24332.20.000M",
+    "VariantID": 46308188127370,
+    "Name": "Pants Lo | Bittersweet red | Harper & Yve",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 299.96999999999997,
+    "NetRevenue": 299.96999999999997
+  },
+  {
     "ID": "24336.40.000L",
     "VariantID": 46308246225034,
     "Name": "Top Yenn | Wax Yellow | Harper & Yve",
-    "SoldQuantity": 2,
+    "SoldQuantity": 3,
     "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 69.98,
-    "NetRevenue": 69.98
+    "NetQuantity": 3,
+    "GrossRevenue": 104.97,
+    "NetRevenue": 104.97
+  },
+  {
+    "ID": "24338.40.000L",
+    "VariantID": 46306049851530,
+    "Name": "Top Levy | Yellow stripe | Harper & Yve",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 69.99,
+    "NetRevenue": 69.99
+  },
+  {
+    "ID": "24331.40.000L",
+    "VariantID": 46308159717514,
+    "Name": "Short Yessie | Yellow stripe | Harper & Yve",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 59.99,
+    "NetRevenue": 59.99
   },
   {
     "ID": "PP4098C",
@@ -152,16 +182,6 @@
   {
     "ID": "24332.20.000L",
     "VariantID": 46308188160138,
-    "Name": "Pants Lo | Bittersweet red | Harper & Yve",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 199.98,
-    "NetRevenue": 199.98
-  },
-  {
-    "ID": "24332.20.000M",
-    "VariantID": 46308188127370,
     "Name": "Pants Lo | Bittersweet red | Harper & Yve",
     "SoldQuantity": 2,
     "ReturnedQuantity": 0,
