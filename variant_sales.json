@@ -1,5 +1,95 @@
 [
   {
+    "ID": "211484.50.00S2",
+    "VariantID": 46151046496394,
+    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 60,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 60,
+    "GrossRevenue": 2760.0,
+    "NetRevenue": 2760.0
+  },
+  {
+    "ID": "211486.50.00S2",
+    "VariantID": 46151047217290,
+    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 40,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 40,
+    "GrossRevenue": 2271.5,
+    "NetRevenue": 2271.5
+  },
+  {
+    "ID": "211485.50.00S2",
+    "VariantID": 46151047610506,
+    "Name": "Dress Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 68,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 68,
+    "GrossRevenue": 4420.0,
+    "NetRevenue": 4420.0
+  },
+  {
+    "ID": "24334.64.0XXL",
+    "VariantID": 46308226531466,
+    "Name": "Polo Sanny | Lovely pink | Harper & Yve",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 139.98,
+    "NetRevenue": 139.98
+  },
+  {
+    "ID": "211486.50.00S1",
+    "VariantID": 46151047184522,
+    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 28,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 28,
+    "GrossRevenue": 1563.5,
+    "NetRevenue": 1563.5
+  },
+  {
+    "ID": "211484.50.00S1",
+    "VariantID": 46151046463626,
+    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 53,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 53,
+    "GrossRevenue": 2388.0,
+    "NetRevenue": 2388.0
+  },
+  {
+    "ID": "24754.10.000S",
+    "VariantID": 46150610681994,
+    "Name": "Everybody V-neck | Snow white | MAGIC Bodyfashion",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 46.4,
+    "NetRevenue": 46.4
+  },
+  {
+    "ID": "211067.14.000M",
+    "VariantID": 46150829768842,
+    "Name": "Luxury bermuda | Shapewear | Latte | MAGIC Bodyfashion",
+    "SoldQuantity": 28,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 28,
+    "GrossRevenue": 371.7000000000001,
+    "NetRevenue": 371.7000000000001
+  },
+  {
+    "ID": "VARIANT_46165129822346",
+    "VariantID": 46165129822346,
+    "Name": "Behang Giraffe | Beige",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 5161.740000000001,
+    "NetRevenue": 5161.740000000001
+  },
+  {
     "ID": "211919.50.00XS",
     "VariantID": 46151003668618,
     "Name": "World of Stieg oversized T-shirt | Green | Stieglitz",
@@ -50,16 +140,6 @@
     "NetRevenue": 352.0
   },
   {
-    "ID": "211484.50.00S1",
-    "VariantID": 46151046463626,
-    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 52,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 52,
-    "GrossRevenue": 2340.0,
-    "NetRevenue": 2340.0
-  },
-  {
     "ID": "VARIANT_46165229830282",
     "VariantID": 46165229830282,
     "Name": "Behang Giraffe | Roze",
@@ -68,16 +148,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 2619.66,
     "NetRevenue": 2619.66
-  },
-  {
-    "ID": "211485.50.00S2",
-    "VariantID": 46151047610506,
-    "Name": "Dress Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 67,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 67,
-    "GrossRevenue": 4355.0,
-    "NetRevenue": 4355.0
   },
   {
     "ID": "211982.70.0038",
@@ -900,16 +970,6 @@
     "NetRevenue": 1980.0
   },
   {
-    "ID": "211067.14.000M",
-    "VariantID": 46150829768842,
-    "Name": "Luxury bermuda | Shapewear | Latte | MAGIC Bodyfashion",
-    "SoldQuantity": 27,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 27,
-    "GrossRevenue": 359.10000000000014,
-    "NetRevenue": 359.10000000000014
-  },
-  {
     "ID": "211982.70.0036",
     "VariantID": 46277099618442,
     "Name": "Short Jildau | Leopard | Studio Poespas",
@@ -1428,26 +1488,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 90.0,
     "NetRevenue": 90.0
-  },
-  {
-    "ID": "211484.50.00S2",
-    "VariantID": 46151046496394,
-    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 59,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 59,
-    "GrossRevenue": 2712.0,
-    "NetRevenue": 2712.0
-  },
-  {
-    "ID": "211486.50.00S2",
-    "VariantID": 46151047217290,
-    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 39,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 39,
-    "GrossRevenue": 2212.5,
-    "NetRevenue": 2212.5
   },
   {
     "ID": "PP2169S",
@@ -2600,16 +2640,6 @@
     "NetRevenue": 489.93
   },
   {
-    "ID": "211486.50.00S1",
-    "VariantID": 46151047184522,
-    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 27,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 27,
-    "GrossRevenue": 1504.5,
-    "NetRevenue": 1504.5
-  },
-  {
     "ID": "111158.80",
     "VariantID": 46151145881738,
     "Name": "Houten puzzel raket | Multi color | Konges Slojd",
@@ -2858,16 +2888,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 147.5,
     "NetRevenue": 147.5
-  },
-  {
-    "ID": "VARIANT_46165129822346",
-    "VariantID": 46165129822346,
-    "Name": "Behang Giraffe | Beige",
-    "SoldQuantity": 15,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 15,
-    "GrossRevenue": 4883.34,
-    "NetRevenue": 4883.34
   },
   {
     "ID": "24298.64.00XS",
@@ -12328,16 +12348,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 479.0,
     "NetRevenue": 479.0
-  },
-  {
-    "ID": "24754.10.000S",
-    "VariantID": 46150610681994,
-    "Name": "Everybody V-neck | Snow white | MAGIC Bodyfashion",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 23.2,
-    "NetRevenue": 23.2
   },
   {
     "ID": "211778.50.000M",
