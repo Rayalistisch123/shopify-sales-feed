@@ -3,21 +3,81 @@
     "ID": "24427.18",
     "VariantID": 46268592849034,
     "Name": "Family paspoort | Sand leopard | Studio Poespas",
-    "SoldQuantity": 208,
+    "SoldQuantity": 209,
     "ReturnedQuantity": 0,
-    "NetQuantity": 208,
-    "GrossRevenue": 6240.0,
-    "NetRevenue": 6240.0
+    "NetQuantity": 209,
+    "GrossRevenue": 6270.0,
+    "NetRevenue": 6270.0
+  },
+  {
+    "ID": "211668.90.00SM",
+    "VariantID": 46150949765258,
+    "Name": "Off-shoulder top Idra | Zwart",
+    "SoldQuantity": 21,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 21,
+    "GrossRevenue": 830.0,
+    "NetRevenue": 830.0
+  },
+  {
+    "ID": "24287.50.000S",
+    "VariantID": 46151053082762,
+    "Name": "Dress Bonne | Sage green | Freebird",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 357.0,
+    "NetRevenue": 357.0
   },
   {
     "ID": "211982.70.0036",
     "VariantID": 46277099618442,
     "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 42,
+    "SoldQuantity": 43,
     "ReturnedQuantity": 0,
-    "NetQuantity": 42,
-    "GrossRevenue": 1890.0,
-    "NetRevenue": 1890.0
+    "NetQuantity": 43,
+    "GrossRevenue": 1935.0,
+    "NetRevenue": 1935.0
+  },
+  {
+    "ID": "24394.80",
+    "VariantID": 46181897175178,
+    "Name": "Telefoonkoord Mia | Lang | Taupe pink",
+    "SoldQuantity": 23,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 23,
+    "GrossRevenue": 230.0,
+    "NetRevenue": 230.0
+  },
+  {
+    "ID": "28300.80",
+    "VariantID": 46151131529354,
+    "Name": "Weekly planner | A4 | Studio Poespas",
+    "SoldQuantity": 17,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 17,
+    "GrossRevenue": 80.6,
+    "NetRevenue": 80.6
+  },
+  {
+    "ID": "24425.80",
+    "VariantID": 46264548753546,
+    "Name": "Telefoonkoord tiny Sugar Hearts | Yellow pink | Studio Poespas",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 20.0,
+    "NetRevenue": 20.0
+  },
+  {
+    "ID": "24424.80",
+    "VariantID": 46264545640586,
+    "Name": "Telefoonkoord tiny Sugar Hearts | Orange purple | Studio Poespas",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 30.0,
+    "NetRevenue": 30.0
   },
   {
     "ID": "24287.50.00XS",
@@ -88,16 +148,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 47.25,
     "NetRevenue": 47.25
-  },
-  {
-    "ID": "24425.80",
-    "VariantID": 46264548753546,
-    "Name": "Telefoonkoord tiny Sugar Hearts | Yellow pink | Studio Poespas",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 10.0,
-    "NetRevenue": 10.0
   },
   {
     "ID": "211475.50.000M",
@@ -450,16 +500,6 @@
     "NetRevenue": 3.98
   },
   {
-    "ID": "24394.80",
-    "VariantID": 46181897175178,
-    "Name": "Telefoonkoord Mia | Lang | Taupe pink",
-    "SoldQuantity": 22,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 22,
-    "GrossRevenue": 220.0,
-    "NetRevenue": 220.0
-  },
-  {
     "ID": "211945.64.00XL",
     "VariantID": 46151052984458,
     "Name": "Top Flora | Iconic rose | Harper & Yve",
@@ -660,16 +700,6 @@
     "NetRevenue": 1180.17
   },
   {
-    "ID": "28300.80",
-    "VariantID": 46151131529354,
-    "Name": "Weekly planner | A4 | Studio Poespas",
-    "SoldQuantity": 16,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 16,
-    "GrossRevenue": 73.1,
-    "NetRevenue": 73.1
-  },
-  {
     "ID": "211484.50.00S1",
     "VariantID": 46151046463626,
     "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
@@ -778,16 +808,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 11.95,
     "NetRevenue": 11.95
-  },
-  {
-    "ID": "24424.80",
-    "VariantID": 46264545640586,
-    "Name": "Telefoonkoord tiny Sugar Hearts | Orange purple | Studio Poespas",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 20.0,
-    "NetRevenue": 20.0
   },
   {
     "ID": "211644.80.00S1",
@@ -1008,16 +1028,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 40.0,
     "NetRevenue": 40.0
-  },
-  {
-    "ID": "211668.90.00SM",
-    "VariantID": 46150949765258,
-    "Name": "Off-shoulder top Idra | Zwart",
-    "SoldQuantity": 20,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 20,
-    "GrossRevenue": 790.0,
-    "NetRevenue": 790.0
   },
   {
     "ID": "211595.80.00S1",
@@ -13748,16 +13758,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 40.0,
     "NetRevenue": 40.0
-  },
-  {
-    "ID": "24287.50.000S",
-    "VariantID": 46151053082762,
-    "Name": "Dress Bonne | Sage green | Freebird",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 238.0,
-    "NetRevenue": 238.0
   },
   {
     "ID": "VARIANT_46172493119626",
