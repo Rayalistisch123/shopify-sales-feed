@@ -1,5 +1,65 @@
 [
   {
+    "ID": "211982.70.0040",
+    "VariantID": 46277099683978,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 49,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 49,
+    "GrossRevenue": 2205.0,
+    "NetRevenue": 2205.0
+  },
+  {
+    "ID": "211644.80.00S1",
+    "VariantID": 46150965887114,
+    "Name": "Top Team | Oranje/lila | Studio Poespas",
+    "SoldQuantity": 67,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 67,
+    "GrossRevenue": 3015.0,
+    "NetRevenue": 3015.0
+  },
+  {
+    "ID": "211485.50.00S1",
+    "VariantID": 46151047577738,
+    "Name": "Dress Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 79,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 79,
+    "GrossRevenue": 5135.0,
+    "NetRevenue": 5135.0
+  },
+  {
+    "ID": "211982.70.0038",
+    "VariantID": 46277099651210,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 67,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 67,
+    "GrossRevenue": 3015.0,
+    "NetRevenue": 3015.0
+  },
+  {
+    "ID": "24426.20",
+    "VariantID": 46268589047946,
+    "Name": "Family paspoort | Burgundy leopard | Studio Poespas",
+    "SoldQuantity": 175,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 175,
+    "GrossRevenue": 5250.0,
+    "NetRevenue": 5250.0
+  },
+  {
+    "ID": "24391.80",
+    "VariantID": 46181894881418,
+    "Name": "Crossbody bag Stripe-a-licious | Red pink | Studio Poespas",
+    "SoldQuantity": 44,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 44,
+    "GrossRevenue": 1056.25,
+    "NetRevenue": 1056.25
+  },
+  {
     "ID": "211982.70.0042",
     "VariantID": 46277099716746,
     "Name": "Short Jildau | Leopard | Studio Poespas",
@@ -38,16 +98,6 @@
     "NetQuantity": 16,
     "GrossRevenue": 527.0,
     "NetRevenue": 527.0
-  },
-  {
-    "ID": "211982.70.0038",
-    "VariantID": 46277099651210,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 66,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 66,
-    "GrossRevenue": 2970.0,
-    "NetRevenue": 2970.0
   },
   {
     "ID": "24334.64.000S",
@@ -118,16 +168,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 595.0,
     "NetRevenue": 595.0
-  },
-  {
-    "ID": "211485.50.00S1",
-    "VariantID": 46151047577738,
-    "Name": "Dress Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 78,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 78,
-    "GrossRevenue": 5070.0,
-    "NetRevenue": 5070.0
   },
   {
     "ID": "211595.80.00S2",
@@ -300,16 +340,6 @@
     "NetRevenue": 1649.2500000000005
   },
   {
-    "ID": "24426.20",
-    "VariantID": 46268589047946,
-    "Name": "Family paspoort | Burgundy leopard | Studio Poespas",
-    "SoldQuantity": 174,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 174,
-    "GrossRevenue": 5220.0,
-    "NetRevenue": 5220.0
-  },
-  {
     "ID": "24409.60.000M",
     "VariantID": 46240154157194,
     "Name": "Oversized cropped blouse Mary | Blue denim | Refined Department",
@@ -380,16 +410,6 @@
     "NetRevenue": 450.0
   },
   {
-    "ID": "211644.80.00S1",
-    "VariantID": 46150965887114,
-    "Name": "Top Team | Oranje/lila | Studio Poespas",
-    "SoldQuantity": 66,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 66,
-    "GrossRevenue": 2970.0,
-    "NetRevenue": 2970.0
-  },
-  {
     "ID": "211085.64.00S1",
     "VariantID": 46150874464394,
     "Name": "Top Smoothielicious | Studio Poespas",
@@ -448,16 +468,6 @@
     "NetQuantity": 23,
     "GrossRevenue": 215.0,
     "NetRevenue": 215.0
-  },
-  {
-    "ID": "24391.80",
-    "VariantID": 46181894881418,
-    "Name": "Crossbody bag Stripe-a-licious | Red pink | Studio Poespas",
-    "SoldQuantity": 43,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 43,
-    "GrossRevenue": 1031.25,
-    "NetRevenue": 1031.25
   },
   {
     "ID": "24333.20.000L",
@@ -628,16 +638,6 @@
     "NetQuantity": 23,
     "GrossRevenue": 293.0,
     "NetRevenue": 293.0
-  },
-  {
-    "ID": "211982.70.0040",
-    "VariantID": 46277099683978,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 46,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 46,
-    "GrossRevenue": 2070.0,
-    "NetRevenue": 2070.0
   },
   {
     "ID": "24748.14.00XL",
