@@ -1,13 +1,83 @@
 [
   {
+    "ID": "24463..XXXL",
+    "VariantID": 46321642864778,
+    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 200.0,
+    "NetRevenue": 200.0
+  },
+  {
     "ID": "24460.52.000M",
     "VariantID": 46321641029770,
     "Name": "T-Shirt 90's Kid | Mint | Studio Poespas",
-    "SoldQuantity": 21,
+    "SoldQuantity": 22,
     "ReturnedQuantity": 0,
-    "NetQuantity": 21,
-    "GrossRevenue": 840.0,
-    "NetRevenue": 840.0
+    "NetQuantity": 22,
+    "GrossRevenue": 880.0,
+    "NetRevenue": 880.0
+  },
+  {
+    "ID": "23341.60.0036",
+    "VariantID": 46150637518986,
+    "Name": "Broek Sam | Wide leg | Tibetan blue | Studio Poespas",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 94.8,
+    "NetRevenue": 94.8
+  },
+  {
+    "ID": "211875.80.00S3",
+    "VariantID": 46151056818314,
+    "Name": "Soccer Tee | Pink vs. Navy | Studio Poespas",
+    "SoldQuantity": 54,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 54,
+    "GrossRevenue": 3120.0,
+    "NetRevenue": 3120.0
+  },
+  {
+    "ID": "211836.80",
+    "VariantID": 46151164264586,
+    "Name": "Telefoonkoord Meis | Lang | Mintgroen/roze",
+    "SoldQuantity": 15,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 15,
+    "GrossRevenue": 142.5,
+    "NetRevenue": 142.5
+  },
+  {
+    "ID": "24393.80",
+    "VariantID": 46181895897226,
+    "Name": "Telefoonkoord Sweet stripes | Orange pink | Studio Poespas",
+    "SoldQuantity": 24,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 24,
+    "GrossRevenue": 227.5,
+    "NetRevenue": 227.5
+  },
+  {
+    "ID": "211595.80.00S3",
+    "VariantID": 46150973948042,
+    "Name": "Pants Plissé | Rainbow cake | Studio Poespas",
+    "SoldQuantity": 74,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 74,
+    "GrossRevenue": 4262.75,
+    "NetRevenue": 4262.75
+  },
+  {
+    "ID": "VARIANT_46166037758090",
+    "VariantID": 46166037758090,
+    "Name": "Behang Desert animals | Background | Taupe",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 877.5400000000001,
+    "NetRevenue": 877.5400000000001
   },
   {
     "ID": "24463..000L",
@@ -258,16 +328,6 @@
     "NetQuantity": 45,
     "GrossRevenue": 2068.0,
     "NetRevenue": 2068.0
-  },
-  {
-    "ID": "24463..XXXL",
-    "VariantID": 46321642864778,
-    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 160.0,
-    "NetRevenue": 160.0
   },
   {
     "ID": "24313.80.0002",
@@ -1950,16 +2010,6 @@
     "NetRevenue": 139.98
   },
   {
-    "ID": "VARIANT_46166037758090",
-    "VariantID": 46166037758090,
-    "Name": "Behang Desert animals | Background | Taupe",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 648.1800000000001,
-    "NetRevenue": 648.1800000000001
-  },
-  {
     "ID": "211877.82.00S3",
     "VariantID": 46165589819530,
     "Name": "Top V-vibe | St Tropez | Studio Poespas",
@@ -2190,16 +2240,6 @@
     "NetRevenue": 389.06
   },
   {
-    "ID": "211836.80",
-    "VariantID": 46151164264586,
-    "Name": "Telefoonkoord Meis | Lang | Mintgroen/roze",
-    "SoldQuantity": 14,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 14,
-    "GrossRevenue": 132.5,
-    "NetRevenue": 132.5
-  },
-  {
     "ID": "PPBBD-1198-12 maanden (1 jaar)",
     "VariantID": 46150425018506,
     "Name": "Romper Juul | Embroidery | Babidu",
@@ -2248,16 +2288,6 @@
     "NetQuantity": 22,
     "GrossRevenue": 827.75,
     "NetRevenue": 827.75
-  },
-  {
-    "ID": "211875.80.00S3",
-    "VariantID": 46151056818314,
-    "Name": "Soccer Tee | Pink vs. Navy | Studio Poespas",
-    "SoldQuantity": 53,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 53,
-    "GrossRevenue": 3060.0,
-    "NetRevenue": 3060.0
   },
   {
     "ID": "24427.18",
@@ -2758,16 +2788,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 37.5,
     "NetRevenue": 37.5
-  },
-  {
-    "ID": "24393.80",
-    "VariantID": 46181895897226,
-    "Name": "Telefoonkoord Sweet stripes | Orange pink | Studio Poespas",
-    "SoldQuantity": 23,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 23,
-    "GrossRevenue": 217.5,
-    "NetRevenue": 217.5
   },
   {
     "ID": "24299.80.000S",
@@ -4568,16 +4588,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 134.0,
     "NetRevenue": 134.0
-  },
-  {
-    "ID": "211595.80.00S3",
-    "VariantID": 46150973948042,
-    "Name": "Pants Plissé | Rainbow cake | Studio Poespas",
-    "SoldQuantity": 73,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 73,
-    "GrossRevenue": 4203.75,
-    "NetRevenue": 4203.75
   },
   {
     "ID": "24332.20.000L",
@@ -15998,16 +16008,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 49.99,
     "NetRevenue": 49.99
-  },
-  {
-    "ID": "23341.60.0036",
-    "VariantID": 46150637518986,
-    "Name": "Broek Sam | Wide leg | Tibetan blue | Studio Poespas",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 79.0,
-    "NetRevenue": 79.0
   },
   {
     "ID": "111528.50.00S2",
