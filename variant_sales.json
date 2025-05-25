@@ -1,13 +1,153 @@
 [
   {
+    "ID": "PP.TP.VLK-20",
+    "VariantID": 46150386647178,
+    "Name": "Teddy pantoffels | Vegan leather & klittenband",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 52.5,
+    "NetRevenue": 52.5
+  },
+  {
+    "ID": "111651.80",
+    "VariantID": 46151161151626,
+    "Name": "Teether ball Jasmin | Mustard peppermint mix | 2-pack | Liewood",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 64.0,
+    "NetRevenue": 64.0
+  },
+  {
     "ID": "24459.80.000S",
     "VariantID": 46301812097162,
     "Name": "Zomerjurkje Kim | Multicolor | Je m’appelle x Poespas",
-    "SoldQuantity": 38,
+    "SoldQuantity": 40,
     "ReturnedQuantity": 0,
-    "NetQuantity": 38,
-    "GrossRevenue": 1443.2400000000005,
-    "NetRevenue": 1443.2400000000005
+    "NetQuantity": 40,
+    "GrossRevenue": 1519.2000000000005,
+    "NetRevenue": 1519.2000000000005
+  },
+  {
+    "ID": "11976.92.00S2",
+    "VariantID": 46324561739914,
+    "Name": "Top Amore | Grey Melange | Studio Poespas",
+    "SoldQuantity": 18,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 18,
+    "GrossRevenue": 990.0,
+    "NetRevenue": 990.0
+  },
+  {
+    "ID": "211897.94.00S2",
+    "VariantID": 46271851921546,
+    "Name": "Top tarte tatin | Silver | Studio Poespas",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 78.0,
+    "NetRevenue": 78.0
+  },
+  {
+    "ID": "24458.80.000M",
+    "VariantID": 46301800661130,
+    "Name": "Maxi dress Kim  | Multicolor | Je m’appelle x Poespas",
+    "SoldQuantity": 29,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 29,
+    "GrossRevenue": 1159.4200000000003,
+    "NetRevenue": 1159.4200000000003
+  },
+  {
+    "ID": "24463..000L",
+    "VariantID": 46321642766474,
+    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
+    "SoldQuantity": 18,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 18,
+    "GrossRevenue": 720.0,
+    "NetRevenue": 720.0
+  },
+  {
+    "ID": "211879.80.00S3",
+    "VariantID": 46165652209802,
+    "Name": "Top V-vibe | Marrakech | Studio Poespas",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 215.0,
+    "NetRevenue": 215.0
+  },
+  {
+    "ID": "211879.80.00S2",
+    "VariantID": 46165652177034,
+    "Name": "Top V-vibe | Marrakech | Studio Poespas",
+    "SoldQuantity": 26,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 26,
+    "GrossRevenue": 1107.25,
+    "NetRevenue": 1107.25
+  },
+  {
+    "ID": "24377.20.00S2",
+    "VariantID": 46328179687562,
+    "Name": "Wavy Pants | Burgundy | Studio Poespas",
+    "SoldQuantity": 11,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 11,
+    "GrossRevenue": 649.0,
+    "NetRevenue": 649.0
+  },
+  {
+    "ID": "24377.20.00S3",
+    "VariantID": 46328179720330,
+    "Name": "Wavy Pants | Burgundy | Studio Poespas",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 413.0,
+    "NetRevenue": 413.0
+  },
+  {
+    "ID": "24161.90.000M",
+    "VariantID": 46151030603914,
+    "Name": "Off-shoulder blouse Montana | Black | Refined Department",
+    "SoldQuantity": 12,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 12,
+    "GrossRevenue": 563.5,
+    "NetRevenue": 563.5
+  },
+  {
+    "ID": "211483.42.00S1",
+    "VariantID": 46150977552522,
+    "Name": "Pants Plissé | Pink champagne | Studio Poespas",
+    "SoldQuantity": 22,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 22,
+    "GrossRevenue": 1224.25,
+    "NetRevenue": 1224.25
+  },
+  {
+    "ID": "24376.62.00S3",
+    "VariantID": 46324526645386,
+    "Name": "Wavy Pants | Lilac | Studio Poespas",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 413.0,
+    "NetRevenue": 413.0
+  },
+  {
+    "ID": "211898.92.00S1",
+    "VariantID": 46324551581834,
+    "Name": "Top Snøpske | Grey | Studio Poespas",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 756.0,
+    "NetRevenue": 756.0
   },
   {
     "ID": "11977.64.00S2",
@@ -48,26 +188,6 @@
     "NetQuantity": 68,
     "GrossRevenue": 3144.0,
     "NetRevenue": 3144.0
-  },
-  {
-    "ID": "24458.80.000M",
-    "VariantID": 46301800661130,
-    "Name": "Maxi dress Kim  | Multicolor | Je m’appelle x Poespas",
-    "SoldQuantity": 27,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 27,
-    "GrossRevenue": 1079.4600000000003,
-    "NetRevenue": 1079.4600000000003
-  },
-  {
-    "ID": "11976.92.00S2",
-    "VariantID": 46324561739914,
-    "Name": "Top Amore | Grey Melange | Studio Poespas",
-    "SoldQuantity": 17,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 935.0,
-    "NetRevenue": 935.0
   },
   {
     "ID": "24458.80.000S",
@@ -260,16 +380,6 @@
     "NetRevenue": 240.0
   },
   {
-    "ID": "111651.80",
-    "VariantID": 46151161151626,
-    "Name": "Teether ball Jasmin | Mustard peppermint mix | 2-pack | Liewood",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 48.0,
-    "NetRevenue": 48.0
-  },
-  {
     "ID": "24463..000S",
     "VariantID": 46321642700938,
     "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
@@ -448,16 +558,6 @@
     "NetQuantity": 9,
     "GrossRevenue": 495.0,
     "NetRevenue": 495.0
-  },
-  {
-    "ID": "24377.20.00S2",
-    "VariantID": 46328179687562,
-    "Name": "Wavy Pants | Burgundy | Studio Poespas",
-    "SoldQuantity": 10,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 10,
-    "GrossRevenue": 590.0,
-    "NetRevenue": 590.0
   },
   {
     "ID": "24460.52.00XL",
@@ -680,16 +780,6 @@
     "NetRevenue": 612.75
   },
   {
-    "ID": "24376.62.00S3",
-    "VariantID": 46324526645386,
-    "Name": "Wavy Pants | Lilac | Studio Poespas",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 354.0,
-    "NetRevenue": 354.0
-  },
-  {
     "ID": "211300.80.00S3",
     "VariantID": 46150876823690,
     "Name": "Cardigan Bonbon | White & black | Studio Poespas",
@@ -760,26 +850,6 @@
     "NetRevenue": 924.5
   },
   {
-    "ID": "211879.80.00S2",
-    "VariantID": 46165652177034,
-    "Name": "Top V-vibe | Marrakech | Studio Poespas",
-    "SoldQuantity": 25,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 25,
-    "GrossRevenue": 1064.25,
-    "NetRevenue": 1064.25
-  },
-  {
-    "ID": "24377.20.00S3",
-    "VariantID": 46328179720330,
-    "Name": "Wavy Pants | Burgundy | Studio Poespas",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 354.0,
-    "NetRevenue": 354.0
-  },
-  {
     "ID": "211834.80",
     "VariantID": 46151164035210,
     "Name": "Telefoonkoord Mia | Kort | Paars/blauw",
@@ -828,16 +898,6 @@
     "NetQuantity": 16,
     "GrossRevenue": 210.0,
     "NetRevenue": 210.0
-  },
-  {
-    "ID": "24463..000L",
-    "VariantID": 46321642766474,
-    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
-    "SoldQuantity": 17,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 680.0,
-    "NetRevenue": 680.0
   },
   {
     "ID": "211979.8000S3",
@@ -898,16 +958,6 @@
     "NetQuantity": 45,
     "GrossRevenue": 2250.0,
     "NetRevenue": 2250.0
-  },
-  {
-    "ID": "211898.92.00S1",
-    "VariantID": 46324551581834,
-    "Name": "Top Snøpske | Grey | Studio Poespas",
-    "SoldQuantity": 13,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 13,
-    "GrossRevenue": 702.0,
-    "NetRevenue": 702.0
   },
   {
     "ID": "24421.64",
@@ -1168,16 +1218,6 @@
     "NetQuantity": 26,
     "GrossRevenue": 1175.0,
     "NetRevenue": 1175.0
-  },
-  {
-    "ID": "PP.TP.VLK-20",
-    "VariantID": 46150386647178,
-    "Name": "Teddy pantoffels | Vegan leather & klittenband",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 45.0,
-    "NetRevenue": 45.0
   },
   {
     "ID": "211880.60.000L",
@@ -1478,16 +1518,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 95.0,
     "NetRevenue": 95.0
-  },
-  {
-    "ID": "211897.94.00S2",
-    "VariantID": 46271851921546,
-    "Name": "Top tarte tatin | Silver | Studio Poespas",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 39.0,
-    "NetRevenue": 39.0
   },
   {
     "ID": "211744.80.00S3",
@@ -2208,16 +2238,6 @@
     "NetQuantity": 11,
     "GrossRevenue": 481.75,
     "NetRevenue": 481.75
-  },
-  {
-    "ID": "211879.80.00S3",
-    "VariantID": 46165652209802,
-    "Name": "Top V-vibe | Marrakech | Studio Poespas",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 172.0,
-    "NetRevenue": 172.0
   },
   {
     "ID": "211919.50.000L",
@@ -3528,16 +3548,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 419.94,
     "NetRevenue": 419.94
-  },
-  {
-    "ID": "24161.90.000M",
-    "VariantID": 46151030603914,
-    "Name": "Off-shoulder blouse Montana | Black | Refined Department",
-    "SoldQuantity": 11,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 11,
-    "GrossRevenue": 514.5,
-    "NetRevenue": 514.5
   },
   {
     "ID": "211569.80",
@@ -7238,16 +7248,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 324.0,
     "NetRevenue": 324.0
-  },
-  {
-    "ID": "211483.42.00S1",
-    "VariantID": 46150977552522,
-    "Name": "Pants Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 21,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 21,
-    "GrossRevenue": 1165.25,
-    "NetRevenue": 1165.25
   },
   {
     "ID": "211878.80.00S1",
