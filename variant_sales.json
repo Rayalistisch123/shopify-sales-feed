@@ -1,23 +1,73 @@
 [
   {
-    "ID": "24459.80.000S",
-    "VariantID": 46301812097162,
-    "Name": "Zomerjurkje Kim | Multicolor | Je m’appelle x Poespas",
-    "SoldQuantity": 69,
+    "ID": "24241.64.00S2",
+    "VariantID": 46151057768586,
+    "Name": "Top tarte tatin | Pink | Studio Poespas",
+    "SoldQuantity": 32,
     "ReturnedQuantity": 0,
-    "NetQuantity": 69,
-    "GrossRevenue": 2620.620000000001,
-    "NetRevenue": 2620.620000000001
+    "NetQuantity": 32,
+    "GrossRevenue": 1217.75,
+    "NetRevenue": 1217.75
   },
   {
     "ID": "11976.92.00S2",
     "VariantID": 46324561739914,
     "Name": "Top Amore | Grey Melange | Studio Poespas",
-    "SoldQuantity": 30,
+    "SoldQuantity": 32,
     "ReturnedQuantity": 0,
-    "NetQuantity": 30,
-    "GrossRevenue": 1650.0,
-    "NetRevenue": 1650.0
+    "NetQuantity": 32,
+    "GrossRevenue": 1760.0,
+    "NetRevenue": 1760.0
+  },
+  {
+    "ID": "24459.80.000S",
+    "VariantID": 46301812097162,
+    "Name": "Zomerjurkje Kim | Multicolor | Je m’appelle x Poespas",
+    "SoldQuantity": 70,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 70,
+    "GrossRevenue": 2658.600000000001,
+    "NetRevenue": 2658.600000000001
+  },
+  {
+    "ID": "211473.50.000L",
+    "VariantID": 46150977028234,
+    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 485.0,
+    "NetRevenue": 485.0
+  },
+  {
+    "ID": "211475.50.000L",
+    "VariantID": 46150977847434,
+    "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
+    "SoldQuantity": 24,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 24,
+    "GrossRevenue": 834.6999999999997,
+    "NetRevenue": 834.6999999999997
+  },
+  {
+    "ID": "211475.50.0XXL",
+    "VariantID": 46150977912970,
+    "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
+    "SoldQuantity": 19,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 19,
+    "GrossRevenue": 568.55,
+    "NetRevenue": 568.55
+  },
+  {
+    "ID": "211473.50.0XXL",
+    "VariantID": 46150977093770,
+    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 190.0,
+    "NetRevenue": 190.0
   },
   {
     "ID": "24458.80.000S",
@@ -290,16 +340,6 @@
     "NetRevenue": 770.0
   },
   {
-    "ID": "211475.50.000L",
-    "VariantID": 46150977847434,
-    "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 23,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 23,
-    "GrossRevenue": 824.6999999999997,
-    "NetRevenue": 824.6999999999997
-  },
-  {
     "ID": "211595.80.00S2",
     "VariantID": 46150973915274,
     "Name": "Pants Plissé | Rainbow cake | Studio Poespas",
@@ -370,16 +410,6 @@
     "NetRevenue": 60.0
   },
   {
-    "ID": "211475.50.0XXL",
-    "VariantID": 46150977912970,
-    "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 18,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 18,
-    "GrossRevenue": 558.55,
-    "NetRevenue": 558.55
-  },
-  {
     "ID": "24387.80",
     "VariantID": 46181890883722,
     "Name": "Sleutelhanger Shiny lips | Studio Poespas",
@@ -438,16 +468,6 @@
     "NetQuantity": 23,
     "GrossRevenue": 967.5,
     "NetRevenue": 967.5
-  },
-  {
-    "ID": "24241.64.00S2",
-    "VariantID": 46151057768586,
-    "Name": "Top tarte tatin | Pink | Studio Poespas",
-    "SoldQuantity": 31,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 31,
-    "GrossRevenue": 1178.75,
-    "NetRevenue": 1178.75
   },
   {
     "ID": "24279.80.0002",
@@ -850,16 +870,6 @@
     "NetRevenue": 277.5
   },
   {
-    "ID": "211473.50.000L",
-    "VariantID": 46150977028234,
-    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 15,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 15,
-    "GrossRevenue": 475.0,
-    "NetRevenue": 475.0
-  },
-  {
     "ID": "211475.50.000M",
     "VariantID": 46150977814666,
     "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
@@ -928,16 +938,6 @@
     "NetQuantity": 14,
     "GrossRevenue": 60.74,
     "NetRevenue": 60.74
-  },
-  {
-    "ID": "211473.50.0XXL",
-    "VariantID": 46150977093770,
-    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 180.0,
-    "NetRevenue": 180.0
   },
   {
     "ID": "24334.64.000M",
