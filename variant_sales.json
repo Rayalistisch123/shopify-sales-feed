@@ -1,23 +1,73 @@
 [
   {
+    "ID": "24459.80.000M",
+    "VariantID": 46301812129930,
+    "Name": "Zomerjurkje Kim | Multicolor | Je m’appelle x Poespas",
+    "SoldQuantity": 92,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 92,
+    "GrossRevenue": 3494.160000000001,
+    "NetRevenue": 3494.160000000001
+  },
+  {
     "ID": "24463..000M",
     "VariantID": 46321642733706,
     "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
-    "SoldQuantity": 28,
+    "SoldQuantity": 30,
     "ReturnedQuantity": 0,
-    "NetQuantity": 28,
-    "GrossRevenue": 1120.0,
-    "NetRevenue": 1120.0
+    "NetQuantity": 30,
+    "GrossRevenue": 1200.0,
+    "NetRevenue": 1200.0
   },
   {
     "ID": "24458.80.000M",
     "VariantID": 46301800661130,
     "Name": "Maxi dress Kim  | Multicolor | Je m’appelle x Poespas",
-    "SoldQuantity": 60,
+    "SoldQuantity": 61,
     "ReturnedQuantity": 0,
-    "NetQuantity": 60,
-    "GrossRevenue": 2398.8000000000006,
-    "NetRevenue": 2398.8000000000006
+    "NetQuantity": 61,
+    "GrossRevenue": 2438.7800000000007,
+    "NetRevenue": 2438.7800000000007
+  },
+  {
+    "ID": "24334.64.000M",
+    "VariantID": 46308226433162,
+    "Name": "Polo Sanny | Lovely pink | Harper & Yve",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 279.96,
+    "NetRevenue": 279.96
+  },
+  {
+    "ID": "211475.50.00XL",
+    "VariantID": 46150977880202,
+    "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
+    "SoldQuantity": 20,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 20,
+    "GrossRevenue": 638.1999999999999,
+    "NetRevenue": 638.1999999999999
+  },
+  {
+    "ID": "211473.50.000L",
+    "VariantID": 46150977028234,
+    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
+    "SoldQuantity": 19,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 19,
+    "GrossRevenue": 515.0,
+    "NetRevenue": 515.0
+  },
+  {
+    "ID": "211595.80.00S2",
+    "VariantID": 46150973915274,
+    "Name": "Pants Plissé | Rainbow cake | Studio Poespas",
+    "SoldQuantity": 128,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 128,
+    "GrossRevenue": 7434.0,
+    "NetRevenue": 7434.0
   },
   {
     "ID": "111668.80",
@@ -70,16 +120,6 @@
     "NetRevenue": 240.0
   },
   {
-    "ID": "211475.50.00XL",
-    "VariantID": 46150977880202,
-    "Name": "Broek Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 19,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 19,
-    "GrossRevenue": 628.1999999999999,
-    "NetRevenue": 628.1999999999999
-  },
-  {
     "ID": "211860.64.000L",
     "VariantID": 46150989086858,
     "Name": "Glitter dress sparkling | Cotton candy | Studio Poespas",
@@ -88,16 +128,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 450.0,
     "NetRevenue": 450.0
-  },
-  {
-    "ID": "24459.80.000M",
-    "VariantID": 46301812129930,
-    "Name": "Zomerjurkje Kim | Multicolor | Je m’appelle x Poespas",
-    "SoldQuantity": 91,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 91,
-    "GrossRevenue": 3456.180000000001,
-    "NetRevenue": 3456.180000000001
   },
   {
     "ID": "PP4097CS",
@@ -840,16 +870,6 @@
     "NetRevenue": 250.0
   },
   {
-    "ID": "211595.80.00S2",
-    "VariantID": 46150973915274,
-    "Name": "Pants Plissé | Rainbow cake | Studio Poespas",
-    "SoldQuantity": 127,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 127,
-    "GrossRevenue": 7375.0,
-    "NetRevenue": 7375.0
-  },
-  {
     "ID": "24377.20.00S3",
     "VariantID": 46328179720330,
     "Name": "Wavy Pants | Burgundy | Studio Poespas",
@@ -938,16 +958,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 70.0,
     "NetRevenue": 70.0
-  },
-  {
-    "ID": "211473.50.000L",
-    "VariantID": 46150977028234,
-    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 18,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 18,
-    "GrossRevenue": 505.0,
-    "NetRevenue": 505.0
   },
   {
     "ID": "24380.80.000S",
@@ -1988,16 +1998,6 @@
     "NetQuantity": 14,
     "GrossRevenue": 60.74,
     "NetRevenue": 60.74
-  },
-  {
-    "ID": "24334.64.000M",
-    "VariantID": 46308226433162,
-    "Name": "Polo Sanny | Lovely pink | Harper & Yve",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 209.96999999999997,
-    "NetRevenue": 209.96999999999997
   },
   {
     "ID": "211075.72.0XXL",
