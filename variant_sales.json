@@ -3,11 +3,91 @@
     "ID": "34265.80",
     "VariantID": 46151169441930,
     "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 851,
+    "SoldQuantity": 882,
     "ReturnedQuantity": 0,
-    "NetQuantity": 851,
-    "GrossRevenue": 25530.0,
-    "NetRevenue": 25530.0
+    "NetQuantity": 882,
+    "GrossRevenue": 26460.0,
+    "NetRevenue": 26460.0
+  },
+  {
+    "ID": "29994.64.00S2",
+    "VariantID": 46150804078730,
+    "Name": "Trui Dottie dames | Neon pink & sand | Studio Poespas",
+    "SoldQuantity": 23,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 23,
+    "GrossRevenue": 1426.0,
+    "NetRevenue": 1426.0
+  },
+  {
+    "ID": "211481.42.00S3",
+    "VariantID": 46150977323146,
+    "Name": "Top Plissé | Pink champagne | Studio Poespas",
+    "SoldQuantity": 33,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 33,
+    "GrossRevenue": 1212.5,
+    "NetRevenue": 1212.5
+  },
+  {
+    "ID": "24471.62.000S",
+    "VariantID": 46367481462922,
+    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
+    "SoldQuantity": 38,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 38,
+    "GrossRevenue": 1520.0,
+    "NetRevenue": 1520.0
+  },
+  {
+    "ID": "24218.94.00XL",
+    "VariantID": 46151053672586,
+    "Name": "Bomberjack Sweet Home Alabama | Silver roses | Studio Amaya x Poespas",
+    "SoldQuantity": 18,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 18,
+    "GrossRevenue": 2159.1000000000004,
+    "NetRevenue": 2159.1000000000004
+  },
+  {
+    "ID": "14099.60.0134",
+    "VariantID": 46151028998282,
+    "Name": "Bomber jacket | Super sonic | En Fant",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 54.0,
+    "NetRevenue": 54.0
+  },
+  {
+    "ID": "111679.80.31-35",
+    "VariantID": 46150978273418,
+    "Name": "Hockeysokken Olivia | Zigzag stripe | Pindahs",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 43.9,
+    "NetRevenue": 43.9
+  },
+  {
+    "ID": "111316.80",
+    "VariantID": 46151151747210,
+    "Name": "5-in-1 ketting summer shine | Goud | Mommy & kids",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 43.120000000000005,
+    "NetRevenue": 43.120000000000005
+  },
+  {
+    "ID": "24313.80.0001",
+    "VariantID": 46268664774794,
+    "Name": "Dress Flirty Flower | Studio Poespas",
+    "SoldQuantity": 107,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 107,
+    "GrossRevenue": 6634.0,
+    "NetRevenue": 6634.0
   },
   {
     "ID": "24471.62.000L",
@@ -58,16 +138,6 @@
     "NetQuantity": 34,
     "GrossRevenue": 1622.5,
     "NetRevenue": 1622.5
-  },
-  {
-    "ID": "211481.42.00S3",
-    "VariantID": 46150977323146,
-    "Name": "Top Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 32,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 32,
-    "GrossRevenue": 1187.5,
-    "NetRevenue": 1187.5
   },
   {
     "ID": "28167.90.0XXL",
@@ -240,16 +310,6 @@
     "NetRevenue": 975.0
   },
   {
-    "ID": "24471.62.000S",
-    "VariantID": 46367481462922,
-    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
-    "SoldQuantity": 37,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 37,
-    "GrossRevenue": 1480.0,
-    "NetRevenue": 1480.0
-  },
-  {
     "ID": "11977.64.00S1",
     "VariantID": 46324566491274,
     "Name": "Top Amore | Burgundy | Studio Poespas",
@@ -288,16 +348,6 @@
     "NetQuantity": 12,
     "GrossRevenue": 928.25,
     "NetRevenue": 928.25
-  },
-  {
-    "ID": "24218.94.00XL",
-    "VariantID": 46151053672586,
-    "Name": "Bomberjack Sweet Home Alabama | Silver roses | Studio Amaya x Poespas",
-    "SoldQuantity": 17,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 2039.1500000000005,
-    "NetRevenue": 2039.1500000000005
   },
   {
     "ID": "24221.10.000M",
@@ -878,16 +928,6 @@
     "NetQuantity": 105,
     "GrossRevenue": 4725.0,
     "NetRevenue": 4725.0
-  },
-  {
-    "ID": "24313.80.0001",
-    "VariantID": 46268664774794,
-    "Name": "Dress Flirty Flower | Studio Poespas",
-    "SoldQuantity": 106,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 106,
-    "GrossRevenue": 6572.0,
-    "NetRevenue": 6572.0
   },
   {
     "ID": "24472.40.0XXL",
@@ -2860,16 +2900,6 @@
     "NetRevenue": 174.96
   },
   {
-    "ID": "29994.64.00S2",
-    "VariantID": 46150804078730,
-    "Name": "Trui Dottie dames | Neon pink & sand | Studio Poespas",
-    "SoldQuantity": 22,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 22,
-    "GrossRevenue": 1364.0,
-    "NetRevenue": 1364.0
-  },
-  {
     "ID": "111770.64.0809",
     "VariantID": 46150999310474,
     "Name": "Sweatshirt Happy dog | Bobo Choses",
@@ -4098,16 +4128,6 @@
     "NetQuantity": 12,
     "GrossRevenue": 1319.4000000000003,
     "NetRevenue": 1319.4000000000003
-  },
-  {
-    "ID": "111316.80",
-    "VariantID": 46151151747210,
-    "Name": "5-in-1 ketting summer shine | Goud | Mommy & kids",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 35.620000000000005,
-    "NetRevenue": 35.620000000000005
   },
   {
     "ID": "24478.10.00XS",
@@ -9928,16 +9948,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 64.0,
     "NetRevenue": 64.0
-  },
-  {
-    "ID": "111679.80.31-35",
-    "VariantID": 46150978273418,
-    "Name": "Hockeysokken Olivia | Zigzag stripe | Pindahs",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 21.95,
-    "NetRevenue": 21.95
   },
   {
     "ID": "27723.80.3135",
