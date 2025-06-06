@@ -1,13 +1,93 @@
 [
   {
+    "ID": "34265.80",
+    "VariantID": 46151169441930,
+    "Name": "Family paspoort | Smiley | Studio Poespas",
+    "SoldQuantity": 851,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 851,
+    "GrossRevenue": 25530.0,
+    "NetRevenue": 25530.0
+  },
+  {
+    "ID": "24471.62.000L",
+    "VariantID": 46367481528458,
+    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
+    "SoldQuantity": 19,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 19,
+    "GrossRevenue": 760.0,
+    "NetRevenue": 760.0
+  },
+  {
+    "ID": "PP.TP.VLK-21",
+    "VariantID": 46150386679946,
+    "Name": "Teddy pantoffels | Vegan leather & klittenband",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 60.0,
+    "NetRevenue": 60.0
+  },
+  {
+    "ID": "24231.80.000S",
+    "VariantID": 46151056097418,
+    "Name": "Bomberjack Step Up | Lilac sequin bouquet | Studio Amaya x Poespas",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 989.5500000000002,
+    "NetRevenue": 989.5500000000002
+  },
+  {
+    "ID": "24232.80.000S",
+    "VariantID": 46151057506442,
+    "Name": "Short Bring It On | Lilac sequin bouquet | Studio Amaya x Poespas",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 419.7,
+    "NetRevenue": 419.7
+  },
+  {
     "ID": "211483.42.00S3",
     "VariantID": 46150977618058,
     "Name": "Pants Plissé | Pink champagne | Studio Poespas",
+    "SoldQuantity": 34,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 34,
+    "GrossRevenue": 1622.5,
+    "NetRevenue": 1622.5
+  },
+  {
+    "ID": "211481.42.00S3",
+    "VariantID": 46150977323146,
+    "Name": "Top Plissé | Pink champagne | Studio Poespas",
     "SoldQuantity": 32,
     "ReturnedQuantity": 0,
     "NetQuantity": 32,
-    "GrossRevenue": 1563.5,
-    "NetRevenue": 1563.5
+    "GrossRevenue": 1187.5,
+    "NetRevenue": 1187.5
+  },
+  {
+    "ID": "28167.90.0XXL",
+    "VariantID": 46150725861514,
+    "Name": "Dream hipster lace | Black | Magic Bodyfashion",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 105.0,
+    "NetRevenue": 105.0
+  },
+  {
+    "ID": "211483.42.00S2",
+    "VariantID": 46150977585290,
+    "Name": "Pants Plissé | Pink champagne | Studio Poespas",
+    "SoldQuantity": 33,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 33,
+    "GrossRevenue": 1666.75,
+    "NetRevenue": 1666.75
   },
   {
     "ID": "12818.14",
@@ -190,16 +270,6 @@
     "NetRevenue": 5265.0
   },
   {
-    "ID": "34265.80",
-    "VariantID": 46151169441930,
-    "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 833,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 833,
-    "GrossRevenue": 24990.0,
-    "NetRevenue": 24990.0
-  },
-  {
     "ID": "24367.14.000S",
     "VariantID": 46151063896202,
     "Name": "Top Lea | Beige | Studio Amaya",
@@ -368,26 +438,6 @@
     "NetQuantity": 8,
     "GrossRevenue": 295.0,
     "NetRevenue": 295.0
-  },
-  {
-    "ID": "211481.42.00S3",
-    "VariantID": 46150977323146,
-    "Name": "Top Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 29,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 29,
-    "GrossRevenue": 1112.5,
-    "NetRevenue": 1112.5
-  },
-  {
-    "ID": "211483.42.00S2",
-    "VariantID": 46150977585290,
-    "Name": "Pants Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 32,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 32,
-    "GrossRevenue": 1637.25,
-    "NetRevenue": 1637.25
   },
   {
     "ID": "211486.50.00S3",
@@ -648,16 +698,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 239.87999999999997,
     "NetRevenue": 239.87999999999997
-  },
-  {
-    "ID": "24231.80.000S",
-    "VariantID": 46151056097418,
-    "Name": "Bomberjack Step Up | Lilac sequin bouquet | Studio Amaya x Poespas",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 879.6000000000001,
-    "NetRevenue": 879.6000000000001
   },
   {
     "ID": "211647.70.0038",
@@ -980,16 +1020,6 @@
     "NetRevenue": 840.0
   },
   {
-    "ID": "24471.62.000L",
-    "VariantID": 46367481528458,
-    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
-    "SoldQuantity": 18,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 18,
-    "GrossRevenue": 720.0,
-    "NetRevenue": 720.0
-  },
-  {
     "ID": "211762.9200XS",
     "VariantID": 46150973718666,
     "Name": "Wide leg star jeans Hannah | Antra | Refined Deparment",
@@ -1148,16 +1178,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 769.6500000000001,
     "NetRevenue": 769.6500000000001
-  },
-  {
-    "ID": "24232.80.000S",
-    "VariantID": 46151057506442,
-    "Name": "Short Bring It On | Lilac sequin bouquet | Studio Amaya x Poespas",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 349.75,
-    "NetRevenue": 349.75
   },
   {
     "ID": "24220.94.000L",
@@ -3030,16 +3050,6 @@
     "NetRevenue": 23.0
   },
   {
-    "ID": "PP.TP.VLK-21",
-    "VariantID": 46150386679946,
-    "Name": "Teddy pantoffels | Vegan leather & klittenband",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 52.5,
-    "NetRevenue": 52.5
-  },
-  {
     "ID": "211646.70.0036",
     "VariantID": 46150965461130,
     "Name": "Short Jildau vegan leather | Titanium bronze | Studio Poespas",
@@ -3368,16 +3378,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 204.0,
     "NetRevenue": 204.0
-  },
-  {
-    "ID": "28167.90.0XXL",
-    "VariantID": 46150725861514,
-    "Name": "Dream hipster lace | Black | Magic Bodyfashion",
-    "SoldQuantity": 13,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 13,
-    "GrossRevenue": 97.5,
-    "NetRevenue": 97.5
   },
   {
     "ID": "211877.82.00S3",
