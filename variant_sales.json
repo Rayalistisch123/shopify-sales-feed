@@ -1,23 +1,53 @@
 [
   {
-    "ID": "24471.62.000L",
-    "VariantID": 46367481528458,
-    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
-    "SoldQuantity": 14,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 14,
-    "GrossRevenue": 560.0,
-    "NetRevenue": 560.0
-  },
-  {
     "ID": "24472.40.000L",
     "VariantID": 46359284580490,
     "Name": "Shirt Fairytale Princess | Yellow | Studio Poespas",
-    "SoldQuantity": 9,
+    "SoldQuantity": 10,
     "ReturnedQuantity": 0,
-    "NetQuantity": 9,
-    "GrossRevenue": 360.0,
-    "NetRevenue": 360.0
+    "NetQuantity": 10,
+    "GrossRevenue": 400.0,
+    "NetRevenue": 400.0
+  },
+  {
+    "ID": "34265.80",
+    "VariantID": 46151169441930,
+    "Name": "Family paspoort | Smiley | Studio Poespas",
+    "SoldQuantity": 812,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 812,
+    "GrossRevenue": 24360.0,
+    "NetRevenue": 24360.0
+  },
+  {
+    "ID": "24472.40.000M",
+    "VariantID": 46359284547722,
+    "Name": "Shirt Fairytale Princess | Yellow | Studio Poespas",
+    "SoldQuantity": 19,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 19,
+    "GrossRevenue": 760.0,
+    "NetRevenue": 760.0
+  },
+  {
+    "ID": "24471.62.000L",
+    "VariantID": 46367481528458,
+    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 640.0,
+    "NetRevenue": 640.0
+  },
+  {
+    "ID": "211690.9200S2",
+    "VariantID": 46150982172810,
+    "Name": "Cardigan Demure | Grey | Studio Poespas",
+    "SoldQuantity": 75,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 75,
+    "GrossRevenue": 5106.0,
+    "NetRevenue": 5106.0
   },
   {
     "ID": "24472.40.000S",
@@ -100,16 +130,6 @@
     "NetRevenue": 96.6
   },
   {
-    "ID": "34265.80",
-    "VariantID": 46151169441930,
-    "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 805,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 805,
-    "GrossRevenue": 24150.0,
-    "NetRevenue": 24150.0
-  },
-  {
     "ID": "24398.80.00ML",
     "VariantID": 46190244167818,
     "Name": "Top Shiny flowers | Orange",
@@ -118,16 +138,6 @@
     "NetQuantity": 39,
     "GrossRevenue": 2092.5,
     "NetRevenue": 2092.5
-  },
-  {
-    "ID": "24472.40.000M",
-    "VariantID": 46359284547722,
-    "Name": "Shirt Fairytale Princess | Yellow | Studio Poespas",
-    "SoldQuantity": 18,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 18,
-    "GrossRevenue": 720.0,
-    "NetRevenue": 720.0
   },
   {
     "ID": "24218.94.000M",
@@ -4358,16 +4368,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 174.95000000000002,
     "NetRevenue": 174.95000000000002
-  },
-  {
-    "ID": "211690.9200S2",
-    "VariantID": 46150982172810,
-    "Name": "Cardigan Demure | Grey | Studio Poespas",
-    "SoldQuantity": 74,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 74,
-    "GrossRevenue": 5037.0,
-    "NetRevenue": 5037.0
   },
   {
     "ID": "211801.42",
