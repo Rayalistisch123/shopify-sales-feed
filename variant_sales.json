@@ -1,13 +1,143 @@
 [
   {
+    "ID": "14483.92.000M",
+    "VariantID": 46380728975498,
+    "Name": "Shirt Summer '25 | Asphalt | Studio Poespas",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 280.0,
+    "NetRevenue": 280.0
+  },
+  {
+    "ID": "111670.80",
+    "VariantID": 46151161544842,
+    "Name": "Ketting Gummy Bear | Studio Poespas",
+    "SoldQuantity": 112,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 112,
+    "GrossRevenue": 1338.0,
+    "NetRevenue": 1338.0
+  },
+  {
+    "ID": "24313.80.0002",
+    "VariantID": 46268664807562,
+    "Name": "Dress Flirty Flower | Studio Poespas",
+    "SoldQuantity": 90,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 90,
+    "GrossRevenue": 5580.0,
+    "NetRevenue": 5580.0
+  },
+  {
+    "ID": "24471.62.000L",
+    "VariantID": 46367481528458,
+    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
+    "SoldQuantity": 32,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 32,
+    "GrossRevenue": 1280.0,
+    "NetRevenue": 1280.0
+  },
+  {
+    "ID": "15584.14",
+    "VariantID": 46151113506954,
+    "Name": "Winkelwagentje cherry | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 52.0,
+    "NetRevenue": 52.0
+  },
+  {
+    "ID": "211485.50.00S2",
+    "VariantID": 46151047610506,
+    "Name": "Dress Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 113,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 113,
+    "GrossRevenue": 7345.0,
+    "NetRevenue": 7345.0
+  },
+  {
+    "ID": "11977.64.00S2",
+    "VariantID": 46324566524042,
+    "Name": "Top Amore | Burgundy | Studio Poespas",
+    "SoldQuantity": 55,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 55,
+    "GrossRevenue": 3025.0,
+    "NetRevenue": 3025.0
+  },
+  {
+    "ID": "24241.64.00S2",
+    "VariantID": 46151057768586,
+    "Name": "Top tarte tatin | Pink | Studio Poespas",
+    "SoldQuantity": 49,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 49,
+    "GrossRevenue": 1880.75,
+    "NetRevenue": 1880.75
+  },
+  {
+    "ID": "111791.64.0607",
+    "VariantID": 46150999408778,
+    "Name": "Woven skirt Funny snail all over | Bobo Choses",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 45.0,
+    "NetRevenue": 45.0
+  },
+  {
+    "ID": "111768.64.0607",
+    "VariantID": 46150997704842,
+    "Name": "Sweatshirt Joyful face | Bobo Choses",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 43.0,
+    "NetRevenue": 43.0
+  },
+  {
     "ID": "211982.70.0040",
     "VariantID": 46277099683978,
     "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 211,
+    "SoldQuantity": 212,
     "ReturnedQuantity": 0,
-    "NetQuantity": 211,
-    "GrossRevenue": 9495.0,
-    "NetRevenue": 9495.0
+    "NetQuantity": 212,
+    "GrossRevenue": 9540.0,
+    "NetRevenue": 9540.0
+  },
+  {
+    "ID": "24180.18.00XL",
+    "VariantID": 46151036403850,
+    "Name": "Blazer Amy | Sand/gold | Nukus",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 214.0,
+    "NetRevenue": 214.0
+  },
+  {
+    "ID": "24358.40.00XL",
+    "VariantID": 46236963668106,
+    "Name": "Top Charlie | Lemon | Harper & Yve",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 209.96999999999997,
+    "NetRevenue": 209.96999999999997
+  },
+  {
+    "ID": "14449.50.0205",
+    "VariantID": 46301354164362,
+    "Name": "Rugzak Mini Pistache | Hello Hossy",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 50.0,
+    "NetRevenue": 50.0
   },
   {
     "ID": "24463..000L",
@@ -1100,16 +1230,6 @@
     "NetRevenue": 72.0
   },
   {
-    "ID": "24313.80.0002",
-    "VariantID": 46268664807562,
-    "Name": "Dress Flirty Flower | Studio Poespas",
-    "SoldQuantity": 89,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 89,
-    "GrossRevenue": 5518.0,
-    "NetRevenue": 5518.0
-  },
-  {
     "ID": "24083.94.000S",
     "VariantID": 46151040532618,
     "Name": "Overslagjurk Bonita | Silver | JOSH V",
@@ -1218,16 +1338,6 @@
     "NetQuantity": 23,
     "GrossRevenue": 873.5400000000002,
     "NetRevenue": 873.5400000000002
-  },
-  {
-    "ID": "111670.80",
-    "VariantID": 46151161544842,
-    "Name": "Ketting Gummy Bear | Studio Poespas",
-    "SoldQuantity": 111,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 111,
-    "GrossRevenue": 1326.0,
-    "NetRevenue": 1326.0
   },
   {
     "ID": "24458.80.000S",
@@ -1368,16 +1478,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 407.0,
     "NetRevenue": 407.0
-  },
-  {
-    "ID": "14483.92.000M",
-    "VariantID": 46380728975498,
-    "Name": "Shirt Summer '25 | Asphalt | Studio Poespas",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 240.0,
-    "NetRevenue": 240.0
   },
   {
     "ID": "3437.10.200200",
@@ -2630,16 +2730,6 @@
     "NetRevenue": 83.0
   },
   {
-    "ID": "211485.50.00S2",
-    "VariantID": 46151047610506,
-    "Name": "Dress Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 112,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 112,
-    "GrossRevenue": 7280.0,
-    "NetRevenue": 7280.0
-  },
-  {
     "ID": "111586.80",
     "VariantID": 46151158595722,
     "Name": "Haarelastiekjes sour puss persian cat | 4 stuks | Rockahula",
@@ -3548,16 +3638,6 @@
     "NetQuantity": 27,
     "GrossRevenue": 390.0,
     "NetRevenue": 390.0
-  },
-  {
-    "ID": "24471.62.000L",
-    "VariantID": 46367481528458,
-    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
-    "SoldQuantity": 31,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 31,
-    "GrossRevenue": 1240.0,
-    "NetRevenue": 1240.0
   },
   {
     "ID": "24288.90.00XS",
@@ -5190,16 +5270,6 @@
     "NetRevenue": 119.98
   },
   {
-    "ID": "11977.64.00S2",
-    "VariantID": 46324566524042,
-    "Name": "Top Amore | Burgundy | Studio Poespas",
-    "SoldQuantity": 54,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 54,
-    "GrossRevenue": 2970.0,
-    "NetRevenue": 2970.0
-  },
-  {
     "ID": "16252.14",
     "VariantID": 46151117013130,
     "Name": "Poppenkledingset | Milk tank | Konges Slojd",
@@ -5308,16 +5378,6 @@
     "NetQuantity": 12,
     "GrossRevenue": 480.0,
     "NetRevenue": 480.0
-  },
-  {
-    "ID": "24241.64.00S2",
-    "VariantID": 46151057768586,
-    "Name": "Top tarte tatin | Pink | Studio Poespas",
-    "SoldQuantity": 48,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 48,
-    "GrossRevenue": 1841.75,
-    "NetRevenue": 1841.75
   },
   {
     "ID": "211756.42.00XL",
@@ -12640,16 +12700,6 @@
     "NetRevenue": 159.98
   },
   {
-    "ID": "24358.40.00XL",
-    "VariantID": 46236963668106,
-    "Name": "Top Charlie | Lemon | Harper & Yve",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 139.98,
-    "NetRevenue": 139.98
-  },
-  {
     "ID": "24338.40.00XL",
     "VariantID": 46306049884298,
     "Name": "Top Levy | Yellow stripe | Harper & Yve",
@@ -13218,16 +13268,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 134.75,
     "NetRevenue": 134.75
-  },
-  {
-    "ID": "24180.18.00XL",
-    "VariantID": 46151036403850,
-    "Name": "Blazer Amy | Sand/gold | Nukus",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 119.0,
-    "NetRevenue": 119.0
   },
   {
     "ID": "211919.50.000L",
