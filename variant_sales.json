@@ -1,63 +1,293 @@
 [
   {
-    "ID": "211982.70.0036",
-    "VariantID": 46277099618442,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 150,
+    "ID": "1129.12.006",
+    "VariantID": 46150411255946,
+    "Name": "Shirt Bowi | Peter Pan kraagje, unisex",
+    "SoldQuantity": 3,
     "ReturnedQuantity": 0,
-    "NetQuantity": 150,
-    "GrossRevenue": 6750.0,
-    "NetRevenue": 6750.0
-  },
-  {
-    "ID": "24278.64.0001",
-    "VariantID": 46268637282442,
-    "Name": "Dress Flirty | Mint to be | Studio Poespas",
-    "SoldQuantity": 51,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 51,
-    "GrossRevenue": 3315.0,
-    "NetRevenue": 3315.0
-  },
-  {
-    "ID": "24305.42.00S1",
-    "VariantID": 46370462335114,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 24,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 24,
-    "GrossRevenue": 936.0,
-    "NetRevenue": 936.0
-  },
-  {
-    "ID": "24240.90.000S",
-    "VariantID": 46151040368778,
-    "Name": "Sportpakje power-up | Zwart | Studio Poespas",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 140.0,
-    "NetRevenue": 140.0
-  },
-  {
-    "ID": "24466.60.0040",
-    "VariantID": 46367525634186,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 32,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 32,
-    "GrossRevenue": 1440.0,
-    "NetRevenue": 1440.0
+    "NetQuantity": 3,
+    "GrossRevenue": 34.5,
+    "NetRevenue": 34.5
   },
   {
     "ID": "24305.42.00S2",
     "VariantID": 46370462367882,
     "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 14,
+    "SoldQuantity": 17,
     "ReturnedQuantity": 0,
-    "NetQuantity": 14,
-    "GrossRevenue": 546.0,
-    "NetRevenue": 546.0
+    "NetQuantity": 17,
+    "GrossRevenue": 663.0,
+    "NetRevenue": 663.0
+  },
+  {
+    "ID": "24466.60.0042",
+    "VariantID": 46367525666954,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 21,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 21,
+    "GrossRevenue": 945.0,
+    "NetRevenue": 945.0
+  },
+  {
+    "ID": "24377.20.00S1",
+    "VariantID": 46328179654794,
+    "Name": "Wavy Pants | Burgundy | Studio Poespas",
+    "SoldQuantity": 28,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 28,
+    "GrossRevenue": 1652.0,
+    "NetRevenue": 1652.0
+  },
+  {
+    "ID": "24278.64.0001",
+    "VariantID": 46268637282442,
+    "Name": "Dress Flirty | Mint to be | Studio Poespas",
+    "SoldQuantity": 52,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 52,
+    "GrossRevenue": 3380.0,
+    "NetRevenue": 3380.0
+  },
+  {
+    "ID": "111495.640056",
+    "VariantID": 46150943342730,
+    "Name": "Newborn legging Piva | Faded rose | MarMar Copenhagen",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 66.0,
+    "NetRevenue": 66.0
+  },
+  {
+    "ID": "111493.640056",
+    "VariantID": 46150943211658,
+    "Name": "Newborn tut wrap top | Faded rose | MarMar Copenhagen",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 62.0,
+    "NetRevenue": 62.0
+  },
+  {
+    "ID": "14473.64.0810",
+    "VariantID": 46380732350602,
+    "Name": "Kids shirt 90's Club | Pale pink | Studio Poespas",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 180.0,
+    "NetRevenue": 180.0
+  },
+  {
+    "ID": "211982.70.0036",
+    "VariantID": 46277099618442,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 153,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 153,
+    "GrossRevenue": 6885.0,
+    "NetRevenue": 6885.0
+  },
+  {
+    "ID": "211879.80.00S1",
+    "VariantID": 46165652144266,
+    "Name": "Top V-vibe | Marrakech | Studio Poespas",
+    "SoldQuantity": 57,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 57,
+    "GrossRevenue": 2397.25,
+    "NetRevenue": 2397.25
+  },
+  {
+    "ID": "211677.80.00S1",
+    "VariantID": 46165374238858,
+    "Name": "Trui Crochet | Purple | Studio Poespas",
+    "SoldQuantity": 37,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 37,
+    "GrossRevenue": 2153.5,
+    "NetRevenue": 2153.5
+  },
+  {
+    "ID": "211979.8000S1",
+    "VariantID": 46151057375370,
+    "Name": "Top Sorbet | Lilac-orange | Studio Poespas",
+    "SoldQuantity": 87,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 87,
+    "GrossRevenue": 3559.5,
+    "NetRevenue": 3559.5
+  },
+  {
+    "ID": "24368.14.00XS",
+    "VariantID": 46151063568522,
+    "Name": "Pants Carmen | Beige | Studio Amaya",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 316.0,
+    "NetRevenue": 316.0
+  },
+  {
+    "ID": "24305.42.00S1",
+    "VariantID": 46370462335114,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 28,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 28,
+    "GrossRevenue": 1092.0,
+    "NetRevenue": 1092.0
+  },
+  {
+    "ID": "24110.64.000L",
+    "VariantID": 46151021822090,
+    "Name": "Knitted top Keely | Pink | Ydence",
+    "SoldQuantity": 18,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 18,
+    "GrossRevenue": 529.0,
+    "NetRevenue": 529.0
+  },
+  {
+    "ID": "24463..000S",
+    "VariantID": 46321642700938,
+    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
+    "SoldQuantity": 61,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 61,
+    "GrossRevenue": 2440.0,
+    "NetRevenue": 2440.0
+  },
+  {
+    "ID": "111670.80",
+    "VariantID": 46151161544842,
+    "Name": "Ketting Gummy Bear | Studio Poespas",
+    "SoldQuantity": 116,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 116,
+    "GrossRevenue": 1386.0,
+    "NetRevenue": 1386.0
+  },
+  {
+    "ID": "211298.42.00S1",
+    "VariantID": 46150876004490,
+    "Name": "Top Sugar dust | Oscar gold | Studio Poespas",
+    "SoldQuantity": 12,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 12,
+    "GrossRevenue": 522.5,
+    "NetRevenue": 522.5
+  },
+  {
+    "ID": "24466.60.0040",
+    "VariantID": 46367525634186,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 33,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 33,
+    "GrossRevenue": 1485.0,
+    "NetRevenue": 1485.0
+  },
+  {
+    "ID": "24471.62.000M",
+    "VariantID": 46367481495690,
+    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
+    "SoldQuantity": 55,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 55,
+    "GrossRevenue": 2200.0,
+    "NetRevenue": 2200.0
+  },
+  {
+    "ID": "14274.64.0506",
+    "VariantID": 46151050494090,
+    "Name": "Swimsuit Fresia | Geranium pink | Konges Slojd",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 144.25,
+    "NetRevenue": 144.25
+  },
+  {
+    "ID": "111706.64.0506",
+    "VariantID": 46150986629258,
+    "Name": "Shorts Kim frill gots | Flamingo plume check | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 29.0,
+    "NetRevenue": 29.0
+  },
+  {
+    "ID": "111142.60.00S2",
+    "VariantID": 46150934233226,
+    "Name": "Trui ajour marshmallow | Kids | Blauw | Studio Poespas",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 216.0,
+    "NetRevenue": 216.0
+  },
+  {
+    "ID": "24305.42.00S3",
+    "VariantID": 46370462400650,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 156.0,
+    "NetRevenue": 156.0
+  },
+  {
+    "ID": "24459.80.000S",
+    "VariantID": 46301812097162,
+    "Name": "Zomerjurkje Kim | Multicolor | Je m’appelle x Poespas",
+    "SoldQuantity": 121,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 121,
+    "GrossRevenue": 4595.579999999995,
+    "NetRevenue": 4595.579999999995
+  },
+  {
+    "ID": "24466.60.0036",
+    "VariantID": 46367525568650,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 27,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 27,
+    "GrossRevenue": 1215.0,
+    "NetRevenue": 1215.0
+  },
+  {
+    "ID": "24240.90.000S",
+    "VariantID": 46151040368778,
+    "Name": "Sportpakje power-up | Zwart | Studio Poespas",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 157.5,
+    "NetRevenue": 157.5
+  },
+  {
+    "ID": "111746.64.0007",
+    "VariantID": 46150993477770,
+    "Name": "Flare legging stripes | Nectarine | Sproet & Sprout",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 67.0,
+    "NetRevenue": 67.0
+  },
+  {
+    "ID": "111182.70",
+    "VariantID": 46151148273802,
+    "Name": "Koeltas Carl | Tiger Sand | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 39.0,
+    "NetRevenue": 39.0
   },
   {
     "ID": "211863.42",
@@ -88,16 +318,6 @@
     "NetQuantity": 11,
     "GrossRevenue": 495.0,
     "NetRevenue": 495.0
-  },
-  {
-    "ID": "24305.42.00S3",
-    "VariantID": 46370462400650,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 117.0,
-    "NetRevenue": 117.0
   },
   {
     "ID": "24225.24.00XL",
@@ -180,16 +400,6 @@
     "NetRevenue": 122.5
   },
   {
-    "ID": "24466.60.0036",
-    "VariantID": 46367525568650,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 26,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 26,
-    "GrossRevenue": 1170.0,
-    "NetRevenue": 1170.0
-  },
-  {
     "ID": "24471.62.000L",
     "VariantID": 46367481528458,
     "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
@@ -200,16 +410,6 @@
     "NetRevenue": 1360.0
   },
   {
-    "ID": "111670.80",
-    "VariantID": 46151161544842,
-    "Name": "Ketting Gummy Bear | Studio Poespas",
-    "SoldQuantity": 115,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 115,
-    "GrossRevenue": 1374.0,
-    "NetRevenue": 1374.0
-  },
-  {
     "ID": "24471.62.00XL",
     "VariantID": 46367481561226,
     "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
@@ -218,16 +418,6 @@
     "NetQuantity": 21,
     "GrossRevenue": 840.0,
     "NetRevenue": 840.0
-  },
-  {
-    "ID": "24471.62.000M",
-    "VariantID": 46367481495690,
-    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
-    "SoldQuantity": 54,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 54,
-    "GrossRevenue": 2160.0,
-    "NetRevenue": 2160.0
   },
   {
     "ID": "211858.42",
@@ -278,16 +468,6 @@
     "NetQuantity": 30,
     "GrossRevenue": 527.5,
     "NetRevenue": 527.5
-  },
-  {
-    "ID": "211298.42.00S1",
-    "VariantID": 46150876004490,
-    "Name": "Top Sugar dust | Oscar gold | Studio Poespas",
-    "SoldQuantity": 11,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 11,
-    "GrossRevenue": 495.0,
-    "NetRevenue": 495.0
   },
   {
     "ID": "211948.60.0027",
@@ -408,16 +588,6 @@
     "NetQuantity": 111,
     "GrossRevenue": 4995.0,
     "NetRevenue": 4995.0
-  },
-  {
-    "ID": "211677.80.00S1",
-    "VariantID": 46165374238858,
-    "Name": "Trui Crochet | Purple | Studio Poespas",
-    "SoldQuantity": 36,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 36,
-    "GrossRevenue": 2094.5,
-    "NetRevenue": 2094.5
   },
   {
     "ID": "24090.14.000S",
@@ -740,16 +910,6 @@
     "NetRevenue": 20.0
   },
   {
-    "ID": "211879.80.00S1",
-    "VariantID": 46165652144266,
-    "Name": "Top V-vibe | Marrakech | Studio Poespas",
-    "SoldQuantity": 56,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 56,
-    "GrossRevenue": 2354.25,
-    "NetRevenue": 2354.25
-  },
-  {
     "ID": "1831.14",
     "VariantID": 46151080870026,
     "Name": "Voorzitje 4 in 1 set | Poespas x Urban Iki",
@@ -778,16 +938,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 277.0,
     "NetRevenue": 277.0
-  },
-  {
-    "ID": "24466.60.0042",
-    "VariantID": 46367525666954,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 19,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 19,
-    "GrossRevenue": 855.0,
-    "NetRevenue": 855.0
   },
   {
     "ID": "24407.92.000M",
@@ -1120,16 +1270,6 @@
     "NetRevenue": 1731.25
   },
   {
-    "ID": "24463..000S",
-    "VariantID": 46321642700938,
-    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
-    "SoldQuantity": 60,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 60,
-    "GrossRevenue": 2400.0,
-    "NetRevenue": 2400.0
-  },
-  {
     "ID": "29172.50.0034",
     "VariantID": 46150766329994,
     "Name": "Sandal Nubuck | Sea Spray | En Fant",
@@ -1188,16 +1328,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 183.0,
     "NetRevenue": 183.0
-  },
-  {
-    "ID": "14473.64.0810",
-    "VariantID": 46380732350602,
-    "Name": "Kids shirt 90's Club | Pale pink | Studio Poespas",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 120.0,
-    "NetRevenue": 120.0
   },
   {
     "ID": "111548.64.0506",
@@ -1748,16 +1878,6 @@
     "NetQuantity": 51,
     "GrossRevenue": 1964.0,
     "NetRevenue": 1964.0
-  },
-  {
-    "ID": "24377.20.00S1",
-    "VariantID": 46328179654794,
-    "Name": "Wavy Pants | Burgundy | Studio Poespas",
-    "SoldQuantity": 27,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 27,
-    "GrossRevenue": 1593.0,
-    "NetRevenue": 1593.0
   },
   {
     "ID": "24221.10.000S",
@@ -3200,16 +3320,6 @@
     "NetRevenue": 40.0
   },
   {
-    "ID": "24110.64.000L",
-    "VariantID": 46151021822090,
-    "Name": "Knitted top Keely | Pink | Ydence",
-    "SoldQuantity": 17,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 506.0,
-    "NetRevenue": 506.0
-  },
-  {
     "ID": "211676.11.00S2",
     "VariantID": 46165403828362,
     "Name": "Trui Crochet | Wit | Studio Poespas",
@@ -3528,16 +3638,6 @@
     "NetQuantity": 21,
     "GrossRevenue": 686.0,
     "NetRevenue": 686.0
-  },
-  {
-    "ID": "24459.80.000S",
-    "VariantID": 46301812097162,
-    "Name": "Zomerjurkje Kim | Multicolor | Je m’appelle x Poespas",
-    "SoldQuantity": 120,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 120,
-    "GrossRevenue": 4557.599999999996,
-    "NetRevenue": 4557.599999999996
   },
   {
     "ID": "24224.24.000M",
@@ -3918,16 +4018,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 29.99,
     "NetRevenue": 29.99
-  },
-  {
-    "ID": "211979.8000S1",
-    "VariantID": 46151057375370,
-    "Name": "Top Sorbet | Lilac-orange | Studio Poespas",
-    "SoldQuantity": 86,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 86,
-    "GrossRevenue": 3517.5,
-    "NetRevenue": 3517.5
   },
   {
     "ID": "211913.80.0040",
@@ -4348,26 +4438,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 20.0,
     "NetRevenue": 20.0
-  },
-  {
-    "ID": "111495.640056",
-    "VariantID": 46150943342730,
-    "Name": "Newborn legging Piva | Faded rose | MarMar Copenhagen",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 47.0,
-    "NetRevenue": 47.0
-  },
-  {
-    "ID": "111493.640056",
-    "VariantID": 46150943211658,
-    "Name": "Newborn tut wrap top | Faded rose | MarMar Copenhagen",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 44.0,
-    "NetRevenue": 44.0
   },
   {
     "ID": "111267.12.0056",
@@ -10020,16 +10090,6 @@
     "NetRevenue": 179.98
   },
   {
-    "ID": "111142.60.00S2",
-    "VariantID": 46150934233226,
-    "Name": "Trui ajour marshmallow | Kids | Blauw | Studio Poespas",
-    "SoldQuantity": 15,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 15,
-    "GrossRevenue": 202.5,
-    "NetRevenue": 202.5
-  },
-  {
     "ID": "111658.60",
     "VariantID": 46151161217162,
     "Name": "Rhino teddy Myra small | Whale blue | Liewood",
@@ -10718,16 +10778,6 @@
     "NetQuantity": 67,
     "GrossRevenue": 2680.0,
     "NetRevenue": 2680.0
-  },
-  {
-    "ID": "1129.12.006",
-    "VariantID": 46150411255946,
-    "Name": "Shirt Bowi | Peter Pan kraagje, unisex",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 23.0,
-    "NetRevenue": 23.0
   },
   {
     "ID": "VARIANT_46181235753098",
@@ -11658,16 +11708,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 56.0,
     "NetRevenue": 56.0
-  },
-  {
-    "ID": "24368.14.00XS",
-    "VariantID": 46151063568522,
-    "Name": "Pants Carmen | Beige | Studio Amaya",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 237.0,
-    "NetRevenue": 237.0
   },
   {
     "ID": "24322.80.000M",
@@ -16458,16 +16498,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 6.37,
     "NetRevenue": 6.37
-  },
-  {
-    "ID": "14274.64.0506",
-    "VariantID": 46151050494090,
-    "Name": "Swimsuit Fresia | Geranium pink | Konges Slojd",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 103.25,
-    "NetRevenue": 103.25
   },
   {
     "ID": "24408.92.000M",
@@ -21748,16 +21778,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 149.0,
     "NetRevenue": 149.0
-  },
-  {
-    "ID": "111746.64.0007",
-    "VariantID": 46150993477770,
-    "Name": "Flare legging stripes | Nectarine | Sproet & Sprout",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 42.0,
-    "NetRevenue": 42.0
   },
   {
     "ID": "18719.80",
