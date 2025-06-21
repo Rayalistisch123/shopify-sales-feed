@@ -1,23 +1,93 @@
 [
   {
-    "ID": "211982.70.0038",
-    "VariantID": 46277099651210,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 246,
+    "ID": "24305.42.00S2",
+    "VariantID": 46370462367882,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 10,
     "ReturnedQuantity": 0,
-    "NetQuantity": 246,
-    "GrossRevenue": 11070.0,
-    "NetRevenue": 11070.0
+    "NetQuantity": 10,
+    "GrossRevenue": 390.0,
+    "NetRevenue": 390.0
+  },
+  {
+    "ID": "24240.90.000L",
+    "VariantID": 46151040434314,
+    "Name": "Sportpakje power-up | Zwart | Studio Poespas",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 105.0,
+    "NetRevenue": 105.0
+  },
+  {
+    "ID": "211870.42",
+    "VariantID": 46151166001290,
+    "Name": "Ketting falling in love | Roze/goud | Studio Poespas",
+    "SoldQuantity": 28,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 28,
+    "GrossRevenue": 401.25,
+    "NetRevenue": 401.25
+  },
+  {
+    "ID": "211982.70.0036",
+    "VariantID": 46277099618442,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 145,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 145,
+    "GrossRevenue": 6525.0,
+    "NetRevenue": 6525.0
   },
   {
     "ID": "24305.42.00S1",
     "VariantID": 46370462335114,
     "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 16,
+    "SoldQuantity": 18,
     "ReturnedQuantity": 0,
-    "NetQuantity": 16,
-    "GrossRevenue": 624.0,
-    "NetRevenue": 624.0
+    "NetQuantity": 18,
+    "GrossRevenue": 702.0,
+    "NetRevenue": 702.0
+  },
+  {
+    "ID": "211982.70.0038",
+    "VariantID": 46277099651210,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 247,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 247,
+    "GrossRevenue": 11115.0,
+    "NetRevenue": 11115.0
+  },
+  {
+    "ID": "211473.50.000S",
+    "VariantID": 46150976962698,
+    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
+    "SoldQuantity": 30,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 30,
+    "GrossRevenue": 527.5,
+    "NetRevenue": 527.5
+  },
+  {
+    "ID": "24466.60.0036",
+    "VariantID": 46367525568650,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 25,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 25,
+    "GrossRevenue": 1125.0,
+    "NetRevenue": 1125.0
+  },
+  {
+    "ID": "24305.42.00S3",
+    "VariantID": 46370462400650,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 78.0,
+    "NetRevenue": 78.0
   },
   {
     "ID": "211298.42.00S1",
@@ -28,16 +98,6 @@
     "NetQuantity": 11,
     "GrossRevenue": 495.0,
     "NetRevenue": 495.0
-  },
-  {
-    "ID": "211473.50.000S",
-    "VariantID": 46150976962698,
-    "Name": "Top Scuba-doo | Petrol | Studio Poespas",
-    "SoldQuantity": 29,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 29,
-    "GrossRevenue": 517.5,
-    "NetRevenue": 517.5
   },
   {
     "ID": "211948.60.0027",
@@ -88,26 +148,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 520.41,
     "NetRevenue": 520.41
-  },
-  {
-    "ID": "24305.42.00S3",
-    "VariantID": 46370462400650,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 39.0,
-    "NetRevenue": 39.0
-  },
-  {
-    "ID": "24305.42.00S2",
-    "VariantID": 46370462367882,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 234.0,
-    "NetRevenue": 234.0
   },
   {
     "ID": "24221.10.000L",
@@ -210,16 +250,6 @@
     "NetRevenue": 235.0
   },
   {
-    "ID": "24466.60.0036",
-    "VariantID": 46367525568650,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 24,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 24,
-    "GrossRevenue": 1080.0,
-    "NetRevenue": 1080.0
-  },
-  {
     "ID": "211484.50.00S3",
     "VariantID": 46151046529162,
     "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
@@ -318,16 +348,6 @@
     "NetQuantity": 67,
     "GrossRevenue": 4154.0,
     "NetRevenue": 4154.0
-  },
-  {
-    "ID": "211982.70.0036",
-    "VariantID": 46277099618442,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 144,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 144,
-    "GrossRevenue": 6480.0,
-    "NetRevenue": 6480.0
   },
   {
     "ID": "24466.60.0034",
@@ -798,16 +818,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 29.0,
     "NetRevenue": 29.0
-  },
-  {
-    "ID": "24240.90.000L",
-    "VariantID": 46151040434314,
-    "Name": "Sportpakje power-up | Zwart | Studio Poespas",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 87.5,
-    "NetRevenue": 87.5
   },
   {
     "ID": "211970.80.000L",
@@ -4388,16 +4398,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 134.0,
     "NetRevenue": 134.0
-  },
-  {
-    "ID": "211870.42",
-    "VariantID": 46151166001290,
-    "Name": "Ketting falling in love | Roze/goud | Studio Poespas",
-    "SoldQuantity": 27,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 27,
-    "GrossRevenue": 386.25,
-    "NetRevenue": 386.25
   },
   {
     "ID": "24288.90.00XS",
