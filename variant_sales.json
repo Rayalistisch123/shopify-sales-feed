@@ -1,5 +1,105 @@
 [
   {
+    "ID": "14146.12.110116",
+    "VariantID": 46151033946250,
+    "Name": "Woven dress Muze | Off-white shell | Baje Studio",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 161.75,
+    "NetRevenue": 161.75
+  },
+  {
+    "ID": "111840.80.0026",
+    "VariantID": 46151043612810,
+    "Name": "Socks stripes | Nectarine | Sproet & Sprout",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 7.0,
+    "NetRevenue": 7.0
+  },
+  {
+    "ID": "14069.14.0444",
+    "VariantID": 46151011598474,
+    "Name": "Lou Terry Sweat Dress | Oxford Tan | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 29.5,
+    "NetRevenue": 29.5
+  },
+  {
+    "ID": "14103.62.0026",
+    "VariantID": 46151029096586,
+    "Name": "Sandalen Velcro | Arctic ice | En Fant",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 62.5,
+    "NetRevenue": 62.5
+  },
+  {
+    "ID": "211880.60.000S",
+    "VariantID": 46151047872650,
+    "Name": "Top Lola | Icing | Studio Poespas",
+    "SoldQuantity": 33,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 33,
+    "GrossRevenue": 1527.5,
+    "NetRevenue": 1527.5
+  },
+  {
+    "ID": "211510.42.00S1",
+    "VariantID": 46150965100682,
+    "Name": "Top tarte tatin | Gold | Studio Poespas",
+    "SoldQuantity": 43,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 43,
+    "GrossRevenue": 1795.25,
+    "NetRevenue": 1795.25
+  },
+  {
+    "ID": "24316.80.000M",
+    "VariantID": 46205086138506,
+    "Name": "Pants Rosie | Mystic flower | Harper & Yve",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 589.95,
+    "NetRevenue": 589.95
+  },
+  {
+    "ID": "24317.80.000M",
+    "VariantID": 46205107372170,
+    "Name": "Top Elin | Mystic flower | Harper & Yve",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 457.44,
+    "NetRevenue": 457.44
+  },
+  {
+    "ID": "24219.94.000M",
+    "VariantID": 46151054262410,
+    "Name": "Short Miss Congeniality | Silver roses | Studio Amaya x Poespas",
+    "SoldQuantity": 38,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 38,
+    "GrossRevenue": 3038.0999999999985,
+    "NetRevenue": 3038.0999999999985
+  },
+  {
+    "ID": "24305.42.00S2",
+    "VariantID": 46370462367882,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 21,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 21,
+    "GrossRevenue": 819.0,
+    "NetRevenue": 819.0
+  },
+  {
     "ID": "211073.70.000M",
     "VariantID": 46150830391434,
     "Name": "Booty booster short | Latte | MAGIC Bodyfashion",
@@ -148,16 +248,6 @@
     "NetQuantity": 50,
     "GrossRevenue": 2750.0,
     "NetRevenue": 2750.0
-  },
-  {
-    "ID": "24305.42.00S2",
-    "VariantID": 46370462367882,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 20,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 20,
-    "GrossRevenue": 780.0,
-    "NetRevenue": 780.0
   },
   {
     "ID": "111670.80",
@@ -318,16 +408,6 @@
     "NetQuantity": 9,
     "GrossRevenue": 273.0,
     "NetRevenue": 273.0
-  },
-  {
-    "ID": "211510.42.00S1",
-    "VariantID": 46150965100682,
-    "Name": "Top tarte tatin | Gold | Studio Poespas",
-    "SoldQuantity": 42,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 42,
-    "GrossRevenue": 1752.25,
-    "NetRevenue": 1752.25
   },
   {
     "ID": "1831.14",
@@ -3480,16 +3560,6 @@
     "NetRevenue": 173.0
   },
   {
-    "ID": "24219.94.000M",
-    "VariantID": 46151054262410,
-    "Name": "Short Miss Congeniality | Silver roses | Studio Amaya x Poespas",
-    "SoldQuantity": 37,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 37,
-    "GrossRevenue": 2958.1499999999987,
-    "NetRevenue": 2958.1499999999987
-  },
-  {
     "ID": "211887.12.00XL",
     "VariantID": 46151014776970,
     "Name": "Top Dieda | Off-white | JOSH V",
@@ -6150,16 +6220,6 @@
     "NetRevenue": 3274.5
   },
   {
-    "ID": "24316.80.000M",
-    "VariantID": 46205086138506,
-    "Name": "Pants Rosie | Mystic flower | Harper & Yve",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 519.95,
-    "NetRevenue": 519.95
-  },
-  {
     "ID": "24477.10.000S",
     "VariantID": 46347371479178,
     "Name": "Oversized boucle t-shirt Mexie | White | Refined Department",
@@ -8750,16 +8810,6 @@
     "NetRevenue": 622.75
   },
   {
-    "ID": "24317.80.000M",
-    "VariantID": 46205107372170,
-    "Name": "Top Elin | Mystic flower | Harper & Yve",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 402.44,
-    "NetRevenue": 402.44
-  },
-  {
     "ID": "24317.80.000L",
     "VariantID": 46205107404938,
     "Name": "Top Elin | Mystic flower | Harper & Yve",
@@ -9468,16 +9518,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 44.0,
     "NetRevenue": 44.0
-  },
-  {
-    "ID": "211880.60.000S",
-    "VariantID": 46151047872650,
-    "Name": "Top Lola | Icing | Studio Poespas",
-    "SoldQuantity": 32,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 32,
-    "GrossRevenue": 1480.5,
-    "NetRevenue": 1480.5
   },
   {
     "ID": "24202.60.000L",
@@ -17040,16 +17080,6 @@
     "NetRevenue": 1.99
   },
   {
-    "ID": "14146.12.110116",
-    "VariantID": 46151033946250,
-    "Name": "Woven dress Muze | Off-white shell | Baje Studio",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 120.75,
-    "NetRevenue": 120.75
-  },
-  {
     "ID": "111584.80",
     "VariantID": 46151158431882,
     "Name": "Scrunchieset wildflower | 4 stuks | Rockahula",
@@ -23703,16 +23733,6 @@
     "ID": "111674.14.8692",
     "VariantID": 46150968475786,
     "Name": "Chino broek | Beige/taupe | Navy Natural",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 39.0,
-    "NetRevenue": 39.0
-  },
-  {
-    "ID": "14103.62.0026",
-    "VariantID": 46151029096586,
-    "Name": "Sandalen Velcro | Arctic ice | En Fant",
     "SoldQuantity": 1,
     "ReturnedQuantity": 0,
     "NetQuantity": 1,
