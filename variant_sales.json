@@ -1,23 +1,83 @@
 [
   {
-    "ID": "24305.42.00S1",
-    "VariantID": 46370462335114,
+    "ID": "24305.42.00S3",
+    "VariantID": 46370462400650,
     "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 35,
+    "SoldQuantity": 6,
     "ReturnedQuantity": 0,
-    "NetQuantity": 35,
-    "GrossRevenue": 1365.0,
-    "NetRevenue": 1365.0
+    "NetQuantity": 6,
+    "GrossRevenue": 234.0,
+    "NetRevenue": 234.0
   },
   {
     "ID": "24305.42.00S2",
     "VariantID": 46370462367882,
     "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 24,
+    "SoldQuantity": 27,
     "ReturnedQuantity": 0,
-    "NetQuantity": 24,
-    "GrossRevenue": 936.0,
-    "NetRevenue": 936.0
+    "NetQuantity": 27,
+    "GrossRevenue": 1053.0,
+    "NetRevenue": 1053.0
+  },
+  {
+    "ID": "24305.42.00S1",
+    "VariantID": 46370462335114,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 36,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 36,
+    "GrossRevenue": 1404.0,
+    "NetRevenue": 1404.0
+  },
+  {
+    "ID": "24466.60.0038",
+    "VariantID": 46367525601418,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 34,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 34,
+    "GrossRevenue": 1530.0,
+    "NetRevenue": 1530.0
+  },
+  {
+    "ID": "24466.60.0036",
+    "VariantID": 46367525568650,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 28,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 28,
+    "GrossRevenue": 1260.0,
+    "NetRevenue": 1260.0
+  },
+  {
+    "ID": "211648.90.000M",
+    "VariantID": 46150949273738,
+    "Name": "Workout bodysuit Sara | Zwart",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 88.0,
+    "NetRevenue": 88.0
+  },
+  {
+    "ID": "211300.80.00S2",
+    "VariantID": 46150876790922,
+    "Name": "Cardigan Bonbon | White & black | Studio Poespas",
+    "SoldQuantity": 36,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 36,
+    "GrossRevenue": 1378.75,
+    "NetRevenue": 1378.75
+  },
+  {
+    "ID": "29683.72.00ML",
+    "VariantID": 46150794870922,
+    "Name": "Singlet Lisa | Brown | La Rouge",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 56.0,
+    "NetRevenue": 56.0
   },
   {
     "ID": "24481.52.000M",
@@ -38,16 +98,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 320.0,
     "NetRevenue": 320.0
-  },
-  {
-    "ID": "24305.42.00S3",
-    "VariantID": 46370462400650,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 195.0,
-    "NetRevenue": 195.0
   },
   {
     "ID": "111316.80",
@@ -620,16 +670,6 @@
     "NetRevenue": 271.5
   },
   {
-    "ID": "24466.60.0038",
-    "VariantID": 46367525601418,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 33,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 33,
-    "GrossRevenue": 1485.0,
-    "NetRevenue": 1485.0
-  },
-  {
     "ID": "24288.90.000M",
     "VariantID": 46151053770890,
     "Name": "Dress Danessa | Black | Freebird",
@@ -848,16 +888,6 @@
     "NetQuantity": 121,
     "GrossRevenue": 4595.579999999995,
     "NetRevenue": 4595.579999999995
-  },
-  {
-    "ID": "24466.60.0036",
-    "VariantID": 46367525568650,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 27,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 27,
-    "GrossRevenue": 1215.0,
-    "NetRevenue": 1215.0
   },
   {
     "ID": "24240.90.000S",
@@ -1738,16 +1768,6 @@
     "NetQuantity": 10,
     "GrossRevenue": 400.0,
     "NetRevenue": 400.0
-  },
-  {
-    "ID": "29683.72.00ML",
-    "VariantID": 46150794870922,
-    "Name": "Singlet Lisa | Brown | La Rouge",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 28.0,
-    "NetRevenue": 28.0
   },
   {
     "ID": "24391.80",
@@ -7638,16 +7658,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 50.0,
     "NetRevenue": 50.0
-  },
-  {
-    "ID": "211300.80.00S2",
-    "VariantID": 46150876790922,
-    "Name": "Cardigan Bonbon | White & black | Studio Poespas",
-    "SoldQuantity": 35,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 35,
-    "GrossRevenue": 1348.75,
-    "NetRevenue": 1348.75
   },
   {
     "ID": "VARIANT_46161990811786",
@@ -14808,16 +14818,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 69.99,
     "NetRevenue": 69.99
-  },
-  {
-    "ID": "211648.90.000M",
-    "VariantID": 46150949273738,
-    "Name": "Workout bodysuit Sara | Zwart",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 66.0,
-    "NetRevenue": 66.0
   },
   {
     "ID": "24332.20.000L",
