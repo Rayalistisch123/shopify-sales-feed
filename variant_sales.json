@@ -1,13 +1,103 @@
 [
   {
+    "ID": "211879.80.00S3",
+    "VariantID": 46165652209802,
+    "Name": "Top V-vibe | Marrakech | Studio Poespas",
+    "SoldQuantity": 11,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 11,
+    "GrossRevenue": 473.0,
+    "NetRevenue": 473.0
+  },
+  {
+    "ID": "24377.20.00S3",
+    "VariantID": 46328179720330,
+    "Name": "Wavy Pants | Burgundy | Studio Poespas",
+    "SoldQuantity": 32,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 32,
+    "GrossRevenue": 1888.0,
+    "NetRevenue": 1888.0
+  },
+  {
     "ID": "24305.42.00S2",
     "VariantID": 46370462367882,
     "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 46,
+    "SoldQuantity": 48,
     "ReturnedQuantity": 0,
-    "NetQuantity": 46,
-    "GrossRevenue": 1794.0,
-    "NetRevenue": 1794.0
+    "NetQuantity": 48,
+    "GrossRevenue": 1872.0,
+    "NetRevenue": 1872.0
+  },
+  {
+    "ID": "24305.42.00S3",
+    "VariantID": 46370462400650,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 351.0,
+    "NetRevenue": 351.0
+  },
+  {
+    "ID": "211073.70.000L",
+    "VariantID": 46150830424202,
+    "Name": "Booty booster short | Latte | MAGIC Bodyfashion",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 27.2,
+    "NetRevenue": 27.2
+  },
+  {
+    "ID": "24466.60.0038",
+    "VariantID": 46367525601418,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 40,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 40,
+    "GrossRevenue": 1800.0,
+    "NetRevenue": 1800.0
+  },
+  {
+    "ID": "211073.70.000M",
+    "VariantID": 46150830391434,
+    "Name": "Booty booster short | Latte | MAGIC Bodyfashion",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 54.4,
+    "NetRevenue": 54.4
+  },
+  {
+    "ID": "211982.70.0036",
+    "VariantID": 46277099618442,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 170,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 170,
+    "GrossRevenue": 7650.0,
+    "NetRevenue": 7650.0
+  },
+  {
+    "ID": "24305.42.00S1",
+    "VariantID": 46370462335114,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 60,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 60,
+    "GrossRevenue": 2340.0,
+    "NetRevenue": 2340.0
+  },
+  {
+    "ID": "VARIANT_46165229830282",
+    "VariantID": 46165229830282,
+    "Name": "Behang Giraffe | Roze",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 5074.999999999999,
+    "NetRevenue": 5074.999999999999
   },
   {
     "ID": "24221.10.000L",
@@ -138,26 +228,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 315.0,
     "NetRevenue": 315.0
-  },
-  {
-    "ID": "24305.42.00S1",
-    "VariantID": 46370462335114,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 59,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 59,
-    "GrossRevenue": 2301.0,
-    "NetRevenue": 2301.0
-  },
-  {
-    "ID": "211982.70.0036",
-    "VariantID": 46277099618442,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 169,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 169,
-    "GrossRevenue": 7605.0,
-    "NetRevenue": 7605.0
   },
   {
     "ID": "24420.64",
@@ -510,16 +580,6 @@
     "NetRevenue": 1627.5
   },
   {
-    "ID": "24466.60.0038",
-    "VariantID": 46367525601418,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 39,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 39,
-    "GrossRevenue": 1755.0,
-    "NetRevenue": 1755.0
-  },
-  {
     "ID": "16643.14",
     "VariantID": 46151118848138,
     "Name": "Dinner set | Lemon | Konges Slojd",
@@ -538,16 +598,6 @@
     "NetQuantity": 19,
     "GrossRevenue": 855.0,
     "NetRevenue": 855.0
-  },
-  {
-    "ID": "24305.42.00S3",
-    "VariantID": 46370462400650,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 312.0,
-    "NetRevenue": 312.0
   },
   {
     "ID": "111566.14.003M",
@@ -1768,16 +1818,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 457.44,
     "NetRevenue": 457.44
-  },
-  {
-    "ID": "211073.70.000M",
-    "VariantID": 46150830391434,
-    "Name": "Booty booster short | Latte | MAGIC Bodyfashion",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 27.2,
-    "NetRevenue": 27.2
   },
   {
     "ID": "24225.24.000M",
@@ -3090,16 +3130,6 @@
     "NetRevenue": 1919.75
   },
   {
-    "ID": "24377.20.00S3",
-    "VariantID": 46328179720330,
-    "Name": "Wavy Pants | Burgundy | Studio Poespas",
-    "SoldQuantity": 31,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 31,
-    "GrossRevenue": 1829.0,
-    "NetRevenue": 1829.0
-  },
-  {
     "ID": "211941.64.000M",
     "VariantID": 46151046660234,
     "Name": "Top Jane | Pink blossom | Harper & Yve",
@@ -3378,16 +3408,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 24.95,
     "NetRevenue": 24.95
-  },
-  {
-    "ID": "211879.80.00S3",
-    "VariantID": 46165652209802,
-    "Name": "Top V-vibe | Marrakech | Studio Poespas",
-    "SoldQuantity": 10,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 10,
-    "GrossRevenue": 430.0,
-    "NetRevenue": 430.0
   },
   {
     "ID": "11977.64.00S3",
@@ -9558,16 +9578,6 @@
     "NetQuantity": 58,
     "GrossRevenue": 2679.0,
     "NetRevenue": 2679.0
-  },
-  {
-    "ID": "VARIANT_46165229830282",
-    "VariantID": 46165229830282,
-    "Name": "Behang Giraffe | Roze",
-    "SoldQuantity": 13,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 13,
-    "GrossRevenue": 4874.399999999999,
-    "NetRevenue": 4874.399999999999
   },
   {
     "ID": "PP3505S",
