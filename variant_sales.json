@@ -1,23 +1,163 @@
 [
   {
+    "ID": "2016/1B.385.000",
+    "VariantID": 46150504251530,
+    "Name": "Maillot rib baby | Condor",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 7.5,
+    "NetRevenue": 7.5
+  },
+  {
     "ID": "34265.80",
     "VariantID": 46151169441930,
     "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 1171,
+    "SoldQuantity": 1173,
     "ReturnedQuantity": 0,
-    "NetQuantity": 1171,
-    "GrossRevenue": 35130.0,
-    "NetRevenue": 35130.0
+    "NetQuantity": 1173,
+    "GrossRevenue": 35190.0,
+    "NetRevenue": 35190.0
+  },
+  {
+    "ID": "211877.80.00S1",
+    "VariantID": 46165589753994,
+    "Name": "Top V-vibe | St Tropez | Studio Poespas",
+    "SoldQuantity": 35,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 35,
+    "GrossRevenue": 1483.5,
+    "NetRevenue": 1483.5
+  },
+  {
+    "ID": "24241.64.00S1",
+    "VariantID": 46151057735818,
+    "Name": "Top tarte tatin | Pink | Studio Poespas",
+    "SoldQuantity": 58,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 58,
+    "GrossRevenue": 2237.0,
+    "NetRevenue": 2237.0
   },
   {
     "ID": "24305.42.00S1",
     "VariantID": 46370462335114,
     "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 78,
+    "SoldQuantity": 79,
     "ReturnedQuantity": 0,
-    "NetQuantity": 78,
-    "GrossRevenue": 3042.0,
-    "NetRevenue": 3042.0
+    "NetQuantity": 79,
+    "GrossRevenue": 3081.0,
+    "NetRevenue": 3081.0
+  },
+  {
+    "ID": "211982.70.0038",
+    "VariantID": 46277099651210,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 265,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 265,
+    "GrossRevenue": 11925.0,
+    "NetRevenue": 11925.0
+  },
+  {
+    "ID": "24322.80.000S",
+    "VariantID": 46205151281290,
+    "Name": "Dress Yade | Ecru multi | Harper & Yve",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 788.95,
+    "NetRevenue": 788.95
+  },
+  {
+    "ID": "24322.80.00XS",
+    "VariantID": 46205151248522,
+    "Name": "Dress Yade | Ecru multi | Harper & Yve",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 966.95,
+    "NetRevenue": 966.95
+  },
+  {
+    "ID": "24241.64.00S2",
+    "VariantID": 46151057768586,
+    "Name": "Top tarte tatin | Pink | Studio Poespas",
+    "SoldQuantity": 57,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 57,
+    "GrossRevenue": 2192.75,
+    "NetRevenue": 2192.75
+  },
+  {
+    "ID": "211982.70.0040",
+    "VariantID": 46277099683978,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 244,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 244,
+    "GrossRevenue": 10980.0,
+    "NetRevenue": 10980.0
+  },
+  {
+    "ID": "24466.60.0040",
+    "VariantID": 46367525634186,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 50,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 50,
+    "GrossRevenue": 2250.0,
+    "NetRevenue": 2250.0
+  },
+  {
+    "ID": "24466.60.0038",
+    "VariantID": 46367525601418,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 50,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 50,
+    "GrossRevenue": 2250.0,
+    "NetRevenue": 2250.0
+  },
+  {
+    "ID": "24305.42.00S2",
+    "VariantID": 46370462367882,
+    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
+    "SoldQuantity": 56,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 56,
+    "GrossRevenue": 2184.0,
+    "NetRevenue": 2184.0
+  },
+  {
+    "ID": "24109.12.000M",
+    "VariantID": 46151021985930,
+    "Name": "Knitted top Keely | Ecru | Ydence",
+    "SoldQuantity": 23,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 23,
+    "GrossRevenue": 732.0,
+    "NetRevenue": 732.0
+  },
+  {
+    "ID": "24171.64.000M",
+    "VariantID": 46151032438922,
+    "Name": "Top Aniek silky | Powder | Nukus",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 70.75,
+    "NetRevenue": 70.75
+  },
+  {
+    "ID": "28163.50.00S1",
+    "VariantID": 46150843924618,
+    "Name": "Cardigan Fluff | Army | Studio Poespas",
+    "SoldQuantity": 27,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 27,
+    "GrossRevenue": 477.8999999999998,
+    "NetRevenue": 477.8999999999998
   },
   {
     "ID": "24385.80",
@@ -50,16 +190,6 @@
     "NetRevenue": 547.5
   },
   {
-    "ID": "211982.70.0040",
-    "VariantID": 46277099683978,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 242,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 242,
-    "GrossRevenue": 10890.0,
-    "NetRevenue": 10890.0
-  },
-  {
     "ID": "211503.14.0040",
     "VariantID": 46150904840330,
     "Name": "Sandaal Bigmona | Nat Raffia | Steve Madden",
@@ -88,36 +218,6 @@
     "NetQuantity": 17,
     "GrossRevenue": 680.0,
     "NetRevenue": 680.0
-  },
-  {
-    "ID": "24466.60.0038",
-    "VariantID": 46367525601418,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 48,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 48,
-    "GrossRevenue": 2160.0,
-    "NetRevenue": 2160.0
-  },
-  {
-    "ID": "211982.70.0038",
-    "VariantID": 46277099651210,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 264,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 264,
-    "GrossRevenue": 11880.0,
-    "NetRevenue": 11880.0
-  },
-  {
-    "ID": "24241.64.00S2",
-    "VariantID": 46151057768586,
-    "Name": "Top tarte tatin | Pink | Studio Poespas",
-    "SoldQuantity": 56,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 56,
-    "GrossRevenue": 2153.75,
-    "NetRevenue": 2153.75
   },
   {
     "ID": "211982.70.0042",
@@ -188,26 +288,6 @@
     "NetQuantity": 52,
     "GrossRevenue": 2340.0,
     "NetRevenue": 2340.0
-  },
-  {
-    "ID": "24305.42.00S2",
-    "VariantID": 46370462367882,
-    "Name": "Top Brigi | Sand and shimmer  | Studio Poespas",
-    "SoldQuantity": 54,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 54,
-    "GrossRevenue": 2106.0,
-    "NetRevenue": 2106.0
-  },
-  {
-    "ID": "24241.64.00S1",
-    "VariantID": 46151057735818,
-    "Name": "Top tarte tatin | Pink | Studio Poespas",
-    "SoldQuantity": 57,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 57,
-    "GrossRevenue": 2198.0,
-    "NetRevenue": 2198.0
   },
   {
     "ID": "24463..000S",
@@ -760,16 +840,6 @@
     "NetRevenue": 3185.0
   },
   {
-    "ID": "24109.12.000M",
-    "VariantID": 46151021985930,
-    "Name": "Knitted top Keely | Ecru | Ydence",
-    "SoldQuantity": 22,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 22,
-    "GrossRevenue": 709.0,
-    "NetRevenue": 709.0
-  },
-  {
     "ID": "29055.70.000L",
     "VariantID": null,
     "Name": "Blazer Bodi | Woven leopard | Refined Department",
@@ -1088,16 +1158,6 @@
     "NetQuantity": 16,
     "GrossRevenue": 1157.8600000000001,
     "NetRevenue": 1157.8600000000001
-  },
-  {
-    "ID": "24466.60.0040",
-    "VariantID": 46367525634186,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 49,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 49,
-    "GrossRevenue": 2205.0,
-    "NetRevenue": 2205.0
   },
   {
     "ID": "211836.80",
@@ -1990,16 +2050,6 @@
     "NetRevenue": 559.65
   },
   {
-    "ID": "24322.80.00XS",
-    "VariantID": 46205151248522,
-    "Name": "Dress Yade | Ecru multi | Harper & Yve",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 857.95,
-    "NetRevenue": 857.95
-  },
-  {
     "ID": "24233.64.00XS",
     "VariantID": 46321641980042,
     "Name": "Jurk Pretty Woman | Pink sequin bouquet | Studio Amaya x Poespas",
@@ -2158,16 +2208,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 17.8,
     "NetRevenue": 17.8
-  },
-  {
-    "ID": "211877.80.00S1",
-    "VariantID": 46165589753994,
-    "Name": "Top V-vibe | St Tropez | Studio Poespas",
-    "SoldQuantity": 34,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 34,
-    "GrossRevenue": 1440.5,
-    "NetRevenue": 1440.5
   },
   {
     "ID": "14474.80.1012",
@@ -10330,16 +10370,6 @@
     "NetRevenue": 199.0
   },
   {
-    "ID": "28163.50.00S1",
-    "VariantID": 46150843924618,
-    "Name": "Cardigan Fluff | Army | Studio Poespas",
-    "SoldQuantity": 26,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 26,
-    "GrossRevenue": 460.1999999999998,
-    "NetRevenue": 460.1999999999998
-  },
-  {
     "ID": "VARIANT_46168718016650",
     "VariantID": 46168718016650,
     "Name": "Behang apen",
@@ -11228,16 +11258,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 39.0,
     "NetRevenue": 39.0
-  },
-  {
-    "ID": "2016/1B.385.000",
-    "VariantID": 46150504251530,
-    "Name": "Maillot rib baby | Condor",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 5.0,
-    "NetRevenue": 5.0
   },
   {
     "ID": "211641.80.0038",
@@ -12888,16 +12908,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 56.0,
     "NetRevenue": 56.0
-  },
-  {
-    "ID": "24322.80.000S",
-    "VariantID": 46205151281290,
-    "Name": "Dress Yade | Ecru multi | Harper & Yve",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 679.95,
-    "NetRevenue": 679.95
   },
   {
     "ID": "24128.80.000S",
@@ -18238,16 +18248,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 15.0,
     "NetRevenue": 15.0
-  },
-  {
-    "ID": "24171.64.000M",
-    "VariantID": 46151032438922,
-    "Name": "Top Aniek silky | Powder | Nukus",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 36.75,
-    "NetRevenue": 36.75
   },
   {
     "ID": "24080.72.0037",
