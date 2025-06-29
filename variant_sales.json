@@ -1,5 +1,55 @@
 [
   {
+    "ID": "111511.64",
+    "VariantID": 46151157022858,
+    "Name": "Poppendraagzak | Cherry blush | Konges Slojd",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 99.0,
+    "NetRevenue": 99.0
+  },
+  {
+    "ID": "24313.80.0001",
+    "VariantID": 46268664774794,
+    "Name": "Dress Flirty Flower | Studio Poespas",
+    "SoldQuantity": 151,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 151,
+    "GrossRevenue": 9362.0,
+    "NetRevenue": 9362.0
+  },
+  {
+    "ID": "24278.64.0001",
+    "VariantID": 46268637282442,
+    "Name": "Dress Flirty | Mint to be | Studio Poespas",
+    "SoldQuantity": 63,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 63,
+    "GrossRevenue": 4095.0,
+    "NetRevenue": 4095.0
+  },
+  {
+    "ID": "211879.80.00S1",
+    "VariantID": 46165652144266,
+    "Name": "Top V-vibe | Marrakech | Studio Poespas",
+    "SoldQuantity": 60,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 60,
+    "GrossRevenue": 2526.25,
+    "NetRevenue": 2526.25
+  },
+  {
+    "ID": "24320.80.000M",
+    "VariantID": 46205145940106,
+    "Name": "Skirt Balou | Winetasting | Harper & Yve",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 561.97,
+    "NetRevenue": 561.97
+  },
+  {
     "ID": "111376.10.0110",
     "VariantID": 46150917161098,
     "Name": "Blouse Ever | White/ruby red | Flöss",
@@ -560,16 +610,6 @@
     "NetRevenue": 12.0
   },
   {
-    "ID": "111511.64",
-    "VariantID": 46151157022858,
-    "Name": "Poppendraagzak | Cherry blush | Konges Slojd",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 66.0,
-    "NetRevenue": 66.0
-  },
-  {
     "ID": "211482.42.00S2",
     "VariantID": 46150976602250,
     "Name": "Dress Plissé | Pink champagne | Studio Poespas",
@@ -1068,26 +1108,6 @@
     "NetQuantity": 28,
     "GrossRevenue": 272.5,
     "NetRevenue": 272.5
-  },
-  {
-    "ID": "24313.80.0001",
-    "VariantID": 46268664774794,
-    "Name": "Dress Flirty Flower | Studio Poespas",
-    "SoldQuantity": 150,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 150,
-    "GrossRevenue": 9300.0,
-    "NetRevenue": 9300.0
-  },
-  {
-    "ID": "24278.64.0001",
-    "VariantID": 46268637282442,
-    "Name": "Dress Flirty | Mint to be | Studio Poespas",
-    "SoldQuantity": 62,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 62,
-    "GrossRevenue": 4030.0,
-    "NetRevenue": 4030.0
   },
   {
     "ID": "211483.42.00S4",
@@ -2360,16 +2380,6 @@
     "NetRevenue": 575.0
   },
   {
-    "ID": "24320.80.000M",
-    "VariantID": 46205145940106,
-    "Name": "Skirt Balou | Winetasting | Harper & Yve",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 506.97,
-    "NetRevenue": 506.97
-  },
-  {
     "ID": "11976.92.00S3",
     "VariantID": 46324561772682,
     "Name": "Top Amore | Grey Melange | Studio Poespas",
@@ -2818,16 +2828,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 19.0,
     "NetRevenue": 19.0
-  },
-  {
-    "ID": "211879.80.00S1",
-    "VariantID": 46165652144266,
-    "Name": "Top V-vibe | Marrakech | Studio Poespas",
-    "SoldQuantity": 59,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 59,
-    "GrossRevenue": 2483.25,
-    "NetRevenue": 2483.25
   },
   {
     "ID": "24219.94.00XL",
