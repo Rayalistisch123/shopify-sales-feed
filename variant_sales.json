@@ -3,11 +3,111 @@
     "ID": "24527.10.000M",
     "VariantID": 46443236688010,
     "Name": "Shirt No Poespas club | White | Studio Poespas",
-    "SoldQuantity": 8,
+    "SoldQuantity": 9,
     "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 320.0,
-    "NetRevenue": 320.0
+    "NetQuantity": 9,
+    "GrossRevenue": 360.0,
+    "NetRevenue": 360.0
+  },
+  {
+    "ID": "24368.14.000S",
+    "VariantID": 46161711071370,
+    "Name": "Pants Carmen | Beige | Studio Amaya",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 1038.25,
+    "NetRevenue": 1038.25
+  },
+  {
+    "ID": "24289.80.000S",
+    "VariantID": 46151053410442,
+    "Name": "Dress Dania | Multi coral | Freebird",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 1787.0,
+    "NetRevenue": 1787.0
+  },
+  {
+    "ID": "211801.42",
+    "VariantID": 46151162527882,
+    "Name": "Oorbellen snoepdog | Goud | Studio Poespas",
+    "SoldQuantity": 22,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 22,
+    "GrossRevenue": 294.0,
+    "NetRevenue": 294.0
+  },
+  {
+    "ID": "24130.80.00XS",
+    "VariantID": 46151026049162,
+    "Name": "Pants Veerle | Green print | Ydence",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 48.0,
+    "NetRevenue": 48.0
+  },
+  {
+    "ID": "24312.80.0002",
+    "VariantID": 46268714614922,
+    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
+    "SoldQuantity": 161,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 161,
+    "GrossRevenue": 8855.0,
+    "NetRevenue": 8855.0
+  },
+  {
+    "ID": "PP.TP.VLK-20",
+    "VariantID": 46150386647178,
+    "Name": "Teddy pantoffels | Vegan leather & klittenband",
+    "SoldQuantity": 38,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 38,
+    "GrossRevenue": 285.0,
+    "NetRevenue": 285.0
+  },
+  {
+    "ID": "24224.24.000S",
+    "VariantID": 46151055016074,
+    "Name": "Top Runaway Bride | Sequin shells | Studio Amaya x Poespas",
+    "SoldQuantity": 56,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 56,
+    "GrossRevenue": 3357.199999999997,
+    "NetRevenue": 3357.199999999997
+  },
+  {
+    "ID": "24225.24.000M",
+    "VariantID": 46151056621706,
+    "Name": "Rok What Happens In Vegas | Sequin shells | Studio Amaya x Poespas",
+    "SoldQuantity": 48,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 48,
+    "GrossRevenue": 3357.5999999999976,
+    "NetRevenue": 3357.5999999999976
+  },
+  {
+    "ID": "211897.94.00S2",
+    "VariantID": 46271851921546,
+    "Name": "Top tarte tatin | Silver | Studio Poespas",
+    "SoldQuantity": 97,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 97,
+    "GrossRevenue": 3783.0,
+    "NetRevenue": 3783.0
+  },
+  {
+    "ID": "24241.64.00S1",
+    "VariantID": 46151057735818,
+    "Name": "Top tarte tatin | Pink | Studio Poespas",
+    "SoldQuantity": 105,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 105,
+    "GrossRevenue": 4070.0,
+    "NetRevenue": 4070.0
   },
   {
     "ID": "24527.10.000S",
@@ -180,16 +280,6 @@
     "NetRevenue": 1920.0
   },
   {
-    "ID": "24312.80.0002",
-    "VariantID": 46268714614922,
-    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
-    "SoldQuantity": 160,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 160,
-    "GrossRevenue": 8800.0,
-    "NetRevenue": 8800.0
-  },
-  {
     "ID": "14139.64.110116",
     "VariantID": 46151032832138,
     "Name": "Jersey shirt Seia | Rose salmon | Baje Studio",
@@ -208,16 +298,6 @@
     "NetQuantity": 36,
     "GrossRevenue": 2518.2,
     "NetRevenue": 2518.2
-  },
-  {
-    "ID": "24224.24.000S",
-    "VariantID": 46151055016074,
-    "Name": "Top Runaway Bride | Sequin shells | Studio Amaya x Poespas",
-    "SoldQuantity": 55,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 55,
-    "GrossRevenue": 3297.2499999999973,
-    "NetRevenue": 3297.2499999999973
   },
   {
     "ID": "211082.90.000S",
@@ -488,16 +568,6 @@
     "NetQuantity": 29,
     "GrossRevenue": 57.710000000000015,
     "NetRevenue": 57.710000000000015
-  },
-  {
-    "ID": "24225.24.000M",
-    "VariantID": 46151056621706,
-    "Name": "Rok What Happens In Vegas | Sequin shells | Studio Amaya x Poespas",
-    "SoldQuantity": 47,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 47,
-    "GrossRevenue": 3287.649999999998,
-    "NetRevenue": 3287.649999999998
   },
   {
     "ID": "24224.24.000M",
@@ -958,16 +1028,6 @@
     "NetQuantity": 111,
     "GrossRevenue": 4440.0,
     "NetRevenue": 4440.0
-  },
-  {
-    "ID": "24241.64.00S1",
-    "VariantID": 46151057735818,
-    "Name": "Top tarte tatin | Pink | Studio Poespas",
-    "SoldQuantity": 104,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 104,
-    "GrossRevenue": 4031.0,
-    "NetRevenue": 4031.0
   },
   {
     "ID": "24472.40.000M",
@@ -1448,16 +1508,6 @@
     "NetQuantity": 26,
     "GrossRevenue": 252.5,
     "NetRevenue": 252.5
-  },
-  {
-    "ID": "211897.94.00S2",
-    "VariantID": 46271851921546,
-    "Name": "Top tarte tatin | Silver | Studio Poespas",
-    "SoldQuantity": 96,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 96,
-    "GrossRevenue": 3744.0,
-    "NetRevenue": 3744.0
   },
   {
     "ID": "111525.52",
@@ -3880,16 +3930,6 @@
     "NetRevenue": 602.0
   },
   {
-    "ID": "PP.TP.VLK-20",
-    "VariantID": 46150386647178,
-    "Name": "Teddy pantoffels | Vegan leather & klittenband",
-    "SoldQuantity": 36,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 36,
-    "GrossRevenue": 270.0,
-    "NetRevenue": 270.0
-  },
-  {
     "ID": "24309.40.000S",
     "VariantID": 46151061241994,
     "Name": "Fanny bomber | Yellow | Amaya Amsterdam",
@@ -4228,16 +4268,6 @@
     "NetQuantity": 11,
     "GrossRevenue": 759.0,
     "NetRevenue": 759.0
-  },
-  {
-    "ID": "24368.14.000S",
-    "VariantID": 46161711071370,
-    "Name": "Pants Carmen | Beige | Studio Amaya",
-    "SoldQuantity": 13,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 13,
-    "GrossRevenue": 983.25,
-    "NetRevenue": 983.25
   },
   {
     "ID": "211646.70.0038",
@@ -8738,16 +8768,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 19.0,
     "NetRevenue": 19.0
-  },
-  {
-    "ID": "24289.80.000S",
-    "VariantID": 46151053410442,
-    "Name": "Dress Dania | Multi coral | Freebird",
-    "SoldQuantity": 13,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 13,
-    "GrossRevenue": 1668.0,
-    "NetRevenue": 1668.0
   },
   {
     "ID": "14274.64.0506",
@@ -15538,16 +15558,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 60.36,
     "NetRevenue": 60.36
-  },
-  {
-    "ID": "211801.42",
-    "VariantID": 46151162527882,
-    "Name": "Oorbellen snoepdog | Goud | Studio Poespas",
-    "SoldQuantity": 21,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 21,
-    "GrossRevenue": 280.0,
-    "NetRevenue": 280.0
   },
   {
     "ID": "31955.14",
