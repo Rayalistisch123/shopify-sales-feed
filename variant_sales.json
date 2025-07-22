@@ -1,5 +1,115 @@
 [
   {
+    "ID": "111345.12",
+    "VariantID": 46151152533642,
+    "Name": "Birthday crown with numbers | Oat milk | Fabelab",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 90.0,
+    "NetRevenue": 90.0
+  },
+  {
+    "ID": "111785.90.0203",
+    "VariantID": 46151004782730,
+    "Name": "Bermuda shorts Smiling | Black denim | Bobo Choses",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 35.0,
+    "NetRevenue": 35.0
+  },
+  {
+    "ID": "14540.80",
+    "VariantID": 46460545433738,
+    "Name": "Haarband Stripy | Knotted | Rockahula",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 50.0,
+    "NetRevenue": 50.0
+  },
+  {
+    "ID": "14537.80",
+    "VariantID": 46460534947978,
+    "Name": "Scrunchies Bunny Ears | Daisy Gingham | Rockahula",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 8.0,
+    "NetRevenue": 8.0
+  },
+  {
+    "ID": "111591.80",
+    "VariantID": 46151159021706,
+    "Name": "Haarklemmen enchanted shimmer star | 2 stuks | Rockahula",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 25.0,
+    "NetRevenue": 25.0
+  },
+  {
+    "ID": "14538.80",
+    "VariantID": 46460537471114,
+    "Name": "Elastiekjes Stripy Cherry | Rockahula",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 45.0,
+    "NetRevenue": 45.0
+  },
+  {
+    "ID": "111732.64.0008",
+    "VariantID": 46150990594186,
+    "Name": "T-shirt boxy happy flower | Off-white | Sproet & Sprout",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 17.0,
+    "NetRevenue": 17.0
+  },
+  {
+    "ID": "111746.64.0006",
+    "VariantID": 46150993445002,
+    "Name": "Flare legging stripes | Nectarine | Sproet & Sprout",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 21.0,
+    "NetRevenue": 21.0
+  },
+  {
+    "ID": "111712.64.0506",
+    "VariantID": 46150985810058,
+    "Name": "Bikini Fresia | Geranium pink | Konges Slojd",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 274.0,
+    "NetRevenue": 274.0
+  },
+  {
+    "ID": "211645.80.00S2",
+    "VariantID": 46150966378634,
+    "Name": "Top Team | Roze/oranje | Studio Poespas",
+    "SoldQuantity": 72,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 72,
+    "GrossRevenue": 3240.0,
+    "NetRevenue": 3240.0
+  },
+  {
+    "ID": "24071.60.0036",
+    "VariantID": 46151012941962,
+    "Name": "Dress Miranda | Light blue | A-view",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 75.0,
+    "NetRevenue": 75.0
+  },
+  {
     "ID": "211897.94.00S1",
     "VariantID": 46271851823242,
     "Name": "Top tarte tatin | Silver | Studio Poespas",
@@ -348,16 +458,6 @@
     "NetQuantity": 51,
     "GrossRevenue": 2124.0,
     "NetRevenue": 2124.0
-  },
-  {
-    "ID": "14540.80",
-    "VariantID": 46460545433738,
-    "Name": "Haarband Stripy | Knotted | Rockahula",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 40.0,
-    "NetRevenue": 40.0
   },
   {
     "ID": "211298.42.00S1",
@@ -1890,16 +1990,6 @@
     "NetRevenue": 48.0
   },
   {
-    "ID": "111712.64.0506",
-    "VariantID": 46150985810058,
-    "Name": "Bikini Fresia | Geranium pink | Konges Slojd",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 237.0,
-    "NetRevenue": 237.0
-  },
-  {
     "ID": "24279.80.0001",
     "VariantID": 46268648521866,
     "Name": "Dress Flirty Fling | Hearts | Studio Poespas",
@@ -2950,16 +3040,6 @@
     "NetRevenue": 48.0
   },
   {
-    "ID": "111591.80",
-    "VariantID": 46151159021706,
-    "Name": "Haarklemmen enchanted shimmer star | 2 stuks | Rockahula",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 20.0,
-    "NetRevenue": 20.0
-  },
-  {
     "ID": "18754.80",
     "VariantID": 46151136575626,
     "Name": "Slingers | Rainbow | Mimi & Lula",
@@ -3338,16 +3418,6 @@
     "NetQuantity": 113,
     "GrossRevenue": 5085.0,
     "NetRevenue": 5085.0
-  },
-  {
-    "ID": "211645.80.00S2",
-    "VariantID": 46150966378634,
-    "Name": "Top Team | Roze/oranje | Studio Poespas",
-    "SoldQuantity": 71,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 71,
-    "GrossRevenue": 3195.0,
-    "NetRevenue": 3195.0
   },
   {
     "ID": "211467.6000XS",
@@ -5248,16 +5318,6 @@
     "NetQuantity": 38,
     "GrossRevenue": 2570.25,
     "NetRevenue": 2570.25
-  },
-  {
-    "ID": "14538.80",
-    "VariantID": 46460537471114,
-    "Name": "Elastiekjes Stripy Cherry | Rockahula",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 37.5,
-    "NetRevenue": 37.5
   },
   {
     "ID": "24171.64.000L",
@@ -7598,16 +7658,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 19.0,
     "NetRevenue": 19.0
-  },
-  {
-    "ID": "111345.12",
-    "VariantID": 46151152533642,
-    "Name": "Birthday crown with numbers | Oat milk | Fabelab",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 72.0,
-    "NetRevenue": 72.0
   },
   {
     "ID": "24426.20",
