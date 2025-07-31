@@ -1,5 +1,75 @@
 [
   {
+    "ID": "24530.50.00XS",
+    "VariantID": 46458380189834,
+    "Name": "Shirt Angel | Peppermint green | Harper & Yve",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 59.99,
+    "NetRevenue": 59.99
+  },
+  {
+    "ID": "24475.60.000S",
+    "VariantID": 46347375837322,
+    "Name": "Balloon jeans Emma | Blue denim | Refined Department",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 1259.3000000000004,
+    "NetRevenue": 1259.3000000000004
+  },
+  {
+    "ID": "14198.60.0444",
+    "VariantID": 46151039058058,
+    "Name": "Color block jacket | Ultramarine/dark emerald | Tinycottons",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 44.0,
+    "NetRevenue": 44.0
+  },
+  {
+    "ID": "14024.12.0506",
+    "VariantID": 46151061667978,
+    "Name": "Swim pants Aster | Tea stripe | Konges Slojd",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 75.0,
+    "NetRevenue": 75.0
+  },
+  {
+    "ID": "VARIANT_46168731156618",
+    "VariantID": 46168731156618,
+    "Name": "Behang Onderzee | Beige",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 4362.92,
+    "NetRevenue": 4362.92
+  },
+  {
+    "ID": "211743.80.00S2",
+    "VariantID": 46151047774346,
+    "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
+    "SoldQuantity": 41,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 41,
+    "GrossRevenue": 2005.0,
+    "NetRevenue": 2005.0
+  },
+  {
+    "ID": "211744.80.00S3",
+    "VariantID": 46151048396938,
+    "Name": "Broek Urban Stars | Multicolor | Studio Poespas",
+    "SoldQuantity": 65,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 65,
+    "GrossRevenue": 3780.0,
+    "NetRevenue": 3780.0
+  },
+  {
     "ID": "24300.80.000S",
     "VariantID": 46151059177610,
     "Name": "Blazer Lida | Multi lilac | Freebird",
@@ -230,16 +300,6 @@
     "NetRevenue": 11385.0
   },
   {
-    "ID": "211744.80.00S3",
-    "VariantID": 46151048396938,
-    "Name": "Broek Urban Stars | Multicolor | Studio Poespas",
-    "SoldQuantity": 64,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 64,
-    "GrossRevenue": 3718.0,
-    "NetRevenue": 3718.0
-  },
-  {
     "ID": "211743.80.00S3",
     "VariantID": 46151047807114,
     "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
@@ -458,16 +518,6 @@
     "NetQuantity": 9,
     "GrossRevenue": 405.0,
     "NetRevenue": 405.0
-  },
-  {
-    "ID": "211743.80.00S2",
-    "VariantID": 46151047774346,
-    "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
-    "SoldQuantity": 40,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 40,
-    "GrossRevenue": 1953.0,
-    "NetRevenue": 1953.0
   },
   {
     "ID": "211744.80.00S2",
@@ -3218,16 +3268,6 @@
     "NetQuantity": 50,
     "GrossRevenue": 4759.579999999995,
     "NetRevenue": 4759.579999999995
-  },
-  {
-    "ID": "24475.60.000S",
-    "VariantID": 46347375837322,
-    "Name": "Balloon jeans Emma | Blue denim | Refined Department",
-    "SoldQuantity": 13,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 13,
-    "GrossRevenue": 1169.3500000000004,
-    "NetRevenue": 1169.3500000000004
   },
   {
     "ID": "24530.50.000L",
@@ -13840,16 +13880,6 @@
     "NetRevenue": 2810.520000000001
   },
   {
-    "ID": "VARIANT_46168731156618",
-    "VariantID": 46168731156618,
-    "Name": "Behang Onderzee | Beige",
-    "SoldQuantity": 15,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 15,
-    "GrossRevenue": 4055.8999999999996,
-    "NetRevenue": 4055.8999999999996
-  },
-  {
     "ID": "211902.10.0040",
     "VariantID": 46151000326282,
     "Name": "Blouse Christa | White | A-view",
@@ -14408,16 +14438,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 16.0,
     "NetRevenue": 16.0
-  },
-  {
-    "ID": "14024.12.0506",
-    "VariantID": 46151061667978,
-    "Name": "Swim pants Aster | Tea stripe | Konges Slojd",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 50.0,
-    "NetRevenue": 50.0
   },
   {
     "ID": "24023.12.0506",
