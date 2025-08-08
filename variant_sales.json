@@ -1,5 +1,95 @@
 [
   {
+    "ID": "14283.14.0444",
+    "VariantID": 46151053901962,
+    "Name": "Teddy jacket Jody | Ancher | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 79.0,
+    "NetRevenue": 79.0
+  },
+  {
+    "ID": "24376.62.00S1",
+    "VariantID": 46324526579850,
+    "Name": "Wavy Pants | Lilac | Studio Poespas",
+    "SoldQuantity": 43,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 43,
+    "GrossRevenue": 2469.0,
+    "NetRevenue": 2469.0
+  },
+  {
+    "ID": "211979.8000S1",
+    "VariantID": 46151057375370,
+    "Name": "Top Sorbet | Lilac-orange | Studio Poespas",
+    "SoldQuantity": 111,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 111,
+    "GrossRevenue": 4385.5,
+    "NetRevenue": 4385.5
+  },
+  {
+    "ID": "24313.80.0001",
+    "VariantID": 46268664774794,
+    "Name": "Dress Flirty Flower | Studio Poespas",
+    "SoldQuantity": 217,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 217,
+    "GrossRevenue": 13112.4,
+    "NetRevenue": 13112.4
+  },
+  {
+    "ID": "24312.80.0001",
+    "VariantID": 46268714582154,
+    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
+    "SoldQuantity": 343,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 343,
+    "GrossRevenue": 18865.0,
+    "NetRevenue": 18865.0
+  },
+  {
+    "ID": "211979.8000S2",
+    "VariantID": 46151057408138,
+    "Name": "Top Sorbet | Lilac-orange | Studio Poespas",
+    "SoldQuantity": 124,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 124,
+    "GrossRevenue": 4783.0,
+    "NetRevenue": 4783.0
+  },
+  {
+    "ID": "24608.20.00S3",
+    "VariantID": 46517983019146,
+    "Name": "Dress Duo | Orange pink | Studio Poespas",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 360.0,
+    "NetRevenue": 360.0
+  },
+  {
+    "ID": "211982.70.0038",
+    "VariantID": 46277099651210,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 378,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 378,
+    "GrossRevenue": 17010.0,
+    "NetRevenue": 17010.0
+  },
+  {
+    "ID": "24304.74.00S2",
+    "VariantID": 46367372837002,
+    "Name": "PRE-ORDER: Top Brigi | Glitterclay | Studio Poespas",
+    "SoldQuantity": 135,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 135,
+    "GrossRevenue": 5265.0,
+    "NetRevenue": 5265.0
+  },
+  {
     "ID": "111316.80",
     "VariantID": 46151151747210,
     "Name": "5-in-1 ketting summer shine | Goud | Mommy & kids",
@@ -50,26 +140,6 @@
     "NetRevenue": 1614.0500000000004
   },
   {
-    "ID": "211979.8000S1",
-    "VariantID": 46151057375370,
-    "Name": "Top Sorbet | Lilac-orange | Studio Poespas",
-    "SoldQuantity": 110,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 110,
-    "GrossRevenue": 4356.5,
-    "NetRevenue": 4356.5
-  },
-  {
-    "ID": "24312.80.0001",
-    "VariantID": 46268714582154,
-    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
-    "SoldQuantity": 342,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 342,
-    "GrossRevenue": 18810.0,
-    "NetRevenue": 18810.0
-  },
-  {
     "ID": "24278.64.0001",
     "VariantID": 46268637282442,
     "Name": "Dress Flirty | Mint to be | Studio Poespas",
@@ -88,16 +158,6 @@
     "NetQuantity": 87,
     "GrossRevenue": 3915.0,
     "NetRevenue": 3915.0
-  },
-  {
-    "ID": "211979.8000S2",
-    "VariantID": 46151057408138,
-    "Name": "Top Sorbet | Lilac-orange | Studio Poespas",
-    "SoldQuantity": 123,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 123,
-    "GrossRevenue": 4754.0,
-    "NetRevenue": 4754.0
   },
   {
     "ID": "211510.42.00S1",
@@ -200,16 +260,6 @@
     "NetRevenue": 130.0
   },
   {
-    "ID": "24608.20.00S3",
-    "VariantID": 46517983019146,
-    "Name": "Dress Duo | Orange pink | Studio Poespas",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 315.0,
-    "NetRevenue": 315.0
-  },
-  {
     "ID": "211986.12.00S2",
     "VariantID": 46375080394890,
     "Name": "PRE-ORDER: Top Madame Colette | Ecru | Studio Poespas",
@@ -258,16 +308,6 @@
     "NetQuantity": 71,
     "GrossRevenue": 3954.5,
     "NetRevenue": 3954.5
-  },
-  {
-    "ID": "24376.62.00S1",
-    "VariantID": 46324526579850,
-    "Name": "Wavy Pants | Lilac | Studio Poespas",
-    "SoldQuantity": 42,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 42,
-    "GrossRevenue": 2428.0,
-    "NetRevenue": 2428.0
   },
   {
     "ID": "24225.24.000M",
@@ -668,16 +708,6 @@
     "NetQuantity": 26,
     "GrossRevenue": 1819.74,
     "NetRevenue": 1819.74
-  },
-  {
-    "ID": "24304.74.00S2",
-    "VariantID": 46367372837002,
-    "Name": "PRE-ORDER: Top Brigi | Glitterclay | Studio Poespas",
-    "SoldQuantity": 134,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 134,
-    "GrossRevenue": 5226.0,
-    "NetRevenue": 5226.0
   },
   {
     "ID": "24607.72.0040",
@@ -1168,16 +1198,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 324.0,
     "NetRevenue": 324.0
-  },
-  {
-    "ID": "24313.80.0001",
-    "VariantID": 46268664774794,
-    "Name": "Dress Flirty Flower | Studio Poespas",
-    "SoldQuantity": 216,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 216,
-    "GrossRevenue": 13069.0,
-    "NetRevenue": 13069.0
   },
   {
     "ID": "211781.12.00XS",
@@ -2468,16 +2488,6 @@
     "NetQuantity": 79,
     "GrossRevenue": 4700.069999999993,
     "NetRevenue": 4700.069999999993
-  },
-  {
-    "ID": "211982.70.0038",
-    "VariantID": 46277099651210,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 377,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 377,
-    "GrossRevenue": 16965.0,
-    "NetRevenue": 16965.0
   },
   {
     "ID": "24463.62.000M",
