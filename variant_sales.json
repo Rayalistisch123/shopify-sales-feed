@@ -1,13 +1,103 @@
 [
   {
+    "ID": "24463.62.0XXL",
+    "VariantID": 46321642832010,
+    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 120.0,
+    "NetRevenue": 120.0
+  },
+  {
+    "ID": "24306.74.00S1",
+    "VariantID": 46487743725706,
+    "Name": "Top Bardot | Glitterclay | Studio Poespas",
+    "SoldQuantity": 39,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 39,
+    "GrossRevenue": 1872.0,
+    "NetRevenue": 1872.0
+  },
+  {
+    "ID": "211482.42.00S4",
+    "VariantID": 46150976667786,
+    "Name": "Dress Plissé | Pink champagne | Studio Poespas",
+    "SoldQuantity": 55,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 55,
+    "GrossRevenue": 2810.25,
+    "NetRevenue": 2810.25
+  },
+  {
+    "ID": "211986.12.00S2",
+    "VariantID": 46375080394890,
+    "Name": "PRE-ORDER: Top Madame Colette | Ecru | Studio Poespas",
+    "SoldQuantity": 37,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 37,
+    "GrossRevenue": 1406.0,
+    "NetRevenue": 1406.0
+  },
+  {
+    "ID": "211743.80.00S2",
+    "VariantID": 46151047774346,
+    "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
+    "SoldQuantity": 49,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 49,
+    "GrossRevenue": 2344.0,
+    "NetRevenue": 2344.0
+  },
+  {
+    "ID": "211988.20.00S2",
+    "VariantID": 46375072989322,
+    "Name": "PRE-ORDER: Top Madame Colette | Burgundy | Studio Poespas",
+    "SoldQuantity": 27,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 27,
+    "GrossRevenue": 1026.0,
+    "NetRevenue": 1026.0
+  },
+  {
+    "ID": "24306.74.00S2",
+    "VariantID": 46487743758474,
+    "Name": "Top Bardot | Glitterclay | Studio Poespas",
+    "SoldQuantity": 24,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 24,
+    "GrossRevenue": 1152.0,
+    "NetRevenue": 1152.0
+  },
+  {
+    "ID": "24083.94.000S",
+    "VariantID": 46151040532618,
+    "Name": "Overslagjurk Bonita | Silver | JOSH V",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 676.99,
+    "NetRevenue": 676.99
+  },
+  {
+    "ID": "111340.10",
+    "VariantID": 46151152271498,
+    "Name": "Sleutelhanger Lemon | Reflecterend | Konges Slojd",
+    "SoldQuantity": 10,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 10,
+    "GrossRevenue": 39.5,
+    "NetRevenue": 39.5
+  },
+  {
     "ID": "24312.80.0002",
     "VariantID": 46268714614922,
     "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
-    "SoldQuantity": 257,
+    "SoldQuantity": 258,
     "ReturnedQuantity": 0,
-    "NetQuantity": 257,
-    "GrossRevenue": 14135.0,
-    "NetRevenue": 14135.0
+    "NetQuantity": 258,
+    "GrossRevenue": 14190.0,
+    "NetRevenue": 14190.0
   },
   {
     "ID": "12818.14",
@@ -340,26 +430,6 @@
     "NetRevenue": 245.0
   },
   {
-    "ID": "24306.74.00S2",
-    "VariantID": 46487743758474,
-    "Name": "Top Bardot | Glitterclay | Studio Poespas",
-    "SoldQuantity": 23,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 23,
-    "GrossRevenue": 1104.0,
-    "NetRevenue": 1104.0
-  },
-  {
-    "ID": "211988.20.00S2",
-    "VariantID": 46375072989322,
-    "Name": "PRE-ORDER: Top Madame Colette | Burgundy | Studio Poespas",
-    "SoldQuantity": 26,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 26,
-    "GrossRevenue": 988.0,
-    "NetRevenue": 988.0
-  },
-  {
     "ID": "24466.60.0042",
     "VariantID": 46367525666954,
     "Name": "Short Jildau | Blue denim | Studio Poespas",
@@ -518,16 +588,6 @@
     "NetQuantity": 62,
     "GrossRevenue": 3470.0,
     "NetRevenue": 3470.0
-  },
-  {
-    "ID": "24306.74.00S1",
-    "VariantID": 46487743725706,
-    "Name": "Top Bardot | Glitterclay | Studio Poespas",
-    "SoldQuantity": 38,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 38,
-    "GrossRevenue": 1824.0,
-    "NetRevenue": 1824.0
   },
   {
     "ID": "111738.64.0006",
@@ -1030,16 +1090,6 @@
     "NetRevenue": 939.5600000000003
   },
   {
-    "ID": "211986.12.00S2",
-    "VariantID": 46375080394890,
-    "Name": "PRE-ORDER: Top Madame Colette | Ecru | Studio Poespas",
-    "SoldQuantity": 35,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 35,
-    "GrossRevenue": 1330.0,
-    "NetRevenue": 1330.0
-  },
-  {
     "ID": "24218.94.00XS",
     "VariantID": 46151053541514,
     "Name": "Bomberjack Sweet Home Alabama | Silver roses | Studio Amaya x Poespas",
@@ -1248,16 +1298,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 308.0,
     "NetRevenue": 308.0
-  },
-  {
-    "ID": "24463.62.0XXL",
-    "VariantID": 46321642832010,
-    "Name": "T-Shirt 90's Club | Purple | Studio Poespas",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 80.0,
-    "NetRevenue": 80.0
   },
   {
     "ID": "24463.62.00XL",
@@ -1680,16 +1720,6 @@
     "NetRevenue": 4665.0
   },
   {
-    "ID": "211482.42.00S4",
-    "VariantID": 46150976667786,
-    "Name": "Dress Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 54,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 54,
-    "GrossRevenue": 2776.25,
-    "NetRevenue": 2776.25
-  },
-  {
     "ID": "PP4098C",
     "VariantID": 46165696249994,
     "Name": "Behangcirkel Safari | Circle of Life Collection | ⌀ 145 cm | Staaltje",
@@ -2008,16 +2038,6 @@
     "NetQuantity": 82,
     "GrossRevenue": 3280.0,
     "NetRevenue": 3280.0
-  },
-  {
-    "ID": "211743.80.00S2",
-    "VariantID": 46151047774346,
-    "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
-    "SoldQuantity": 48,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 48,
-    "GrossRevenue": 2303.0,
-    "NetRevenue": 2303.0
   },
   {
     "ID": "24611.10.000M",
@@ -9920,16 +9940,6 @@
     "NetRevenue": 17.0
   },
   {
-    "ID": "111340.10",
-    "VariantID": 46151152271498,
-    "Name": "Sleutelhanger Lemon | Reflecterend | Konges Slojd",
-    "SoldQuantity": 9,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 9,
-    "GrossRevenue": 35.55,
-    "NetRevenue": 35.55
-  },
-  {
     "ID": "211597.40",
     "VariantID": 46151156170890,
     "Name": "Tas bubblegum | Citroen",
@@ -12768,16 +12778,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 425.0,
     "NetRevenue": 425.0
-  },
-  {
-    "ID": "24083.94.000S",
-    "VariantID": 46151040532618,
-    "Name": "Overslagjurk Bonita | Silver | JOSH V",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 577.99,
-    "NetRevenue": 577.99
   },
   {
     "ID": "PP2228S",
