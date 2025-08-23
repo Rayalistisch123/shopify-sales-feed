@@ -1,5 +1,65 @@
 [
   {
+    "ID": "28163.50.00S1",
+    "VariantID": 46150843924618,
+    "Name": "Cardigan Fluff | Army | Studio Poespas",
+    "SoldQuantity": 52,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 52,
+    "GrossRevenue": 920.4000000000009,
+    "NetRevenue": 920.4000000000009
+  },
+  {
+    "ID": "211476.62.00S2",
+    "VariantID": 46150969163914,
+    "Name": "Dress Fizzypop | Cherrycola | Studio Poespas",
+    "SoldQuantity": 28,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 28,
+    "GrossRevenue": 579.6,
+    "NetRevenue": 579.6
+  },
+  {
+    "ID": "211796.50.000S",
+    "VariantID": 46150981976202,
+    "Name": "Dress Blossom | Bright green | Freebird",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 454.0,
+    "NetRevenue": 454.0
+  },
+  {
+    "ID": "24322.80.000S",
+    "VariantID": 46205151281290,
+    "Name": "Dress Yade | Ecru multi | Harper & Yve",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 1796.95,
+    "NetRevenue": 1796.95
+  },
+  {
+    "ID": "211484.50.00S1",
+    "VariantID": 46151046463626,
+    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 103,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 103,
+    "GrossRevenue": 4603.0,
+    "NetRevenue": 4603.0
+  },
+  {
+    "ID": "211486.50.00S1",
+    "VariantID": 46151047184522,
+    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 65,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 65,
+    "GrossRevenue": 3570.5,
+    "NetRevenue": 3570.5
+  },
+  {
     "ID": "24613.60",
     "VariantID": 46535156465802,
     "Name": "Paspoorthoes voor 1 of 2 pers. | Vacay vibes sand blue | Studio Poespas",
@@ -248,16 +308,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 228.0,
     "NetRevenue": 228.0
-  },
-  {
-    "ID": "28163.50.00S1",
-    "VariantID": 46150843924618,
-    "Name": "Cardigan Fluff | Army | Studio Poespas",
-    "SoldQuantity": 51,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 51,
-    "GrossRevenue": 902.7000000000008,
-    "NetRevenue": 902.7000000000008
   },
   {
     "ID": "14282.60.0506",
@@ -1110,16 +1160,6 @@
     "NetRevenue": 74.0
   },
   {
-    "ID": "211484.50.00S1",
-    "VariantID": 46151046463626,
-    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 102,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 102,
-    "GrossRevenue": 4570.0,
-    "NetRevenue": 4570.0
-  },
-  {
     "ID": "24485.40.0XSS",
     "VariantID": 46395025457290,
     "Name": "PRE-ORDER: Top Check me out | Butteryellow | Studio Poespas",
@@ -1368,16 +1408,6 @@
     "NetQuantity": 232,
     "GrossRevenue": 13757.8,
     "NetRevenue": 13757.8
-  },
-  {
-    "ID": "211486.50.00S1",
-    "VariantID": 46151047184522,
-    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 64,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 64,
-    "GrossRevenue": 3529.5,
-    "NetRevenue": 3529.5
   },
   {
     "ID": "211979.8000S1",
@@ -2798,16 +2828,6 @@
     "NetQuantity": 44,
     "GrossRevenue": 2112.0,
     "NetRevenue": 2112.0
-  },
-  {
-    "ID": "211476.62.00S2",
-    "VariantID": 46150969163914,
-    "Name": "Dress Fizzypop | Cherrycola | Studio Poespas",
-    "SoldQuantity": 27,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 27,
-    "GrossRevenue": 558.9,
-    "NetRevenue": 558.9
   },
   {
     "ID": "211877.80.00S1",
@@ -4878,16 +4898,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 177.99,
     "NetRevenue": 177.99
-  },
-  {
-    "ID": "211796.50.000S",
-    "VariantID": 46150981976202,
-    "Name": "Dress Blossom | Bright green | Freebird",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 380.0,
-    "NetRevenue": 380.0
   },
   {
     "ID": "24331.40.000S",
@@ -8108,16 +8118,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 708.0,
     "NetRevenue": 708.0
-  },
-  {
-    "ID": "24322.80.000S",
-    "VariantID": 46205151281290,
-    "Name": "Dress Yade | Ecru multi | Harper & Yve",
-    "SoldQuantity": 15,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 15,
-    "GrossRevenue": 1729.95,
-    "NetRevenue": 1729.95
   },
   {
     "ID": "24228.64.000S",
