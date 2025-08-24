@@ -1,5 +1,85 @@
 [
   {
+    "ID": "14606.64.0029",
+    "VariantID": 46511287992458,
+    "Name": "Thermo boots glitter | Rose taupe | En Fant",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 59.0,
+    "NetRevenue": 59.0
+  },
+  {
+    "ID": "24300.80.000S",
+    "VariantID": 46151059177610,
+    "Name": "Blazer Lida | Multi lilac | Freebird",
+    "SoldQuantity": 11,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 11,
+    "GrossRevenue": 1105.0,
+    "NetRevenue": 1105.0
+  },
+  {
+    "ID": "211778.50.000S",
+    "VariantID": 46150979092618,
+    "Name": "Dress Daantje | Sea green | Freebird",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 418.25,
+    "NetRevenue": 418.25
+  },
+  {
+    "ID": "211797.64.000M",
+    "VariantID": 46150982434954,
+    "Name": "Dress Daantje | Pink | Freebird",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 615.0,
+    "NetRevenue": 615.0
+  },
+  {
+    "ID": "111644.90",
+    "VariantID": 46151160856714,
+    "Name": "Toverstokje Aurora | Black | Mimi & Lula",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 24.0,
+    "NetRevenue": 24.0
+  },
+  {
+    "ID": "111642.90",
+    "VariantID": 46151160791178,
+    "Name": "Heksenhoed Aurora | Black | Mimi & Lula",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 34.0,
+    "NetRevenue": 34.0
+  },
+  {
+    "ID": "111645.90",
+    "VariantID": 46151160987786,
+    "Name": "Verkleedcape Aurora | Black | Mimi & Lula",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 44.0,
+    "NetRevenue": 44.0
+  },
+  {
+    "ID": "34265.80",
+    "VariantID": 46151169441930,
+    "Name": "Family paspoort | Smiley | Studio Poespas",
+    "SoldQuantity": 1623,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1623,
+    "GrossRevenue": 49180.0,
+    "NetRevenue": 49180.0
+  },
+  {
     "ID": "PP4031C",
     "VariantID": 46151105085578,
     "Name": "Behangcirkel Dino",
@@ -488,16 +568,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 45.0,
     "NetRevenue": 45.0
-  },
-  {
-    "ID": "34265.80",
-    "VariantID": 46151169441930,
-    "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 1622,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1622,
-    "GrossRevenue": 49147.5,
-    "NetRevenue": 49147.5
   },
   {
     "ID": "211644.80.00S1",
@@ -5450,16 +5520,6 @@
     "NetRevenue": 4023.1099999999974
   },
   {
-    "ID": "111644.90",
-    "VariantID": 46151160856714,
-    "Name": "Toverstokje Aurora | Black | Mimi & Lula",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 18.0,
-    "NetRevenue": 18.0
-  },
-  {
     "ID": "111643.90",
     "VariantID": 46151161086090,
     "Name": "Tutu Aurora | Black | Mimi & Lula",
@@ -5468,16 +5528,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 24.0,
     "NetRevenue": 24.0
-  },
-  {
-    "ID": "111645.90",
-    "VariantID": 46151160987786,
-    "Name": "Verkleedcape Aurora | Black | Mimi & Lula",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 22.0,
-    "NetRevenue": 22.0
   },
   {
     "ID": "PP3303b",
@@ -8920,16 +8970,6 @@
     "NetRevenue": 60.0
   },
   {
-    "ID": "24300.80.000S",
-    "VariantID": 46151059177610,
-    "Name": "Blazer Lida | Multi lilac | Freebird",
-    "SoldQuantity": 10,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 10,
-    "GrossRevenue": 1046.0,
-    "NetRevenue": 1046.0
-  },
-  {
     "ID": "24324.59.0026",
     "VariantID": 46205149905034,
     "Name": "Short Yve | Light blue | Harper & Yve",
@@ -11038,16 +11078,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 59.0,
     "NetRevenue": 59.0
-  },
-  {
-    "ID": "111642.90",
-    "VariantID": 46151160791178,
-    "Name": "Heksenhoed Aurora | Black | Mimi & Lula",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 17.0,
-    "NetRevenue": 17.0
   },
   {
     "ID": "111641.90",
@@ -14268,16 +14298,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 270.0,
     "NetRevenue": 270.0
-  },
-  {
-    "ID": "211797.64.000M",
-    "VariantID": 46150982434954,
-    "Name": "Dress Daantje | Pink | Freebird",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 536.0,
-    "NetRevenue": 536.0
   },
   {
     "ID": "24090.14.000S",
@@ -18678,16 +18698,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 9.95,
     "NetRevenue": 9.95
-  },
-  {
-    "ID": "211778.50.000S",
-    "VariantID": 46150979092618,
-    "Name": "Dress Daantje | Sea green | Freebird",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 339.25,
-    "NetRevenue": 339.25
   },
   {
     "ID": "PP3049",
