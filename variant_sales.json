@@ -1,23 +1,533 @@
 [
   {
+    "ID": "29471.80",
+    "VariantID": 46151137132682,
+    "Name": "Knuffel Luna Lamb | Cream/burgundy | Patti Oslo",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 40.0,
+    "NetRevenue": 40.0
+  },
+  {
+    "ID": "211914.80.000S",
+    "VariantID": 46151003177098,
+    "Name": "Pauline sweater | Black | Stieglitz",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 543.0,
+    "NetRevenue": 543.0
+  },
+  {
+    "ID": "111196.80.00S2",
+    "VariantID": 46150878003338,
+    "Name": "Trui Dottie kids | Neon pink & sand | Studio Poespas",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 183.0,
+    "NetRevenue": 183.0
+  },
+  {
+    "ID": "27879.90.000L",
+    "VariantID": 46375037239434,
+    "Name": "Sexy big dots | Shapewear | Black | MAGIC Bodyfashion",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 32.8,
+    "NetRevenue": 32.8
+  },
+  {
+    "ID": "211971.80.000S",
+    "VariantID": 46151017857162,
+    "Name": "Top Lorel | Paisley | Studio Amaya",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 88.0,
+    "NetRevenue": 88.0
+  },
+  {
+    "ID": "211300.80.00S2",
+    "VariantID": 46150876790922,
+    "Name": "Cardigan Bonbon | White & black | Studio Poespas",
+    "SoldQuantity": 77,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 77,
+    "GrossRevenue": 2443.75,
+    "NetRevenue": 2443.75
+  },
+  {
+    "ID": "VARIANT_46165768896650",
+    "VariantID": 46165768896650,
+    "Name": "Behang Wereldkaart | Mint",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 1494.49,
+    "NetRevenue": 1494.49
+  },
+  {
+    "ID": "11977.64.00S1",
+    "VariantID": 46324566491274,
+    "Name": "Top Amore | Burgundy | Studio Poespas",
+    "SoldQuantity": 82,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 82,
+    "GrossRevenue": 4352.0,
+    "NetRevenue": 4352.0
+  },
+  {
+    "ID": "211300.80.00S1",
+    "VariantID": 46150876758154,
+    "Name": "Cardigan Bonbon | White & black | Studio Poespas",
+    "SoldQuantity": 39,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 39,
+    "GrossRevenue": 1210.0,
+    "NetRevenue": 1210.0
+  },
+  {
+    "ID": "211734.90000S",
+    "VariantID": 46150963363978,
+    "Name": "Gilet Peggy | Black | Ydence",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 162.2,
+    "NetRevenue": 162.2
+  },
+  {
+    "ID": "211476.62.00S2",
+    "VariantID": 46150969163914,
+    "Name": "Dress Fizzypop | Cherrycola | Studio Poespas",
+    "SoldQuantity": 34,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 34,
+    "GrossRevenue": 661.0000000000001,
+    "NetRevenue": 661.0000000000001
+  },
+  {
+    "ID": "211931.64.000S",
+    "VariantID": 46151044595850,
+    "Name": "Jurk Jayda | Flirty flower | Harper & Yve",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 436.0,
+    "NetRevenue": 436.0
+  },
+  {
     "ID": "24222.64.000M",
     "VariantID": 46151055212682,
     "Name": "Blazer Clueless | Pink sparkling check | Studio Amaya x Poespas",
-    "SoldQuantity": 64,
+    "SoldQuantity": 66,
     "ReturnedQuantity": 0,
-    "NetQuantity": 64,
-    "GrossRevenue": 5583.339999999994,
-    "NetRevenue": 5583.339999999994
+    "NetQuantity": 66,
+    "GrossRevenue": 5663.339999999993,
+    "NetRevenue": 5663.339999999993
+  },
+  {
+    "ID": "24220.94.000S",
+    "VariantID": 46151054557322,
+    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
+    "SoldQuantity": 41,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 41,
+    "GrossRevenue": 3233.929999999998,
+    "NetRevenue": 3233.929999999998
+  },
+  {
+    "ID": "211299.60.00S1",
+    "VariantID": 46150876364938,
+    "Name": "Top Sugar dust | Icy blue | Studio Poespas",
+    "SoldQuantity": 31,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 31,
+    "GrossRevenue": 927.5,
+    "NetRevenue": 927.5
+  },
+  {
+    "ID": "111733.64.0006",
+    "VariantID": 46150990954634,
+    "Name": "T-shirt sproet print | Off-white | Sproet & Sprout",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 13.0,
+    "NetRevenue": 13.0
+  },
+  {
+    "ID": "14099.60.0128",
+    "VariantID": 46151028965514,
+    "Name": "Bomber jacket | Super sonic | En Fant",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 54.0,
+    "NetRevenue": 54.0
+  },
+  {
+    "ID": "14257.92.110116",
+    "VariantID": 46151049412746,
+    "Name": "Hoodie Paz | Grey melee light | Labo de Colores",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 21.0,
+    "NetRevenue": 21.0
+  },
+  {
+    "ID": "24220.94.000L",
+    "VariantID": 46151054622858,
+    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
+    "SoldQuantity": 58,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 58,
+    "GrossRevenue": 3925.469999999996,
+    "NetRevenue": 3925.469999999996
   },
   {
     "ID": "24223.64.000M",
     "VariantID": 46151054753930,
     "Name": "Short Legally Blonde | Pink sparkling check | Studio Amaya x Poespas",
-    "SoldQuantity": 81,
+    "SoldQuantity": 83,
     "ReturnedQuantity": 0,
-    "NetQuantity": 81,
-    "GrossRevenue": 4954.429999999993,
-    "NetRevenue": 4954.429999999993
+    "NetQuantity": 83,
+    "GrossRevenue": 5004.429999999993,
+    "NetRevenue": 5004.429999999993
+  },
+  {
+    "ID": "24222.64.000S",
+    "VariantID": 46151055179914,
+    "Name": "Blazer Clueless | Pink sparkling check | Studio Amaya x Poespas",
+    "SoldQuantity": 89,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 89,
+    "GrossRevenue": 7563.17999999999,
+    "NetRevenue": 7563.17999999999
+  },
+  {
+    "ID": "12945.64",
+    "VariantID": 46150537019530,
+    "Name": "Spaarpot Palma | Liewood",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 45.0,
+    "NetRevenue": 45.0
+  },
+  {
+    "ID": "24227.64.00XL",
+    "VariantID": 46151056523402,
+    "Name": "Bomberjack The Princess Diaries | Pink sequin bouquet | Studio Amaya x Poespas",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 746.4200000000001,
+    "NetRevenue": 746.4200000000001
+  },
+  {
+    "ID": "211903.64.0036",
+    "VariantID": 46151001931914,
+    "Name": "Dress Sinda | Pale rose | A-view",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 140.0,
+    "NetRevenue": 140.0
+  },
+  {
+    "ID": "24278.64.0001",
+    "VariantID": 46268637282442,
+    "Name": "Dress Flirty | Mint to be | Studio Poespas",
+    "SoldQuantity": 151,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 151,
+    "GrossRevenue": 9016.5,
+    "NetRevenue": 9016.5
+  },
+  {
+    "ID": "211875.80.00S2",
+    "VariantID": 46151056785546,
+    "Name": "Soccer Tee | Pink vs. Navy | Studio Poespas",
+    "SoldQuantity": 75,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 75,
+    "GrossRevenue": 4261.0,
+    "NetRevenue": 4261.0
+  },
+  {
+    "ID": "14028.80",
+    "VariantID": 46151145488522,
+    "Name": "Ringen set | 12 stuks | Multi color | Konges Slojd",
+    "SoldQuantity": 15,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 15,
+    "GrossRevenue": 254.0,
+    "NetRevenue": 254.0
+  },
+  {
+    "ID": "24313.80.0001",
+    "VariantID": 46268664774794,
+    "Name": "Dress Flirty Flower | Studio Poespas",
+    "SoldQuantity": 238,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 238,
+    "GrossRevenue": 13937.8,
+    "NetRevenue": 13937.8
+  },
+  {
+    "ID": "211298.42.00S2",
+    "VariantID": 46150876037258,
+    "Name": "Top Sugar dust | Oscar gold | Studio Poespas",
+    "SoldQuantity": 33,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 33,
+    "GrossRevenue": 930.0,
+    "NetRevenue": 930.0
+  },
+  {
+    "ID": "28300.80",
+    "VariantID": 46151131529354,
+    "Name": "Weekly planner | A4 | Studio Poespas",
+    "SoldQuantity": 44,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 44,
+    "GrossRevenue": 270.6,
+    "NetRevenue": 270.6
+  },
+  {
+    "ID": "211743.80.00S2",
+    "VariantID": 46151047774346,
+    "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
+    "SoldQuantity": 61,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 61,
+    "GrossRevenue": 2605.0,
+    "NetRevenue": 2605.0
+  },
+  {
+    "ID": "24225.24.000L",
+    "VariantID": 46151056654474,
+    "Name": "Rok What Happens In Vegas | Sequin shells | Studio Amaya x Poespas",
+    "SoldQuantity": 65,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 65,
+    "GrossRevenue": 3892.1799999999957,
+    "NetRevenue": 3892.1799999999957
+  },
+  {
+    "ID": "211802.42",
+    "VariantID": 46151162593418,
+    "Name": "Ketting hartje geometrisch | Roze/goud | Studio Poespas",
+    "SoldQuantity": 22,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 22,
+    "GrossRevenue": 267.75,
+    "NetRevenue": 267.75
+  },
+  {
+    "ID": "24222.64.00XL",
+    "VariantID": 46151055278218,
+    "Name": "Blazer Clueless | Pink sparkling check | Studio Amaya x Poespas",
+    "SoldQuantity": 30,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 30,
+    "GrossRevenue": 2814.479999999999,
+    "NetRevenue": 2814.479999999999
+  },
+  {
+    "ID": "211972.80.000S",
+    "VariantID": 46151017529482,
+    "Name": "Pants Viv | Paisley | Studio Amaya",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 162.0,
+    "NetRevenue": 162.0
+  },
+  {
+    "ID": "24306.74.00S1",
+    "VariantID": 46487743725706,
+    "Name": "Top Bardot | Glitterclay | Studio Poespas",
+    "SoldQuantity": 47,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 47,
+    "GrossRevenue": 2256.0,
+    "NetRevenue": 2256.0
+  },
+  {
+    "ID": "24167.90.000S",
+    "VariantID": 46506666557578,
+    "Name": "Cargo pants Nevada | Black | Refined Department",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 75.0,
+    "NetRevenue": 75.0
+  },
+  {
+    "ID": "24226.24.000L",
+    "VariantID": 46151056982154,
+    "Name": "Blazer The Wedding Planner | Shimmer satin | Studio Amaya x Poespas",
+    "SoldQuantity": 32,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 32,
+    "GrossRevenue": 2688.769999999999,
+    "NetRevenue": 2688.769999999999
+  },
+  {
+    "ID": "211298.42.00S3",
+    "VariantID": 46150876070026,
+    "Name": "Top Sugar dust | Oscar gold | Studio Poespas",
+    "SoldQuantity": 15,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 15,
+    "GrossRevenue": 350.0,
+    "NetRevenue": 350.0
+  },
+  {
+    "ID": "211486.50.00S4",
+    "VariantID": 46151047282826,
+    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 18,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 18,
+    "GrossRevenue": 953.0,
+    "NetRevenue": 953.0
+  },
+  {
+    "ID": "211483.42.00S4",
+    "VariantID": 46150977650826,
+    "Name": "Pants Plissé | Pink champagne | Studio Poespas",
+    "SoldQuantity": 20,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 20,
+    "GrossRevenue": 708.5,
+    "NetRevenue": 708.5
+  },
+  {
+    "ID": "211484.50.00S4",
+    "VariantID": 46151046561930,
+    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
+    "SoldQuantity": 29,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 29,
+    "GrossRevenue": 1231.0,
+    "NetRevenue": 1231.0
+  },
+  {
+    "ID": "24613.60",
+    "VariantID": 46535156465802,
+    "Name": "Paspoorthoes voor 1 of 2 pers. | Vacay vibes sand blue | Studio Poespas",
+    "SoldQuantity": 142,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 142,
+    "GrossRevenue": 4260.0,
+    "NetRevenue": 4260.0
+  },
+  {
+    "ID": "24376.62.00S4",
+    "VariantID": 46324526678154,
+    "Name": "Wavy Pants | Lilac | Studio Poespas",
+    "SoldQuantity": 10,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 10,
+    "GrossRevenue": 527.0,
+    "NetRevenue": 527.0
+  },
+  {
+    "ID": "211677.80.00S3",
+    "VariantID": 46165374304394,
+    "Name": "Trui Crochet | Purple | Studio Poespas",
+    "SoldQuantity": 15,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 15,
+    "GrossRevenue": 778.0,
+    "NetRevenue": 778.0
+  },
+  {
+    "ID": "211297.90.00S1",
+    "VariantID": 46150876233866,
+    "Name": "Top Sugar dust | Titanium black | Studio Poespas",
+    "SoldQuantity": 42,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 42,
+    "GrossRevenue": 955.0,
+    "NetRevenue": 955.0
+  },
+  {
+    "ID": "211608.74.0037",
+    "VariantID": 46150944817290,
+    "Name": "Regenlaarzen Garfil | Taupe | Unisa",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 40.0,
+    "NetRevenue": 40.0
+  },
+  {
+    "ID": "29994.64.00S1",
+    "VariantID": 46150804045962,
+    "Name": "Trui Dottie dames | Neon pink & sand | Studio Poespas",
+    "SoldQuantity": 54,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 54,
+    "GrossRevenue": 2960.0,
+    "NetRevenue": 2960.0
+  },
+  {
+    "ID": "111196.80.00S1",
+    "VariantID": 46150877970570,
+    "Name": "Trui Dottie kids | Neon pink & sand | Studio Poespas",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 101.0,
+    "NetRevenue": 101.0
+  },
+  {
+    "ID": "24502.50.000L",
+    "VariantID": 46434298724490,
+    "Name": "Shirt Wavy princess | Studio Poespas",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 120.0,
+    "NetRevenue": 120.0
+  },
+  {
+    "ID": "24380.80.000M",
+    "VariantID": 46257244602506,
+    "Name": "T-shirt back 2 the 90's | Asphalt | Studio Poespas",
+    "SoldQuantity": 205,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 205,
+    "GrossRevenue": 8200.0,
+    "NetRevenue": 8200.0
+  },
+  {
+    "ID": "24233.64.000S",
+    "VariantID": 46321642012810,
+    "Name": "Jurk Pretty Woman | Pink sequin bouquet | Studio Amaya x Poespas",
+    "SoldQuantity": 50,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 50,
+    "GrossRevenue": 5245.869999999995,
+    "NetRevenue": 5245.869999999995
+  },
+  {
+    "ID": "24225.24.00XL",
+    "VariantID": 46151056687242,
+    "Name": "Rok What Happens In Vegas | Sequin shells | Studio Amaya x Poespas",
+    "SoldQuantity": 39,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 39,
+    "GrossRevenue": 2238.1800000000003,
+    "NetRevenue": 2238.1800000000003
   },
   {
     "ID": "211486.50.00S1",
@@ -80,16 +590,6 @@
     "NetRevenue": 3680.0
   },
   {
-    "ID": "211743.80.00S2",
-    "VariantID": 46151047774346,
-    "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
-    "SoldQuantity": 59,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 59,
-    "GrossRevenue": 2565.0,
-    "NetRevenue": 2565.0
-  },
-  {
     "ID": "211878.80.00S3",
     "VariantID": 46165634449546,
     "Name": "Top V-vibe | Santorini | Studio Poespas",
@@ -140,16 +640,6 @@
     "NetRevenue": 398.0
   },
   {
-    "ID": "211298.42.00S2",
-    "VariantID": 46150876037258,
-    "Name": "Top Sugar dust | Oscar gold | Studio Poespas",
-    "SoldQuantity": 31,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 31,
-    "GrossRevenue": 900.0,
-    "NetRevenue": 900.0
-  },
-  {
     "ID": "211299.60.00S2",
     "VariantID": 46150876397706,
     "Name": "Top Sugar dust | Icy blue | Studio Poespas",
@@ -180,16 +670,6 @@
     "NetRevenue": 406.0
   },
   {
-    "ID": "211297.90.00S1",
-    "VariantID": 46150876233866,
-    "Name": "Top Sugar dust | Titanium black | Studio Poespas",
-    "SoldQuantity": 41,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 41,
-    "GrossRevenue": 940.0,
-    "NetRevenue": 940.0
-  },
-  {
     "ID": "111668.80",
     "VariantID": 46151161643146,
     "Name": "Sleutelhanger snoepdog | Studio Poespas",
@@ -208,26 +688,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 197.0,
     "NetRevenue": 197.0
-  },
-  {
-    "ID": "211300.80.00S1",
-    "VariantID": 46150876758154,
-    "Name": "Cardigan Bonbon | White & black | Studio Poespas",
-    "SoldQuantity": 37,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 37,
-    "GrossRevenue": 1180.0,
-    "NetRevenue": 1180.0
-  },
-  {
-    "ID": "211299.60.00S1",
-    "VariantID": 46150876364938,
-    "Name": "Top Sugar dust | Icy blue | Studio Poespas",
-    "SoldQuantity": 29,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 29,
-    "GrossRevenue": 897.5,
-    "NetRevenue": 897.5
   },
   {
     "ID": "211484.50.00S1",
@@ -280,16 +740,6 @@
     "NetRevenue": 4107.469999999996
   },
   {
-    "ID": "24222.64.000S",
-    "VariantID": 46151055179914,
-    "Name": "Blazer Clueless | Pink sparkling check | Studio Amaya x Poespas",
-    "SoldQuantity": 88,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 88,
-    "GrossRevenue": 7523.17999999999,
-    "NetRevenue": 7523.17999999999
-  },
-  {
     "ID": "24233.64.000M",
     "VariantID": 46321642045578,
     "Name": "Jurk Pretty Woman | Pink sequin bouquet | Studio Amaya x Poespas",
@@ -320,26 +770,6 @@
     "NetRevenue": 2855.6299999999987
   },
   {
-    "ID": "28300.80",
-    "VariantID": 46151131529354,
-    "Name": "Weekly planner | A4 | Studio Poespas",
-    "SoldQuantity": 43,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 43,
-    "GrossRevenue": 265.6,
-    "NetRevenue": 265.6
-  },
-  {
-    "ID": "211300.80.00S2",
-    "VariantID": 46150876790922,
-    "Name": "Cardigan Bonbon | White & black | Studio Poespas",
-    "SoldQuantity": 74,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 74,
-    "GrossRevenue": 2398.75,
-    "NetRevenue": 2398.75
-  },
-  {
     "ID": "211744.80.00S1",
     "VariantID": 46151048331402,
     "Name": "Broek Urban Stars | Multicolor | Studio Poespas",
@@ -368,16 +798,6 @@
     "NetQuantity": 10,
     "GrossRevenue": 380.0,
     "NetRevenue": 380.0
-  },
-  {
-    "ID": "24222.64.00XL",
-    "VariantID": 46151055278218,
-    "Name": "Blazer Clueless | Pink sparkling check | Studio Amaya x Poespas",
-    "SoldQuantity": 29,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 29,
-    "GrossRevenue": 2774.479999999999,
-    "NetRevenue": 2774.479999999999
   },
   {
     "ID": "211970.80.00XL",
@@ -428,16 +848,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 266.0,
     "NetRevenue": 266.0
-  },
-  {
-    "ID": "24220.94.000L",
-    "VariantID": 46151054622858,
-    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
-    "SoldQuantity": 57,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 57,
-    "GrossRevenue": 3895.469999999996,
-    "NetRevenue": 3895.469999999996
   },
   {
     "ID": "211987.62.00S3",
@@ -570,16 +980,6 @@
     "NetRevenue": 191.0
   },
   {
-    "ID": "24167.90.000S",
-    "VariantID": 46506666557578,
-    "Name": "Cargo pants Nevada | Black | Refined Department",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 60.0,
-    "NetRevenue": 60.0
-  },
-  {
     "ID": "111745.64.0003",
     "VariantID": 46150994526346,
     "Name": "Flare denim pants daisies print | Summer sorbet | Sproet & Sprout",
@@ -638,16 +1038,6 @@
     "NetQuantity": 79,
     "GrossRevenue": 4437.4,
     "NetRevenue": 4437.4
-  },
-  {
-    "ID": "24313.80.0001",
-    "VariantID": 46268664774794,
-    "Name": "Dress Flirty Flower | Studio Poespas",
-    "SoldQuantity": 237,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 237,
-    "GrossRevenue": 13907.8,
-    "NetRevenue": 13907.8
   },
   {
     "ID": "111142.60.00S2",
@@ -810,16 +1200,6 @@
     "NetRevenue": 65.0
   },
   {
-    "ID": "24233.64.000S",
-    "VariantID": 46321642012810,
-    "Name": "Jurk Pretty Woman | Pink sequin bouquet | Studio Amaya x Poespas",
-    "SoldQuantity": 49,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 49,
-    "GrossRevenue": 5215.869999999995,
-    "NetRevenue": 5215.869999999995
-  },
-  {
     "ID": "24223.64.000L",
     "VariantID": 46151054786698,
     "Name": "Short Legally Blonde | Pink sparkling check | Studio Amaya x Poespas",
@@ -980,26 +1360,6 @@
     "NetRevenue": 1013.9800000000002
   },
   {
-    "ID": "211298.42.00S3",
-    "VariantID": 46150876070026,
-    "Name": "Top Sugar dust | Oscar gold | Studio Poespas",
-    "SoldQuantity": 14,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 14,
-    "GrossRevenue": 335.0,
-    "NetRevenue": 335.0
-  },
-  {
-    "ID": "24226.24.000L",
-    "VariantID": 46151056982154,
-    "Name": "Blazer The Wedding Planner | Shimmer satin | Studio Amaya x Poespas",
-    "SoldQuantity": 31,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 31,
-    "GrossRevenue": 2648.769999999999,
-    "NetRevenue": 2648.769999999999
-  },
-  {
     "ID": "211978.6400S2",
     "VariantID": 46151057178762,
     "Name": "Top Sorbet | Pink-pink | Studio Poespas",
@@ -1090,16 +1450,6 @@
     "NetRevenue": 2140.5100000000007
   },
   {
-    "ID": "211476.62.00S2",
-    "VariantID": 46150969163914,
-    "Name": "Dress Fizzypop | Cherrycola | Studio Poespas",
-    "SoldQuantity": 33,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 33,
-    "GrossRevenue": 651.0000000000001,
-    "NetRevenue": 651.0000000000001
-  },
-  {
     "ID": "24229.64.00XS",
     "VariantID": 46342544883850,
     "Name": "Blazer The Devil Wears Prada | Vintage shimmer satin | Studio Amaya x Poespas",
@@ -1170,26 +1520,6 @@
     "NetRevenue": 30623.429999999997
   },
   {
-    "ID": "211971.80.000S",
-    "VariantID": 46151017857162,
-    "Name": "Top Lorel | Paisley | Studio Amaya",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 58.0,
-    "NetRevenue": 58.0
-  },
-  {
-    "ID": "211972.80.000S",
-    "VariantID": 46151017529482,
-    "Name": "Pants Viv | Paisley | Studio Amaya",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 132.0,
-    "NetRevenue": 132.0
-  },
-  {
     "ID": "211299.60.00S3",
     "VariantID": 46150876430474,
     "Name": "Top Sugar dust | Icy blue | Studio Poespas",
@@ -1230,16 +1560,6 @@
     "NetRevenue": 14.399999999999999
   },
   {
-    "ID": "111196.80.00S2",
-    "VariantID": 46150878003338,
-    "Name": "Trui Dottie kids | Neon pink & sand | Studio Poespas",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 168.0,
-    "NetRevenue": 168.0
-  },
-  {
     "ID": "211743.80.00S3",
     "VariantID": 46151047807114,
     "Name": "Oversized T-shirt Urban Stars | Multicolor | Studio Poespas",
@@ -1248,16 +1568,6 @@
     "NetQuantity": 58,
     "GrossRevenue": 2776.0,
     "NetRevenue": 2776.0
-  },
-  {
-    "ID": "211483.42.00S4",
-    "VariantID": 46150977650826,
-    "Name": "Pants Plissé | Pink champagne | Studio Poespas",
-    "SoldQuantity": 19,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 19,
-    "GrossRevenue": 693.5,
-    "NetRevenue": 693.5
   },
   {
     "ID": "24508.10.000L",
@@ -1288,36 +1598,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 15.0,
     "NetRevenue": 15.0
-  },
-  {
-    "ID": "111196.80.00S1",
-    "VariantID": 46150877970570,
-    "Name": "Trui Dottie kids | Neon pink & sand | Studio Poespas",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 86.0,
-    "NetRevenue": 86.0
-  },
-  {
-    "ID": "27879.90.000L",
-    "VariantID": 46375037239434,
-    "Name": "Sexy big dots | Shapewear | Black | MAGIC Bodyfashion",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 27.799999999999997,
-    "NetRevenue": 27.799999999999997
-  },
-  {
-    "ID": "211484.50.00S4",
-    "VariantID": 46151046561930,
-    "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 28,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 28,
-    "GrossRevenue": 1216.0,
-    "NetRevenue": 1216.0
   },
   {
     "ID": "211646.70.0042",
@@ -1420,16 +1700,6 @@
     "NetRevenue": 99.0
   },
   {
-    "ID": "14028.80",
-    "VariantID": 46151145488522,
-    "Name": "Ringen set | 12 stuks | Multi color | Konges Slojd",
-    "SoldQuantity": 14,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 14,
-    "GrossRevenue": 239.0,
-    "NetRevenue": 239.0
-  },
-  {
     "ID": "111773.64.0405",
     "VariantID": 46150998589578,
     "Name": "Denim vest Smiling | Bobo Choses",
@@ -1508,16 +1778,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 78.4,
     "NetRevenue": 78.4
-  },
-  {
-    "ID": "211875.80.00S2",
-    "VariantID": 46151056785546,
-    "Name": "Soccer Tee | Pink vs. Navy | Studio Poespas",
-    "SoldQuantity": 74,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 74,
-    "GrossRevenue": 4201.0,
-    "NetRevenue": 4201.0
   },
   {
     "ID": "211969.80.000M",
@@ -1800,16 +2060,6 @@
     "NetRevenue": 334.0
   },
   {
-    "ID": "24225.24.000L",
-    "VariantID": 46151056654474,
-    "Name": "Rok What Happens In Vegas | Sequin shells | Studio Amaya x Poespas",
-    "SoldQuantity": 64,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 64,
-    "GrossRevenue": 3867.1799999999957,
-    "NetRevenue": 3867.1799999999957
-  },
-  {
     "ID": "29164.72.0031",
     "VariantID": 46150765248650,
     "Name": "Sandal Nubuck | Acorn | En Fant",
@@ -1898,16 +2148,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 175.0,
     "NetRevenue": 175.0
-  },
-  {
-    "ID": "24227.64.00XL",
-    "VariantID": 46151056523402,
-    "Name": "Bomberjack The Princess Diaries | Pink sequin bouquet | Studio Amaya x Poespas",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 706.4200000000001,
-    "NetRevenue": 706.4200000000001
   },
   {
     "ID": "211975.14.00XL",
@@ -2020,16 +2260,6 @@
     "NetRevenue": 496.0
   },
   {
-    "ID": "211734.90000S",
-    "VariantID": 46150963363978,
-    "Name": "Gilet Peggy | Black | Ydence",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 152.2,
-    "NetRevenue": 152.2
-  },
-  {
     "ID": "26742.90",
     "VariantID": 46510275788938,
     "Name": "Broek Didi | Zwart",
@@ -2058,16 +2288,6 @@
     "NetQuantity": 47,
     "GrossRevenue": 1446.25,
     "NetRevenue": 1446.25
-  },
-  {
-    "ID": "24278.64.0001",
-    "VariantID": 46268637282442,
-    "Name": "Dress Flirty | Mint to be | Studio Poespas",
-    "SoldQuantity": 150,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 150,
-    "GrossRevenue": 8986.5,
-    "NetRevenue": 8986.5
   },
   {
     "ID": "211646.70.0040",
@@ -2160,16 +2380,6 @@
     "NetRevenue": 102.0
   },
   {
-    "ID": "29994.64.00S1",
-    "VariantID": 46150804045962,
-    "Name": "Trui Dottie dames | Neon pink & sand | Studio Poespas",
-    "SoldQuantity": 53,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 53,
-    "GrossRevenue": 2915.0,
-    "NetRevenue": 2915.0
-  },
-  {
     "ID": "28299.80",
     "VariantID": 46151131463818,
     "Name": "Daily planner | A5 | Studio Poespas",
@@ -2238,16 +2448,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 257.92,
     "NetRevenue": 257.92
-  },
-  {
-    "ID": "24613.60",
-    "VariantID": 46535156465802,
-    "Name": "Paspoorthoes voor 1 of 2 pers. | Vacay vibes sand blue | Studio Poespas",
-    "SoldQuantity": 141,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 141,
-    "GrossRevenue": 4230.0,
-    "NetRevenue": 4230.0
   },
   {
     "ID": "1831.14",
@@ -2320,16 +2520,6 @@
     "NetRevenue": 600.0
   },
   {
-    "ID": "24380.80.000M",
-    "VariantID": 46257244602506,
-    "Name": "T-shirt back 2 the 90's | Asphalt | Studio Poespas",
-    "SoldQuantity": 204,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 204,
-    "GrossRevenue": 8160.0,
-    "NetRevenue": 8160.0
-  },
-  {
     "ID": "14061.64",
     "VariantID": 46494259708042,
     "Name": "Backpack rainy kids | Midi | Amour pink | Konges Slojd",
@@ -2388,16 +2578,6 @@
     "NetQuantity": 390,
     "GrossRevenue": 17550.0,
     "NetRevenue": 17550.0
-  },
-  {
-    "ID": "11977.64.00S1",
-    "VariantID": 46324566491274,
-    "Name": "Top Amore | Burgundy | Studio Poespas",
-    "SoldQuantity": 81,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 81,
-    "GrossRevenue": 4322.0,
-    "NetRevenue": 4322.0
   },
   {
     "ID": "111785.90.0607",
@@ -2500,16 +2680,6 @@
     "NetRevenue": 115.0
   },
   {
-    "ID": "24220.94.000S",
-    "VariantID": 46151054557322,
-    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
-    "SoldQuantity": 40,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 40,
-    "GrossRevenue": 3203.9299999999985,
-    "NetRevenue": 3203.9299999999985
-  },
-  {
     "ID": "11038.80",
     "VariantID": 46151082770570,
     "Name": "Brood & koekjes uitstekers sweet treats | 4 stuks",
@@ -2548,16 +2718,6 @@
     "NetQuantity": 21,
     "GrossRevenue": 1052.0,
     "NetRevenue": 1052.0
-  },
-  {
-    "ID": "24306.74.00S1",
-    "VariantID": 46487743725706,
-    "Name": "Top Bardot | Glitterclay | Studio Poespas",
-    "SoldQuantity": 46,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 46,
-    "GrossRevenue": 2208.0,
-    "NetRevenue": 2208.0
   },
   {
     "ID": "211879.80.00S1",
@@ -2618,16 +2778,6 @@
     "NetQuantity": 19,
     "GrossRevenue": 468.75,
     "NetRevenue": 468.75
-  },
-  {
-    "ID": "211802.42",
-    "VariantID": 46151162593418,
-    "Name": "Ketting hartje geometrisch | Roze/goud | Studio Poespas",
-    "SoldQuantity": 21,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 21,
-    "GrossRevenue": 257.25,
-    "NetRevenue": 257.25
   },
   {
     "ID": "111699.64",
@@ -3508,16 +3658,6 @@
     "NetQuantity": 24,
     "GrossRevenue": 912.0,
     "NetRevenue": 912.0
-  },
-  {
-    "ID": "12945.64",
-    "VariantID": 46150537019530,
-    "Name": "Spaarpot Palma | Liewood",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 32.0,
-    "NetRevenue": 32.0
   },
   {
     "ID": "24323.72.0027",
@@ -4778,16 +4918,6 @@
     "NetQuantity": 137,
     "GrossRevenue": 8805.0,
     "NetRevenue": 8805.0
-  },
-  {
-    "ID": "24376.62.00S4",
-    "VariantID": 46324526678154,
-    "Name": "Wavy Pants | Lilac | Studio Poespas",
-    "SoldQuantity": 9,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 9,
-    "GrossRevenue": 497.0,
-    "NetRevenue": 497.0
   },
   {
     "ID": "24471.62.XXXL",
@@ -6090,16 +6220,6 @@
     "NetRevenue": 200.0
   },
   {
-    "ID": "211677.80.00S3",
-    "VariantID": 46165374304394,
-    "Name": "Trui Crochet | Purple | Studio Poespas",
-    "SoldQuantity": 14,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 14,
-    "GrossRevenue": 726.0,
-    "NetRevenue": 726.0
-  },
-  {
     "ID": "VARIANT_46161941790858",
     "VariantID": 46161941790858,
     "Name": "Behang Tijger | Circle of Life Collection",
@@ -6108,16 +6228,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 1597.6,
     "NetRevenue": 1597.6
-  },
-  {
-    "ID": "211931.64.000S",
-    "VariantID": 46151044595850,
-    "Name": "Jurk Jayda | Flirty flower | Harper & Yve",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 372.0,
-    "NetRevenue": 372.0
   },
   {
     "ID": "111404.20.98104",
@@ -6670,16 +6780,6 @@
     "NetRevenue": 437.0
   },
   {
-    "ID": "14099.60.0128",
-    "VariantID": 46151028965514,
-    "Name": "Bomber jacket | Super sonic | En Fant",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 27.0,
-    "NetRevenue": 27.0
-  },
-  {
     "ID": "PP4097CS",
     "VariantID": 46166064070794,
     "Name": "Behangcirkel Olifant | Circle of Life Collection | ⌀ 145 cm | Staaltje",
@@ -7158,16 +7258,6 @@
     "NetQuantity": 10,
     "GrossRevenue": 1144.95,
     "NetRevenue": 1144.95
-  },
-  {
-    "ID": "24225.24.00XL",
-    "VariantID": 46151056687242,
-    "Name": "Rok What Happens In Vegas | Sequin shells | Studio Amaya x Poespas",
-    "SoldQuantity": 38,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 38,
-    "GrossRevenue": 2213.1800000000003,
-    "NetRevenue": 2213.1800000000003
   },
   {
     "ID": "24305.42.00S1",
@@ -8318,16 +8408,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 90.0,
     "NetRevenue": 90.0
-  },
-  {
-    "ID": "211486.50.00S4",
-    "VariantID": 46151047282826,
-    "Name": "Pants Plissé | Sparkling mojito | Studio Poespas",
-    "SoldQuantity": 17,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 933.0,
-    "NetRevenue": 933.0
   },
   {
     "ID": "24510.60.000M",
@@ -9880,16 +9960,6 @@
     "NetRevenue": 27.0
   },
   {
-    "ID": "211903.64.0036",
-    "VariantID": 46151001931914,
-    "Name": "Dress Sinda | Pale rose | A-view",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 70.0,
-    "NetRevenue": 70.0
-  },
-  {
     "ID": "24530.50.000S",
     "VariantID": 46458380222602,
     "Name": "Shirt Angel | Peppermint green | Harper & Yve",
@@ -10378,16 +10448,6 @@
     "NetQuantity": 10,
     "GrossRevenue": 400.0,
     "NetRevenue": 400.0
-  },
-  {
-    "ID": "24502.50.000L",
-    "VariantID": 46434298724490,
-    "Name": "Shirt Wavy princess | Studio Poespas",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 80.0,
-    "NetRevenue": 80.0
   },
   {
     "ID": "24398.80.00SM",
@@ -14720,16 +14780,6 @@
     "NetRevenue": 34.5
   },
   {
-    "ID": "211914.80.000S",
-    "VariantID": 46151003177098,
-    "Name": "Pauline sweater | Black | Stieglitz",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 468.0,
-    "NetRevenue": 468.0
-  },
-  {
     "ID": "111751.64.0003",
     "VariantID": 46150995476618,
     "Name": "Sport short Terry | Rose petal | Sproet & Sprout",
@@ -14908,16 +14958,6 @@
     "NetQuantity": 12,
     "GrossRevenue": 90.0,
     "NetRevenue": 90.0
-  },
-  {
-    "ID": "VARIANT_46165768896650",
-    "VariantID": 46165768896650,
-    "Name": "Behang Wereldkaart | Mint",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 1247.65,
-    "NetRevenue": 1247.65
   },
   {
     "ID": "14193.60.0088",
