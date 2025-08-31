@@ -1,5 +1,105 @@
 [
   {
+    "ID": "17921.80",
+    "VariantID": 46151127236746,
+    "Name": "Pop Harriet | Multi | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 45.0,
+    "NetRevenue": 45.0
+  },
+  {
+    "ID": "211986.12.00S2",
+    "VariantID": 46375080394890,
+    "Name": "PRE-ORDER: Top Madame Colette | Ecru | Studio Poespas",
+    "SoldQuantity": 78,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 78,
+    "GrossRevenue": 2964.0,
+    "NetRevenue": 2964.0
+  },
+  {
+    "ID": "24322.80.000S",
+    "VariantID": 46205151281290,
+    "Name": "Dress Yade | Ecru multi | Harper & Yve",
+    "SoldQuantity": 20,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 20,
+    "GrossRevenue": 2064.95,
+    "NetRevenue": 2064.95
+  },
+  {
+    "ID": "24613.60",
+    "VariantID": 46535156465802,
+    "Name": "Paspoorthoes voor 1 of 2 pers. | Vacay vibes sand blue | Studio Poespas",
+    "SoldQuantity": 156,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 156,
+    "GrossRevenue": 4680.0,
+    "NetRevenue": 4680.0
+  },
+  {
+    "ID": "14434.72.0506",
+    "VariantID": 46494227955850,
+    "Name": "Bomberjack Juno | Walnut | Konges Slojd",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 237.0,
+    "NetRevenue": 237.0
+  },
+  {
+    "ID": "14434.72.0444",
+    "VariantID": 46494227923082,
+    "Name": "Bomberjack Juno | Walnut | Konges Slojd",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 237.0,
+    "NetRevenue": 237.0
+  },
+  {
+    "ID": "14435.72",
+    "VariantID": 46494248108170,
+    "Name": "Rugzak Juno | Walnut | Konges Slojd",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 345.0,
+    "NetRevenue": 345.0
+  },
+  {
+    "ID": "111348.60",
+    "VariantID": 46151153221770,
+    "Name": "Lunchbox Carin groot | Whale blue/sea blue | Liewood",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 35.0,
+    "NetRevenue": 35.0
+  },
+  {
+    "ID": "4057.60",
+    "VariantID": 46151165149322,
+    "Name": "Drinkfles Yang 500 ml | Sea creature/sandy | Liewood",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 127.0,
+    "NetRevenue": 127.0
+  },
+  {
+    "ID": "211988.20.00S1",
+    "VariantID": 46375072956554,
+    "Name": "PRE-ORDER: Top Madame Colette | Burgundy | Studio Poespas",
+    "SoldQuantity": 44,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 44,
+    "GrossRevenue": 1672.0,
+    "NetRevenue": 1672.0
+  },
+  {
     "ID": "24377.20.00S2",
     "VariantID": 46328179687562,
     "Name": "Wavy Pants | Burgundy | Studio Poespas",
@@ -320,16 +420,6 @@
     "NetRevenue": 173.0
   },
   {
-    "ID": "24613.60",
-    "VariantID": 46535156465802,
-    "Name": "Paspoorthoes voor 1 of 2 pers. | Vacay vibes sand blue | Studio Poespas",
-    "SoldQuantity": 155,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 155,
-    "GrossRevenue": 4650.0,
-    "NetRevenue": 4650.0
-  },
-  {
     "ID": "211484.50.00S3",
     "VariantID": 46151046529162,
     "Name": "Top Plissé | Sparkling mojito | Studio Poespas",
@@ -338,16 +428,6 @@
     "NetQuantity": 80,
     "GrossRevenue": 3180.0,
     "NetRevenue": 3180.0
-  },
-  {
-    "ID": "211988.20.00S1",
-    "VariantID": 46375072956554,
-    "Name": "PRE-ORDER: Top Madame Colette | Burgundy | Studio Poespas",
-    "SoldQuantity": 43,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 43,
-    "GrossRevenue": 1634.0,
-    "NetRevenue": 1634.0
   },
   {
     "ID": "24556.20.000S",
@@ -1530,16 +1610,6 @@
     "NetRevenue": 2187.0
   },
   {
-    "ID": "211986.12.00S2",
-    "VariantID": 46375080394890,
-    "Name": "PRE-ORDER: Top Madame Colette | Ecru | Studio Poespas",
-    "SoldQuantity": 77,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 77,
-    "GrossRevenue": 2926.0,
-    "NetRevenue": 2926.0
-  },
-  {
     "ID": "211988.20.00S2",
     "VariantID": 46375072989322,
     "Name": "PRE-ORDER: Top Madame Colette | Burgundy | Studio Poespas",
@@ -1990,16 +2060,6 @@
     "NetRevenue": 48.0
   },
   {
-    "ID": "14435.72",
-    "VariantID": 46494248108170,
-    "Name": "Rugzak Juno | Walnut | Konges Slojd",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 276.0,
-    "NetRevenue": 276.0
-  },
-  {
     "ID": "24557.90.00XL",
     "VariantID": 46489647546506,
     "Name": "Shirt Dramaqueen | Dark fudge | Harper & Yve",
@@ -2048,16 +2108,6 @@
     "NetQuantity": 19,
     "GrossRevenue": 1026.0,
     "NetRevenue": 1026.0
-  },
-  {
-    "ID": "24322.80.000S",
-    "VariantID": 46205151281290,
-    "Name": "Dress Yade | Ecru multi | Harper & Yve",
-    "SoldQuantity": 19,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 19,
-    "GrossRevenue": 1997.95,
-    "NetRevenue": 1997.95
   },
   {
     "ID": "24233.64.000S",
@@ -4528,16 +4578,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 419.93,
     "NetRevenue": 419.93
-  },
-  {
-    "ID": "14434.72.0444",
-    "VariantID": 46494227923082,
-    "Name": "Bomberjack Juno | Walnut | Konges Slojd",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 158.0,
-    "NetRevenue": 158.0
   },
   {
     "ID": "24609.40.00S3",
@@ -9700,16 +9740,6 @@
     "NetRevenue": 79.0
   },
   {
-    "ID": "14434.72.0506",
-    "VariantID": 46494227955850,
-    "Name": "Bomberjack Juno | Walnut | Konges Slojd",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 158.0,
-    "NetRevenue": 158.0
-  },
-  {
     "ID": "14010.80",
     "VariantID": 46151167213706,
     "Name": "Poppenwagen Minnie | Rose anglaise | 1-3 jaar | Konges Slojd",
@@ -11658,26 +11688,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 104.0,
     "NetRevenue": 104.0
-  },
-  {
-    "ID": "111348.60",
-    "VariantID": 46151153221770,
-    "Name": "Lunchbox Carin groot | Whale blue/sea blue | Liewood",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 20.0,
-    "NetRevenue": 20.0
-  },
-  {
-    "ID": "4057.60",
-    "VariantID": 46151165149322,
-    "Name": "Drinkfles Yang 500 ml | Sea creature/sandy | Liewood",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 113.0,
-    "NetRevenue": 113.0
   },
   {
     "ID": "24527.10.000M",
