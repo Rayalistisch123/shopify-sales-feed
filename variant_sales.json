@@ -1,13 +1,73 @@
 [
   {
+    "ID": "24560.20.000S",
+    "VariantID": 46489781338250,
+    "Name": "Coat Yitty | Wine berry | Harper & Yve",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 719.97,
+    "NetRevenue": 719.97
+  },
+  {
     "ID": "24562.90",
     "VariantID": 46489790152842,
     "Name": "Beanie Harper | Black | Harper & Yve",
-    "SoldQuantity": 12,
+    "SoldQuantity": 13,
     "ReturnedQuantity": 0,
-    "NetQuantity": 12,
-    "GrossRevenue": 419.3999999999999,
-    "NetRevenue": 419.3999999999999
+    "NetQuantity": 13,
+    "GrossRevenue": 454.3499999999999,
+    "NetRevenue": 454.3499999999999
+  },
+  {
+    "ID": "24613.60",
+    "VariantID": 46535156465802,
+    "Name": "Paspoorthoes voor 1 of 2 pers. | Vacay vibes sand blue | Studio Poespas",
+    "SoldQuantity": 216,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 216,
+    "GrossRevenue": 6480.0,
+    "NetRevenue": 6480.0
+  },
+  {
+    "ID": "14253.10.146152",
+    "VariantID": 46151048528010,
+    "Name": "Blouse Santel | White | Labo de Colores",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 53.0,
+    "NetRevenue": 53.0
+  },
+  {
+    "ID": "211880.60.000L",
+    "VariantID": 46151047938186,
+    "Name": "Top Lola | Icing | Studio Poespas",
+    "SoldQuantity": 38,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 38,
+    "GrossRevenue": 1631.25,
+    "NetRevenue": 1631.25
+  },
+  {
+    "ID": "17420.80",
+    "VariantID": 46151123501194,
+    "Name": "Mobiel Unicorn | Konges Slojd",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 48.0,
+    "NetRevenue": 48.0
+  },
+  {
+    "ID": "PP.TP.VLK-21",
+    "VariantID": 46150386679946,
+    "Name": "Teddy pantoffels | Vegan leather & klittenband",
+    "SoldQuantity": 57,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 57,
+    "GrossRevenue": 427.5,
+    "NetRevenue": 427.5
   },
   {
     "ID": "24560.20.000M",
@@ -208,16 +268,6 @@
     "NetQuantity": 11,
     "GrossRevenue": 384.44999999999993,
     "NetRevenue": 384.44999999999993
-  },
-  {
-    "ID": "24560.20.000S",
-    "VariantID": 46489781338250,
-    "Name": "Coat Yitty | Wine berry | Harper & Yve",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 479.98,
-    "NetRevenue": 479.98
   },
   {
     "ID": "24560.20.000L",
@@ -1368,16 +1418,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 49.0,
     "NetRevenue": 49.0
-  },
-  {
-    "ID": "24613.60",
-    "VariantID": 46535156465802,
-    "Name": "Paspoorthoes voor 1 of 2 pers. | Vacay vibes sand blue | Studio Poespas",
-    "SoldQuantity": 215,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 215,
-    "GrossRevenue": 6450.0,
-    "NetRevenue": 6450.0
   },
   {
     "ID": "24485.40.00ML",
@@ -3240,16 +3280,6 @@
     "NetRevenue": 37.809999999999995
   },
   {
-    "ID": "PP.TP.VLK-21",
-    "VariantID": 46150386679946,
-    "Name": "Teddy pantoffels | Vegan leather & klittenband",
-    "SoldQuantity": 56,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 56,
-    "GrossRevenue": 420.0,
-    "NetRevenue": 420.0
-  },
-  {
     "ID": "24460.52.000M",
     "VariantID": 46321641029770,
     "Name": "T-Shirt 90's Kid | Mint | Studio Poespas",
@@ -4698,16 +4728,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 53.0,
     "NetRevenue": 53.0
-  },
-  {
-    "ID": "211880.60.000L",
-    "VariantID": 46151047938186,
-    "Name": "Top Lola | Icing | Studio Poespas",
-    "SoldQuantity": 37,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 37,
-    "GrossRevenue": 1596.25,
-    "NetRevenue": 1596.25
   },
   {
     "ID": "211982.70.0036",
@@ -17740,16 +17760,6 @@
     "NetRevenue": 104.0
   },
   {
-    "ID": "17420.80",
-    "VariantID": 46151123501194,
-    "Name": "Mobiel Unicorn | Konges Slojd",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 24.0,
-    "NetRevenue": 24.0
-  },
-  {
     "ID": "111525.52",
     "VariantID": 46151162003594,
     "Name": "Tiktok Famous Cup | Smiley | Studio Poespas",
@@ -22518,16 +22528,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 3.98,
     "NetRevenue": 3.98
-  },
-  {
-    "ID": "14253.10.146152",
-    "VariantID": 46151048528010,
-    "Name": "Blouse Santel | White | Labo de Colores",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 32.0,
-    "NetRevenue": 32.0
   },
   {
     "ID": "14139.64.134140",
