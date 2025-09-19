@@ -3,11 +3,91 @@
     "ID": "24562.90",
     "VariantID": 46489790152842,
     "Name": "Beanie Harper | Black | Harper & Yve",
-    "SoldQuantity": 17,
+    "SoldQuantity": 19,
     "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 594.15,
-    "NetRevenue": 594.15
+    "NetQuantity": 19,
+    "GrossRevenue": 664.0500000000001,
+    "NetRevenue": 664.0500000000001
+  },
+  {
+    "ID": "24558.92.000M",
+    "VariantID": 46489777766538,
+    "Name": "Coat Yitty | Stone | Harper & Yve",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 1919.92,
+    "NetRevenue": 1919.92
+  },
+  {
+    "ID": "24560.20.000L",
+    "VariantID": 46489781403786,
+    "Name": "Coat Yitty | Wine berry | Harper & Yve",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 1199.95,
+    "NetRevenue": 1199.95
+  },
+  {
+    "ID": "24563.20",
+    "VariantID": 46489790251146,
+    "Name": "Beanie Harper | Racing red | Harper & Yve",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 489.2999999999999,
+    "NetRevenue": 489.2999999999999
+  },
+  {
+    "ID": "24564.62",
+    "VariantID": 46489795887242,
+    "Name": "Beanie Harper | Violet dream | Harper & Yve",
+    "SoldQuantity": 14,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 14,
+    "GrossRevenue": 489.2999999999999,
+    "NetRevenue": 489.2999999999999
+  },
+  {
+    "ID": "24560.20.000M",
+    "VariantID": 46489781371018,
+    "Name": "Coat Yitty | Wine berry | Harper & Yve",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 1919.92,
+    "NetRevenue": 1919.92
+  },
+  {
+    "ID": "24558.92.000L",
+    "VariantID": 46489777799306,
+    "Name": "Coat Yitty | Stone | Harper & Yve",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 1439.94,
+    "NetRevenue": 1439.94
+  },
+  {
+    "ID": "24561.80.000M",
+    "VariantID": 46489783042186,
+    "Name": "Coat Karly | Lexie leopard | Harper & Yve",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 599.97,
+    "NetRevenue": 599.97
+  },
+  {
+    "ID": "34265.80",
+    "VariantID": 46151169441930,
+    "Name": "Family paspoort | Smiley | Studio Poespas",
+    "SoldQuantity": 1735,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1735,
+    "GrossRevenue": 52820.0,
+    "NetRevenue": 52820.0
   },
   {
     "ID": "24559.90.00XS",
@@ -70,16 +150,6 @@
     "NetRevenue": 1585.8500000000001
   },
   {
-    "ID": "24564.62",
-    "VariantID": 46489795887242,
-    "Name": "Beanie Harper | Violet dream | Harper & Yve",
-    "SoldQuantity": 13,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 13,
-    "GrossRevenue": 454.3499999999999,
-    "NetRevenue": 454.3499999999999
-  },
-  {
     "ID": "24558.92.00XL",
     "VariantID": 46489777832074,
     "Name": "Coat Yitty | Stone | Harper & Yve",
@@ -88,16 +158,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 479.98,
     "NetRevenue": 479.98
-  },
-  {
-    "ID": "24558.92.000M",
-    "VariantID": 46489777766538,
-    "Name": "Coat Yitty | Stone | Harper & Yve",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 1439.94,
-    "NetRevenue": 1439.94
   },
   {
     "ID": "211647.70.0046",
@@ -340,26 +400,6 @@
     "NetRevenue": 71.64
   },
   {
-    "ID": "24560.20.000M",
-    "VariantID": 46489781371018,
-    "Name": "Coat Yitty | Wine berry | Harper & Yve",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 1679.93,
-    "NetRevenue": 1679.93
-  },
-  {
-    "ID": "24563.20",
-    "VariantID": 46489790251146,
-    "Name": "Beanie Harper | Racing red | Harper & Yve",
-    "SoldQuantity": 12,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 12,
-    "GrossRevenue": 419.3999999999999,
-    "NetRevenue": 419.3999999999999
-  },
-  {
     "ID": "211988.20.00S1",
     "VariantID": 46375072956554,
     "Name": "PRE-ORDER: Top Madame Colette | Burgundy | Studio Poespas",
@@ -500,16 +540,6 @@
     "NetRevenue": 427.5
   },
   {
-    "ID": "34265.80",
-    "VariantID": 46151169441930,
-    "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 1734,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1734,
-    "GrossRevenue": 52787.5,
-    "NetRevenue": 52787.5
-  },
-  {
     "ID": "14590.64.0122",
     "VariantID": 46506359128202,
     "Name": "Jacket quilt print | Pine bark | En Fant",
@@ -518,16 +548,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 99.0,
     "NetRevenue": 99.0
-  },
-  {
-    "ID": "24558.92.000L",
-    "VariantID": 46489777799306,
-    "Name": "Coat Yitty | Stone | Harper & Yve",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 1199.95,
-    "NetRevenue": 1199.95
   },
   {
     "ID": "211647.70.0038",
@@ -638,16 +658,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 89.0,
     "NetRevenue": 89.0
-  },
-  {
-    "ID": "24560.20.000L",
-    "VariantID": 46489781403786,
-    "Name": "Coat Yitty | Wine berry | Harper & Yve",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 959.96,
-    "NetRevenue": 959.96
   },
   {
     "ID": "24558.92.0XXL",
@@ -3398,16 +3408,6 @@
     "NetQuantity": 8,
     "GrossRevenue": 511.97,
     "NetRevenue": 511.97
-  },
-  {
-    "ID": "24561.80.000M",
-    "VariantID": 46489783042186,
-    "Name": "Coat Karly | Lexie leopard | Harper & Yve",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 399.98,
-    "NetRevenue": 399.98
   },
   {
     "ID": "PP.1191-6 maanden-Off-white",
