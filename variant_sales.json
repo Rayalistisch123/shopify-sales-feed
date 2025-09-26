@@ -1,13 +1,63 @@
 [
   {
+    "ID": "24562.90",
+    "VariantID": 46489790152842,
+    "Name": "Beanie Harper | Black | Harper & Yve",
+    "SoldQuantity": 33,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 33,
+    "GrossRevenue": 1153.3500000000006,
+    "NetRevenue": 1153.3500000000006
+  },
+  {
+    "ID": "24559.90.000S",
+    "VariantID": 46489778847882,
+    "Name": "Coat Yitty | Black | Harper & Yve",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 1439.94,
+    "NetRevenue": 1439.94
+  },
+  {
+    "ID": "VARIANT_46165423718538",
+    "VariantID": 46165423718538,
+    "Name": "Behang Morning bird | Beige",
+    "SoldQuantity": 24,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 24,
+    "GrossRevenue": 8044.29,
+    "NetRevenue": 8044.29
+  },
+  {
+    "ID": "VARIANT_46479938486410",
+    "VariantID": 46479938486410,
+    "Name": "Behang Leaf | Clay",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 1013.6800000000001,
+    "NetRevenue": 1013.6800000000001
+  },
+  {
     "ID": "211705.80.00S2",
     "VariantID": 46151057309834,
     "Name": "Knit tompouce | Pink | Studio Poespas",
-    "SoldQuantity": 110,
+    "SoldQuantity": 111,
     "ReturnedQuantity": 0,
-    "NetQuantity": 110,
-    "GrossRevenue": 6617.0999999999885,
-    "NetRevenue": 6617.0999999999885
+    "NetQuantity": 111,
+    "GrossRevenue": 6686.099999999988,
+    "NetRevenue": 6686.099999999988
+  },
+  {
+    "ID": "211899.64.00S1",
+    "VariantID": 46151057834122,
+    "Name": "Lovefest Pinkswirl | Studio Poespas",
+    "SoldQuantity": 33,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 33,
+    "GrossRevenue": 1958.399999999999,
+    "NetRevenue": 1958.399999999999
   },
   {
     "ID": "211746.9000OS",
@@ -48,16 +98,6 @@
     "NetQuantity": 97,
     "GrossRevenue": 2505.0,
     "NetRevenue": 2505.0
-  },
-  {
-    "ID": "24562.90",
-    "VariantID": 46489790152842,
-    "Name": "Beanie Harper | Black | Harper & Yve",
-    "SoldQuantity": 32,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 32,
-    "GrossRevenue": 1118.4000000000005,
-    "NetRevenue": 1118.4000000000005
   },
   {
     "ID": "24561.80.000M",
@@ -158,16 +198,6 @@
     "NetQuantity": 108,
     "GrossRevenue": 7230.600000000013,
     "NetRevenue": 7230.600000000013
-  },
-  {
-    "ID": "211899.64.00S1",
-    "VariantID": 46151057834122,
-    "Name": "Lovefest Pinkswirl | Studio Poespas",
-    "SoldQuantity": 32,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 32,
-    "GrossRevenue": 1890.399999999999,
-    "NetRevenue": 1890.399999999999
   },
   {
     "ID": "24245.64.00S2",
@@ -298,16 +328,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 70.0,
     "NetRevenue": 70.0
-  },
-  {
-    "ID": "VARIANT_46165423718538",
-    "VariantID": 46165423718538,
-    "Name": "Behang Morning bird | Beige",
-    "SoldQuantity": 23,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 23,
-    "GrossRevenue": 7675.4800000000005,
-    "NetRevenue": 7675.4800000000005
   },
   {
     "ID": "PP2001S",
@@ -3818,16 +3838,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 198.99,
     "NetRevenue": 198.99
-  },
-  {
-    "ID": "24559.90.000S",
-    "VariantID": 46489778847882,
-    "Name": "Coat Yitty | Black | Harper & Yve",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 1199.95,
-    "NetRevenue": 1199.95
   },
   {
     "ID": "24112.64.000S",
@@ -12848,16 +12858,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 352.8,
     "NetRevenue": 352.8
-  },
-  {
-    "ID": "VARIANT_46479938486410",
-    "VariantID": 46479938486410,
-    "Name": "Behang Leaf | Clay",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 605.6800000000001,
-    "NetRevenue": 605.6800000000001
   },
   {
     "ID": "211952.80.0037",
