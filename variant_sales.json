@@ -1,5 +1,85 @@
 [
   {
+    "ID": "211880.60.000L",
+    "VariantID": 46151047938186,
+    "Name": "Top Lola | Icing | Studio Poespas",
+    "SoldQuantity": 44,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 44,
+    "GrossRevenue": 1841.25,
+    "NetRevenue": 1841.25
+  },
+  {
+    "ID": "211645.80.00S1",
+    "VariantID": 46150966345866,
+    "Name": "Top Team | Roze/oranje | Studio Poespas",
+    "SoldQuantity": 100,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 100,
+    "GrossRevenue": 4500.0,
+    "NetRevenue": 4500.0
+  },
+  {
+    "ID": "16151.10.009M",
+    "VariantID": 46150669107338,
+    "Name": "Romper Joes | Kraagje wit | Lange mouwen | Babidu",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 43.5,
+    "NetRevenue": 43.5
+  },
+  {
+    "ID": "17763.14.009M",
+    "VariantID": 46509435682954,
+    "Name": "Romper Loet | Volantkraag zand | Lange mouwen | Babidu",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 29.0,
+    "NetRevenue": 29.0
+  },
+  {
+    "ID": "16155.10.009M",
+    "VariantID": 46150669271178,
+    "Name": "Romper Loet | Volantkraag wit | Lange mouwen | Babidu",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 58.0,
+    "NetRevenue": 58.0
+  },
+  {
+    "ID": "111712.64.0506",
+    "VariantID": 46150985810058,
+    "Name": "Bikini Fresia | Geranium pink | Konges Slojd",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 348.0,
+    "NetRevenue": 348.0
+  },
+  {
+    "ID": "25111.72.000M",
+    "VariantID": 47112691187850,
+    "Name": "Fitted blazer Mily | Brown | Refined Department",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 178.0,
+    "NetRevenue": 178.0
+  },
+  {
+    "ID": "25111.72.000S",
+    "VariantID": 47112691155082,
+    "Name": "Fitted blazer Mily | Brown | Refined Department",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 445.0,
+    "NetRevenue": 445.0
+  },
+  {
     "ID": "211701.10.0040",
     "VariantID": 46514478284938,
     "Name": "Sneaker Boomer | White multi | Steve Madden",
@@ -38,16 +118,6 @@
     "NetQuantity": 232,
     "GrossRevenue": 6960.0,
     "NetRevenue": 6960.0
-  },
-  {
-    "ID": "25111.72.000S",
-    "VariantID": 47112691155082,
-    "Name": "Fitted blazer Mily | Brown | Refined Department",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 356.0,
-    "NetRevenue": 356.0
   },
   {
     "ID": "25110.72.000M",
@@ -138,16 +208,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 69.0,
     "NetRevenue": 69.0
-  },
-  {
-    "ID": "25111.72.000M",
-    "VariantID": 47112691187850,
-    "Name": "Fitted blazer Mily | Brown | Refined Department",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 89.0,
-    "NetRevenue": 89.0
   },
   {
     "ID": "211676.11.00S2",
@@ -298,16 +358,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 84.0,
     "NetRevenue": 84.0
-  },
-  {
-    "ID": "211880.60.000L",
-    "VariantID": 46151047938186,
-    "Name": "Top Lola | Icing | Studio Poespas",
-    "SoldQuantity": 43,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 43,
-    "GrossRevenue": 1806.25,
-    "NetRevenue": 1806.25
   },
   {
     "ID": "PP4103C",
@@ -1578,16 +1628,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 160.0,
     "NetRevenue": 160.0
-  },
-  {
-    "ID": "211645.80.00S1",
-    "VariantID": 46150966345866,
-    "Name": "Top Team | Roze/oranje | Studio Poespas",
-    "SoldQuantity": 99,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 99,
-    "GrossRevenue": 4455.0,
-    "NetRevenue": 4455.0
   },
   {
     "ID": "PP4104C",
@@ -8350,16 +8390,6 @@
     "NetRevenue": 37.0
   },
   {
-    "ID": "111712.64.0506",
-    "VariantID": 46150985810058,
-    "Name": "Bikini Fresia | Geranium pink | Konges Slojd",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 311.0,
-    "NetRevenue": 311.0
-  },
-  {
     "ID": "14597.60.0116",
     "VariantID": 46511430795402,
     "Name": "Jacket quilt solid | Ebony | En Fant",
@@ -11518,26 +11548,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 159.99,
     "NetRevenue": 159.99
-  },
-  {
-    "ID": "16151.10.009M",
-    "VariantID": 46150669107338,
-    "Name": "Romper Joes | Kraagje wit | Lange mouwen | Babidu",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 29.0,
-    "NetRevenue": 29.0
-  },
-  {
-    "ID": "16155.10.009M",
-    "VariantID": 46150669271178,
-    "Name": "Romper Loet | Volantkraag wit | Lange mouwen | Babidu",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 43.5,
-    "NetRevenue": 43.5
   },
   {
     "ID": "16147.10.018M",
@@ -19968,16 +19978,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 9.5,
     "NetRevenue": 9.5
-  },
-  {
-    "ID": "17763.14.009M",
-    "VariantID": 46509435682954,
-    "Name": "Romper Loet | Volantkraag zand | Lange mouwen | Babidu",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 14.5,
-    "NetRevenue": 14.5
   },
   {
     "ID": "16147.10.012M",
