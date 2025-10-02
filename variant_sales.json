@@ -1,13 +1,43 @@
 [
   {
+    "ID": "211894.64.00S1",
+    "VariantID": 46151048036490,
+    "Name": "Sweater Strawberry milkshake | Studio Poespas",
+    "SoldQuantity": 41,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 41,
+    "GrossRevenue": 2512.0,
+    "NetRevenue": 2512.0
+  },
+  {
+    "ID": "PP3311S",
+    "VariantID": 46479891857546,
+    "Name": "Behang Circle | Clay | Staaltje",
+    "SoldQuantity": 58,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 58,
+    "GrossRevenue": 115.41999999999989,
+    "NetRevenue": 115.41999999999989
+  },
+  {
     "ID": "25112.80.000M",
     "VariantID": 47112691482762,
     "Name": "Oversized zipper sweater Fadey | Multi colour | Refined Department",
-    "SoldQuantity": 21,
+    "SoldQuantity": 22,
     "ReturnedQuantity": 0,
-    "NetQuantity": 21,
-    "GrossRevenue": 1449.0,
-    "NetRevenue": 1449.0
+    "NetQuantity": 22,
+    "GrossRevenue": 1518.0,
+    "NetRevenue": 1518.0
+  },
+  {
+    "ID": "25090.64",
+    "VariantID": 47026389581962,
+    "Name": "Paspoorthoes Bonjour | Pink | Studio Poespas",
+    "SoldQuantity": 92,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 92,
+    "GrossRevenue": 2624.7500000000055,
+    "NetRevenue": 2624.7500000000055
   },
   {
     "ID": "PP2096",
@@ -1150,16 +1180,6 @@
     "NetRevenue": 850.7999999999994
   },
   {
-    "ID": "25090.64",
-    "VariantID": 47026389581962,
-    "Name": "Paspoorthoes Bonjour | Pink | Studio Poespas",
-    "SoldQuantity": 91,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 91,
-    "GrossRevenue": 2592.2500000000055,
-    "NetRevenue": 2592.2500000000055
-  },
-  {
     "ID": "24485.40.00ML",
     "VariantID": 46395025490058,
     "Name": "PRE-ORDER: Top Check me out | Butteryellow | Studio Poespas",
@@ -2230,16 +2250,6 @@
     "NetRevenue": 17.91
   },
   {
-    "ID": "PP3311S",
-    "VariantID": 46479891857546,
-    "Name": "Behang Circle | Clay | Staaltje",
-    "SoldQuantity": 57,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 57,
-    "GrossRevenue": 113.4299999999999,
-    "NetRevenue": 113.4299999999999
-  },
-  {
     "ID": "VARIANT_46165188935818",
     "VariantID": 46165188935818,
     "Name": "Behang Giraffe | Mint",
@@ -3088,16 +3098,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 128.0,
     "NetRevenue": 128.0
-  },
-  {
-    "ID": "211894.64.00S1",
-    "VariantID": 46151048036490,
-    "Name": "Sweater Strawberry milkshake | Studio Poespas",
-    "SoldQuantity": 40,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 40,
-    "GrossRevenue": 2447.0,
-    "NetRevenue": 2447.0
   },
   {
     "ID": "VARIANT_46165625045130",
