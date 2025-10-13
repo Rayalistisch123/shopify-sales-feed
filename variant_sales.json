@@ -1,13 +1,93 @@
 [
   {
+    "ID": "4132.70.0002",
+    "VariantID": 46479984361610,
+    "Name": "Shirt Luca turtle neck | Basiskleuren | Unisex",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 29.98,
+    "NetRevenue": 29.98
+  },
+  {
     "ID": "211746.9000OS",
     "VariantID": 46151163084938,
     "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
-    "SoldQuantity": 104,
+    "SoldQuantity": 116,
     "ReturnedQuantity": 0,
-    "NetQuantity": 104,
-    "GrossRevenue": 1863.0,
-    "NetRevenue": 1863.0
+    "NetQuantity": 116,
+    "GrossRevenue": 2079.0,
+    "NetRevenue": 2079.0
+  },
+  {
+    "ID": "14538.80",
+    "VariantID": 46460537471114,
+    "Name": "Elastiekjes Stripy Cherry | Rockahula",
+    "SoldQuantity": 10,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 10,
+    "GrossRevenue": 75.0,
+    "NetRevenue": 75.0
+  },
+  {
+    "ID": "111629.80",
+    "VariantID": 46151160365194,
+    "Name": "Haarklemmen farm animal | Homestead | 8 stuks | Mimi & Lula",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 37.5,
+    "NetRevenue": 37.5
+  },
+  {
+    "ID": "25023.72.000L",
+    "VariantID": 46527480397962,
+    "Name": "Pants Willow | Brown | Studio Amaya",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 79.0,
+    "NetRevenue": 79.0
+  },
+  {
+    "ID": "PP4098C",
+    "VariantID": 46165696249994,
+    "Name": "Behangcirkel Safari | Circle of Life Collection | ⌀ 145 cm | Staaltje",
+    "SoldQuantity": 40,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 40,
+    "GrossRevenue": 5812.99,
+    "NetRevenue": 5812.99
+  },
+  {
+    "ID": "24220.94.000S",
+    "VariantID": 46151054557322,
+    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
+    "SoldQuantity": 54,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 54,
+    "GrossRevenue": 3623.929999999997,
+    "NetRevenue": 3623.929999999997
+  },
+  {
+    "ID": "24312.80.0002",
+    "VariantID": 46268714614922,
+    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
+    "SoldQuantity": 271,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 271,
+    "GrossRevenue": 14895.0,
+    "NetRevenue": 14895.0
+  },
+  {
+    "ID": "24312.80.0001",
+    "VariantID": 46268714582154,
+    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
+    "SoldQuantity": 395,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 395,
+    "GrossRevenue": 21655.0,
+    "NetRevenue": 21655.0
   },
   {
     "ID": "211644.80.00S2",
@@ -288,16 +368,6 @@
     "NetQuantity": 86,
     "GrossRevenue": 4128.0,
     "NetRevenue": 4128.0
-  },
-  {
-    "ID": "24220.94.000S",
-    "VariantID": 46151054557322,
-    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
-    "SoldQuantity": 53,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 53,
-    "GrossRevenue": 3593.929999999997,
-    "NetRevenue": 3593.929999999997
   },
   {
     "ID": "14272.10.0027",
@@ -1570,16 +1640,6 @@
     "NetRevenue": 34.5
   },
   {
-    "ID": "111629.80",
-    "VariantID": 46151160365194,
-    "Name": "Haarklemmen farm animal | Homestead | 8 stuks | Mimi & Lula",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 30.0,
-    "NetRevenue": 30.0
-  },
-  {
     "ID": "25007.21.000S",
     "VariantID": 46526939693194,
     "Name": "Cropped gilet Jole | Bordeaux | Refined Department",
@@ -2680,16 +2740,6 @@
     "NetRevenue": 4607.469999999994
   },
   {
-    "ID": "PP4098C",
-    "VariantID": 46165696249994,
-    "Name": "Behangcirkel Safari | Circle of Life Collection | ⌀ 145 cm | Staaltje",
-    "SoldQuantity": 39,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 39,
-    "GrossRevenue": 5663.99,
-    "NetRevenue": 5663.99
-  },
-  {
     "ID": "211646.70.0040",
     "VariantID": 46150965526666,
     "Name": "Short Jildau vegan leather | Titanium bronze | Studio Poespas",
@@ -2898,16 +2948,6 @@
     "NetQuantity": 24,
     "GrossRevenue": 2038.8000000000006,
     "NetRevenue": 2038.8000000000006
-  },
-  {
-    "ID": "24312.80.0001",
-    "VariantID": 46268714582154,
-    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
-    "SoldQuantity": 394,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 394,
-    "GrossRevenue": 21610.0,
-    "NetRevenue": 21610.0
   },
   {
     "ID": "29472.10.0015",
@@ -9300,16 +9340,6 @@
     "NetRevenue": 245.0
   },
   {
-    "ID": "14538.80",
-    "VariantID": 46460537471114,
-    "Name": "Elastiekjes Stripy Cherry | Rockahula",
-    "SoldQuantity": 9,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 9,
-    "GrossRevenue": 67.5,
-    "NetRevenue": 67.5
-  },
-  {
     "ID": "111637.80",
     "VariantID": 46151160594570,
     "Name": "Haarelastiekjes halloween | 8 stuks | Mimi & Lula",
@@ -13278,16 +13308,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 5.97,
     "NetRevenue": 5.97
-  },
-  {
-    "ID": "24312.80.0002",
-    "VariantID": 46268714614922,
-    "Name": "Dress Flirty Stripe | Purple & pink | Studio Poespas",
-    "SoldQuantity": 270,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 270,
-    "GrossRevenue": 14850.0,
-    "NetRevenue": 14850.0
   },
   {
     "ID": "211796.50.000L",
@@ -20638,16 +20658,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 80.0,
     "NetRevenue": 80.0
-  },
-  {
-    "ID": "4132.70.0002",
-    "VariantID": 46479984361610,
-    "Name": "Shirt Luca turtle neck | Basiskleuren | Unisex",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 14.99,
-    "NetRevenue": 14.99
   },
   {
     "ID": "PP3130S",
