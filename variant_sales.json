@@ -1,5 +1,75 @@
 [
   {
+    "ID": "25022.22.000M",
+    "VariantID": 46527479939210,
+    "Name": "Pants Jasmin | Orange | Studio Amaya",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 395.0,
+    "NetRevenue": 395.0
+  },
+  {
+    "ID": "25021.22.000L",
+    "VariantID": 46527479775370,
+    "Name": "Blouse Montana | Orange | Studio Amaya",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 316.0,
+    "NetRevenue": 316.0
+  },
+  {
+    "ID": "25028.72.000L",
+    "VariantID": 46527481315466,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 413.0,
+    "NetRevenue": 413.0
+  },
+  {
+    "ID": "211746.9000OS",
+    "VariantID": 46151163084938,
+    "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
+    "SoldQuantity": 190,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 190,
+    "GrossRevenue": 3411.0,
+    "NetRevenue": 3411.0
+  },
+  {
+    "ID": "24112.64.000M",
+    "VariantID": 46151023034506,
+    "Name": "Pants Indy | Pink | Ydence",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 496.25,
+    "NetRevenue": 496.25
+  },
+  {
+    "ID": "25015.94.000M",
+    "VariantID": 46527478726794,
+    "Name": "Top Spark | Silver | Studio Amaya",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 237.0,
+    "NetRevenue": 237.0
+  },
+  {
+    "ID": "25028.72.000M",
+    "VariantID": 46527481282698,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 24,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 24,
+    "GrossRevenue": 1416.0,
+    "NetRevenue": 1416.0
+  },
+  {
     "ID": "25035.21.000S",
     "VariantID": 46547793051786,
     "Name": "Blazer Jane | Bordeaux | Amaya Amsterdam",
@@ -10,16 +80,6 @@
     "NetRevenue": 278.0
   },
   {
-    "ID": "211746.9000OS",
-    "VariantID": 46151163084938,
-    "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
-    "SoldQuantity": 188,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 188,
-    "GrossRevenue": 3375.0,
-    "NetRevenue": 3375.0
-  },
-  {
     "ID": "25021.22.000M",
     "VariantID": 46527479742602,
     "Name": "Blouse Montana | Orange | Studio Amaya",
@@ -28,26 +88,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 395.0,
     "NetRevenue": 395.0
-  },
-  {
-    "ID": "25028.72.000M",
-    "VariantID": 46527481282698,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 23,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 23,
-    "GrossRevenue": 1357.0,
-    "NetRevenue": 1357.0
-  },
-  {
-    "ID": "25015.94.000M",
-    "VariantID": 46527478726794,
-    "Name": "Top Spark | Silver | Studio Amaya",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 158.0,
-    "NetRevenue": 158.0
   },
   {
     "ID": "24306.74.00S2",
@@ -388,16 +428,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 177.0,
     "NetRevenue": 177.0
-  },
-  {
-    "ID": "25028.72.000L",
-    "VariantID": 46527481315466,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 354.0,
-    "NetRevenue": 354.0
   },
   {
     "ID": "25021.22.000S",
@@ -1028,16 +1058,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 160.0,
     "NetRevenue": 160.0
-  },
-  {
-    "ID": "25021.22.000L",
-    "VariantID": 46527479775370,
-    "Name": "Blouse Montana | Orange | Studio Amaya",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 237.0,
-    "NetRevenue": 237.0
   },
   {
     "ID": "25022.22.000L",
@@ -2308,16 +2328,6 @@
     "NetQuantity": 91,
     "GrossRevenue": 4090.5,
     "NetRevenue": 4090.5
-  },
-  {
-    "ID": "25022.22.000M",
-    "VariantID": 46527479939210,
-    "Name": "Pants Jasmin | Orange | Studio Amaya",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 316.0,
-    "NetRevenue": 316.0
   },
   {
     "ID": "PP2225S",
@@ -4728,16 +4738,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 84.0,
     "NetRevenue": 84.0
-  },
-  {
-    "ID": "24112.64.000M",
-    "VariantID": 46151023034506,
-    "Name": "Pants Indy | Pink | Ydence",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 457.25,
-    "NetRevenue": 457.25
   },
   {
     "ID": "17200.12",
