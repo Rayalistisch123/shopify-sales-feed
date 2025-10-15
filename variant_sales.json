@@ -1,5 +1,75 @@
 [
   {
+    "ID": "25023.72.000M",
+    "VariantID": 46527480365194,
+    "Name": "Pants Willow | Brown | Studio Amaya",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 316.0,
+    "NetRevenue": 316.0
+  },
+  {
+    "ID": "25017.80.000M",
+    "VariantID": 46527479087242,
+    "Name": "Skort Juliette | Multi print | Studio Amaya",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 207.0,
+    "NetRevenue": 207.0
+  },
+  {
+    "ID": "25028.72.000M",
+    "VariantID": 46527481282698,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 31,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 31,
+    "GrossRevenue": 1829.0,
+    "NetRevenue": 1829.0
+  },
+  {
+    "ID": "25030.72.000S",
+    "VariantID": 46527481675914,
+    "Name": "Blazer Midnight | Multi print | Studio Amaya",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 1251.0,
+    "NetRevenue": 1251.0
+  },
+  {
+    "ID": "25031.72.000S",
+    "VariantID": 46527481806986,
+    "Name": "Short Glow | Multi print | Studio Amaya",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 553.0,
+    "NetRevenue": 553.0
+  },
+  {
+    "ID": "25055.61.0026",
+    "VariantID": 47134922277002,
+    "Name": "Pants Madelynn | Dark blue | Harper & Yve",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 139.99,
+    "NetRevenue": 139.99
+  },
+  {
+    "ID": "25056.61.000S",
+    "VariantID": 47134924079242,
+    "Name": "Jacket Fiona | Dark blue | Harper & Yve",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 159.99,
+    "NetRevenue": 159.99
+  },
+  {
     "ID": "25030.72.000M",
     "VariantID": 46527481708682,
     "Name": "Blazer Midnight | Multi print | Studio Amaya",
@@ -38,16 +108,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 379.0,
     "NetRevenue": 379.0
-  },
-  {
-    "ID": "25028.72.000M",
-    "VariantID": 46527481282698,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 30,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 30,
-    "GrossRevenue": 1770.0,
-    "NetRevenue": 1770.0
   },
   {
     "ID": "25030.72.00XL",
@@ -138,26 +198,6 @@
     "NetQuantity": 85,
     "GrossRevenue": 13361.469999999972,
     "NetRevenue": 13361.469999999972
-  },
-  {
-    "ID": "25031.72.000S",
-    "VariantID": 46527481806986,
-    "Name": "Short Glow | Multi print | Studio Amaya",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 474.0,
-    "NetRevenue": 474.0
-  },
-  {
-    "ID": "25030.72.000S",
-    "VariantID": 46527481675914,
-    "Name": "Blazer Midnight | Multi print | Studio Amaya",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 1112.0,
-    "NetRevenue": 1112.0
   },
   {
     "ID": "25030.72.000L",
@@ -1340,16 +1380,6 @@
     "NetRevenue": 119.0
   },
   {
-    "ID": "25023.72.000M",
-    "VariantID": 46527480365194,
-    "Name": "Pants Willow | Brown | Studio Amaya",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 237.0,
-    "NetRevenue": 237.0
-  },
-  {
     "ID": "25031.72.000L",
     "VariantID": 46527481872522,
     "Name": "Short Glow | Multi print | Studio Amaya",
@@ -1358,16 +1388,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 158.0,
     "NetRevenue": 158.0
-  },
-  {
-    "ID": "25017.80.000M",
-    "VariantID": 46527479087242,
-    "Name": "Skort Juliette | Multi print | Studio Amaya",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 138.0,
-    "NetRevenue": 138.0
   },
   {
     "ID": "25045.62.000M",
