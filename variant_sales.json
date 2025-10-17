@@ -3,11 +3,61 @@
     "ID": "25028.72.000M",
     "VariantID": 46527481282698,
     "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 42,
+    "SoldQuantity": 43,
     "ReturnedQuantity": 0,
-    "NetQuantity": 42,
-    "GrossRevenue": 2478.0,
-    "NetRevenue": 2478.0
+    "NetQuantity": 43,
+    "GrossRevenue": 2537.0,
+    "NetRevenue": 2537.0
+  },
+  {
+    "ID": "25028.72.000S",
+    "VariantID": 46527481249930,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 46,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 46,
+    "GrossRevenue": 2714.0,
+    "NetRevenue": 2714.0
+  },
+  {
+    "ID": "25027.92.000L",
+    "VariantID": 46527481118858,
+    "Name": "Top Bo | Grey | Studio Amaya",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 118.0,
+    "NetRevenue": 118.0
+  },
+  {
+    "ID": "25028.72.000L",
+    "VariantID": 46527481315466,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 944.0,
+    "NetRevenue": 944.0
+  },
+  {
+    "ID": "25045.62.000M",
+    "VariantID": 47134915002506,
+    "Name": "Jacket Nori | Wine berry | Harper & Yve",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 449.97,
+    "NetRevenue": 449.97
+  },
+  {
+    "ID": "211746.9000OS",
+    "VariantID": 46151163084938,
+    "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
+    "SoldQuantity": 411,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 411,
+    "GrossRevenue": 7389.0,
+    "NetRevenue": 7389.0
   },
   {
     "ID": "15105.80",
@@ -50,16 +100,6 @@
     "NetRevenue": 13721.369999999968
   },
   {
-    "ID": "211746.9000OS",
-    "VariantID": 46151163084938,
-    "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
-    "SoldQuantity": 407,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 407,
-    "GrossRevenue": 7317.0,
-    "NetRevenue": 7317.0
-  },
-  {
     "ID": "211705.80.00S2",
     "VariantID": 46151057309834,
     "Name": "Knit tompouce | Pink | Studio Poespas",
@@ -78,16 +118,6 @@
     "NetQuantity": 75,
     "GrossRevenue": 425.6,
     "NetRevenue": 425.6
-  },
-  {
-    "ID": "25028.72.000S",
-    "VariantID": 46527481249930,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 44,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 44,
-    "GrossRevenue": 2596.0,
-    "NetRevenue": 2596.0
   },
   {
     "ID": "211861.42",
@@ -128,16 +158,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 1.99,
     "NetRevenue": 1.99
-  },
-  {
-    "ID": "25028.72.000L",
-    "VariantID": 46527481315466,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 15,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 15,
-    "GrossRevenue": 885.0,
-    "NetRevenue": 885.0
   },
   {
     "ID": "25028.72.00XS",
@@ -2440,16 +2460,6 @@
     "NetRevenue": 623.0
   },
   {
-    "ID": "25027.92.000L",
-    "VariantID": 46527481118858,
-    "Name": "Top Bo | Grey | Studio Amaya",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 59.0,
-    "NetRevenue": 59.0
-  },
-  {
     "ID": "1129.10.009",
     "VariantID": 46150411288714,
     "Name": "Shirt Bowi | Peter Pan kraagje, unisex",
@@ -2558,16 +2568,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 119.0,
     "NetRevenue": 119.0
-  },
-  {
-    "ID": "25045.62.000M",
-    "VariantID": 47134915002506,
-    "Name": "Jacket Nori | Wine berry | Harper & Yve",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 299.98,
-    "NetRevenue": 299.98
   },
   {
     "ID": "1129.12.003",
