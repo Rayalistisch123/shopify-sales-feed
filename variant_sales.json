@@ -1,23 +1,53 @@
 [
   {
-    "ID": "25028.72.000M",
-    "VariantID": 46527481282698,
+    "ID": "25028.72.000L",
+    "VariantID": 46527481315466,
     "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 43,
+    "SoldQuantity": 17,
     "ReturnedQuantity": 0,
-    "NetQuantity": 43,
-    "GrossRevenue": 2537.0,
-    "NetRevenue": 2537.0
+    "NetQuantity": 17,
+    "GrossRevenue": 1003.0,
+    "NetRevenue": 1003.0
   },
   {
     "ID": "25028.72.000S",
     "VariantID": 46527481249930,
     "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 46,
+    "SoldQuantity": 47,
     "ReturnedQuantity": 0,
-    "NetQuantity": 46,
-    "GrossRevenue": 2714.0,
-    "NetRevenue": 2714.0
+    "NetQuantity": 47,
+    "GrossRevenue": 2773.0,
+    "NetRevenue": 2773.0
+  },
+  {
+    "ID": "15058.94",
+    "VariantID": 47008215662730,
+    "Name": "Earmuffs disco ball | Rockahula",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 48.0,
+    "NetRevenue": 48.0
+  },
+  {
+    "ID": "25028.72.000M",
+    "VariantID": 46527481282698,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 45,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 45,
+    "GrossRevenue": 2655.0,
+    "NetRevenue": 2655.0
+  },
+  {
+    "ID": "15067.72.0444",
+    "VariantID": 47112681259146,
+    "Name": "Coat Calin | Cabernet | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 119.0,
+    "NetRevenue": 119.0
   },
   {
     "ID": "25027.92.000L",
@@ -28,16 +58,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 118.0,
     "NetRevenue": 118.0
-  },
-  {
-    "ID": "25028.72.000L",
-    "VariantID": 46527481315466,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 16,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 16,
-    "GrossRevenue": 944.0,
-    "NetRevenue": 944.0
   },
   {
     "ID": "25045.62.000M",
@@ -10268,16 +10288,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 84.0,
     "NetRevenue": 84.0
-  },
-  {
-    "ID": "15058.94",
-    "VariantID": 47008215662730,
-    "Name": "Earmuffs disco ball | Rockahula",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 32.0,
-    "NetRevenue": 32.0
   },
   {
     "ID": "24223.64.000L",
