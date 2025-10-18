@@ -1,23 +1,103 @@
 [
   {
+    "ID": "34265.80",
+    "VariantID": 46151169441930,
+    "Name": "Family paspoort | Smiley | Studio Poespas",
+    "SoldQuantity": 1798,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1798,
+    "GrossRevenue": 54867.5,
+    "NetRevenue": 54867.5
+  },
+  {
     "ID": "211746.9000OS",
     "VariantID": 46151163084938,
     "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
-    "SoldQuantity": 435,
+    "SoldQuantity": 437,
     "ReturnedQuantity": 0,
-    "NetQuantity": 435,
-    "GrossRevenue": 7821.0,
-    "NetRevenue": 7821.0
+    "NetQuantity": 437,
+    "GrossRevenue": 7857.0,
+    "NetRevenue": 7857.0
+  },
+  {
+    "ID": "25111.72.00XS",
+    "VariantID": 47112691122314,
+    "Name": "Fitted blazer Mily | Brown | Refined Department",
+    "SoldQuantity": 8,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 8,
+    "GrossRevenue": 712.0,
+    "NetRevenue": 712.0
+  },
+  {
+    "ID": "25027.92.00XS",
+    "VariantID": 46527481020554,
+    "Name": "Top Bo | Grey | Studio Amaya",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 59.0,
+    "NetRevenue": 59.0
   },
   {
     "ID": "25090.64",
     "VariantID": 47026389581962,
     "Name": "Paspoorthoes Bonjour | Pink | Studio Poespas",
-    "SoldQuantity": 179,
+    "SoldQuantity": 180,
     "ReturnedQuantity": 0,
-    "NetQuantity": 179,
-    "GrossRevenue": 5452.250000000008,
-    "NetRevenue": 5452.250000000008
+    "NetQuantity": 180,
+    "GrossRevenue": 5484.750000000008,
+    "NetRevenue": 5484.750000000008
+  },
+  {
+    "ID": "25028.72.000S",
+    "VariantID": 46527481249930,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 52,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 52,
+    "GrossRevenue": 3068.0,
+    "NetRevenue": 3068.0
+  },
+  {
+    "ID": "25028.72.000L",
+    "VariantID": 46527481315466,
+    "Name": "Top Bo | Brown | Studio Amaya",
+    "SoldQuantity": 21,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 21,
+    "GrossRevenue": 1239.0,
+    "NetRevenue": 1239.0
+  },
+  {
+    "ID": "24382.12.00S2",
+    "VariantID": 46375279034506,
+    "Name": "Sweatvest Preppy Furry | Studio Poespas",
+    "SoldQuantity": 137,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 137,
+    "GrossRevenue": 9492.6,
+    "NetRevenue": 9492.6
+  },
+  {
+    "ID": "PP3204S",
+    "VariantID": 46165461303434,
+    "Name": "Behang Desert Flow | Staaltje",
+    "SoldQuantity": 55,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 55,
+    "GrossRevenue": 109.44999999999992,
+    "NetRevenue": 109.44999999999992
+  },
+  {
+    "ID": "PP3303S",
+    "VariantID": 46479891071114,
+    "Name": "Behang Leaf | Clay | Staaltje",
+    "SoldQuantity": 101,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 101,
+    "GrossRevenue": 200.9900000000002,
+    "NetRevenue": 200.9900000000002
   },
   {
     "ID": "24245.64.00S1",
@@ -40,16 +120,6 @@
     "NetRevenue": 354.0
   },
   {
-    "ID": "25028.72.000S",
-    "VariantID": 46527481249930,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 51,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 51,
-    "GrossRevenue": 3009.0,
-    "NetRevenue": 3009.0
-  },
-  {
     "ID": "25015.94.000M",
     "VariantID": 46527478726794,
     "Name": "Top Spark | Silver | Studio Amaya",
@@ -68,26 +138,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 316.0,
     "NetRevenue": 316.0
-  },
-  {
-    "ID": "34265.80",
-    "VariantID": 46151169441930,
-    "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 1796,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1796,
-    "GrossRevenue": 54802.5,
-    "NetRevenue": 54802.5
-  },
-  {
-    "ID": "PP3303S",
-    "VariantID": 46479891071114,
-    "Name": "Behang Leaf | Clay | Staaltje",
-    "SoldQuantity": 100,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 100,
-    "GrossRevenue": 199.0000000000002,
-    "NetRevenue": 199.0000000000002
   },
   {
     "ID": "211805.42",
@@ -158,16 +208,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 118.0,
     "NetRevenue": 118.0
-  },
-  {
-    "ID": "25028.72.000L",
-    "VariantID": 46527481315466,
-    "Name": "Top Bo | Brown | Studio Amaya",
-    "SoldQuantity": 20,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 20,
-    "GrossRevenue": 1180.0,
-    "NetRevenue": 1180.0
   },
   {
     "ID": "12922.14.49-1",
@@ -488,16 +528,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 295.0,
     "NetRevenue": 295.0
-  },
-  {
-    "ID": "24382.12.00S2",
-    "VariantID": 46375279034506,
-    "Name": "Sweatvest Preppy Furry | Studio Poespas",
-    "SoldQuantity": 136,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 136,
-    "GrossRevenue": 9414.600000000002,
-    "NetRevenue": 9414.600000000002
   },
   {
     "ID": "211979.8000S3",
@@ -1358,16 +1388,6 @@
     "NetQuantity": 25,
     "GrossRevenue": 49.75000000000001,
     "NetRevenue": 49.75000000000001
-  },
-  {
-    "ID": "PP3204S",
-    "VariantID": 46165461303434,
-    "Name": "Behang Desert Flow | Staaltje",
-    "SoldQuantity": 54,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 54,
-    "GrossRevenue": 107.45999999999992,
-    "NetRevenue": 107.45999999999992
   },
   {
     "ID": "PP3323S",
@@ -2918,16 +2938,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 98.0,
     "NetRevenue": 98.0
-  },
-  {
-    "ID": "25111.72.00XS",
-    "VariantID": 47112691122314,
-    "Name": "Fitted blazer Mily | Brown | Refined Department",
-    "SoldQuantity": 7,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 7,
-    "GrossRevenue": 623.0,
-    "NetRevenue": 623.0
   },
   {
     "ID": "1129.10.009",
