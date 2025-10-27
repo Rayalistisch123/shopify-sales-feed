@@ -1,13 +1,63 @@
 [
   {
+    "ID": "24097.42.00XL",
+    "VariantID": 46151061504138,
+    "Name": "Jumpsuit Maxime | Dull gold | JOSH V",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 311.0,
+    "NetRevenue": 311.0
+  },
+  {
     "ID": "211746.9000OS",
     "VariantID": 46151163084938,
     "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
-    "SoldQuantity": 749,
+    "SoldQuantity": 753,
     "ReturnedQuantity": 0,
-    "NetQuantity": 749,
-    "GrossRevenue": 13473.0,
-    "NetRevenue": 13473.0
+    "NetQuantity": 753,
+    "GrossRevenue": 13545.0,
+    "NetRevenue": 13545.0
+  },
+  {
+    "ID": "25030.72.00XS",
+    "VariantID": 46527481643146,
+    "Name": "Blazer Midnight | Multi print | Studio Amaya",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 1251.0,
+    "NetRevenue": 1251.0
+  },
+  {
+    "ID": "24220.94.000M",
+    "VariantID": 46151054590090,
+    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
+    "SoldQuantity": 74,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 74,
+    "GrossRevenue": 4353.969999999996,
+    "NetRevenue": 4353.969999999996
+  },
+  {
+    "ID": "211881.50.000S",
+    "VariantID": 46150990266506,
+    "Name": "Top Lola | Petrol | Studio Poespas",
+    "SoldQuantity": 19,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 19,
+    "GrossRevenue": 581.0,
+    "NetRevenue": 581.0
+  },
+  {
+    "ID": "211705.80.00S0",
+    "VariantID": 46151057244298,
+    "Name": "Knit tompouce | Pink | Studio Poespas",
+    "SoldQuantity": 39,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 39,
+    "GrossRevenue": 2515.0500000000015,
+    "NetRevenue": 2515.0500000000015
   },
   {
     "ID": "24245.64.00S2",
@@ -158,16 +208,6 @@
     "NetQuantity": 16,
     "GrossRevenue": 31.83999999999999,
     "NetRevenue": 31.83999999999999
-  },
-  {
-    "ID": "24220.94.000M",
-    "VariantID": 46151054590090,
-    "Name": "Broek Save The Last Dance | Silver roses | Studio Amaya x Poespas",
-    "SoldQuantity": 73,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 73,
-    "GrossRevenue": 4323.969999999996,
-    "NetRevenue": 4323.969999999996
   },
   {
     "ID": "211646.70.0038",
@@ -1058,16 +1098,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 149.0,
     "NetRevenue": 149.0
-  },
-  {
-    "ID": "211881.50.000S",
-    "VariantID": 46150990266506,
-    "Name": "Top Lola | Petrol | Studio Poespas",
-    "SoldQuantity": 18,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 18,
-    "GrossRevenue": 556.0,
-    "NetRevenue": 556.0
   },
   {
     "ID": "VARIANT_46161952276618",
@@ -4280,16 +4310,6 @@
     "NetRevenue": 2361.97
   },
   {
-    "ID": "211705.80.00S0",
-    "VariantID": 46151057244298,
-    "Name": "Knit tompouce | Pink | Studio Poespas",
-    "SoldQuantity": 38,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 38,
-    "GrossRevenue": 2446.0500000000015,
-    "NetRevenue": 2446.0500000000015
-  },
-  {
     "ID": "25028.72.00XS",
     "VariantID": 46527481217162,
     "Name": "Top Bo | Brown | Studio Amaya",
@@ -5118,16 +5138,6 @@
     "NetQuantity": 13,
     "GrossRevenue": 1061.4300000000003,
     "NetRevenue": 1061.4300000000003
-  },
-  {
-    "ID": "25030.72.00XS",
-    "VariantID": 46527481643146,
-    "Name": "Blazer Midnight | Multi print | Studio Amaya",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 1112.0,
-    "NetRevenue": 1112.0
   },
   {
     "ID": "15027.80.0140",
@@ -31458,16 +31468,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 111.0,
     "NetRevenue": 111.0
-  },
-  {
-    "ID": "24097.42.00XL",
-    "VariantID": 46151061504138,
-    "Name": "Jumpsuit Maxime | Dull gold | JOSH V",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 192.0,
-    "NetRevenue": 192.0
   },
   {
     "ID": "211473.50.000M",
