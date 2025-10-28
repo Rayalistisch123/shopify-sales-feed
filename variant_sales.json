@@ -1,5 +1,55 @@
 [
   {
+    "ID": "25026.90.00XS",
+    "VariantID": 46527480823946,
+    "Name": "Pants Lis | Black | Studio Amaya",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 108.0,
+    "NetRevenue": 108.0
+  },
+  {
+    "ID": "24229.64.000L",
+    "VariantID": 46317807534218,
+    "Name": "Blazer The Devil Wears Prada | Vintage shimmer satin | Studio Amaya x Poespas",
+    "SoldQuantity": 16,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 16,
+    "GrossRevenue": 640.0,
+    "NetRevenue": 640.0
+  },
+  {
+    "ID": "24245.64.00S2",
+    "VariantID": 46878457888906,
+    "Name": "Sweater Fruitella | Orange & Pink | Studio Poespas",
+    "SoldQuantity": 111,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 111,
+    "GrossRevenue": 7162.1999999999825,
+    "NetRevenue": 7162.1999999999825
+  },
+  {
+    "ID": "PP2098S",
+    "VariantID": 46166038577290,
+    "Name": "Behang Desert animals | Background | Taupe | Staaltje",
+    "SoldQuantity": 29,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 29,
+    "GrossRevenue": 57.710000000000015,
+    "NetRevenue": 57.710000000000015
+  },
+  {
+    "ID": "PP2090S",
+    "VariantID": 46166021996682,
+    "Name": "Behang Desert animals | Background | Roze | Staaltje",
+    "SoldQuantity": 17,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 17,
+    "GrossRevenue": 33.82999999999999,
+    "NetRevenue": 33.82999999999999
+  },
+  {
     "ID": "24382.12.00S2",
     "VariantID": 46375279034506,
     "Name": "Sweatvest Preppy Furry | Studio Poespas",
@@ -8,16 +58,6 @@
     "NetQuantity": 147,
     "GrossRevenue": 10272.59999999999,
     "NetRevenue": 10272.59999999999
-  },
-  {
-    "ID": "24245.64.00S2",
-    "VariantID": 46878457888906,
-    "Name": "Sweater Fruitella | Orange & Pink | Studio Poespas",
-    "SoldQuantity": 110,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 110,
-    "GrossRevenue": 7093.1999999999825,
-    "NetRevenue": 7093.1999999999825
   },
   {
     "ID": "211978.6400S2",
@@ -3650,16 +3690,6 @@
     "NetRevenue": 135.0
   },
   {
-    "ID": "24229.64.000L",
-    "VariantID": 46317807534218,
-    "Name": "Blazer The Devil Wears Prada | Vintage shimmer satin | Studio Amaya x Poespas",
-    "SoldQuantity": 15,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 15,
-    "GrossRevenue": 600.0,
-    "NetRevenue": 600.0
-  },
-  {
     "ID": "VARIANT_46172614557834",
     "VariantID": 46172614557834,
     "Name": "Behang voetbal | Mannen | Taupe",
@@ -4010,16 +4040,6 @@
     "NetRevenue": 3977.8500000000026
   },
   {
-    "ID": "25026.90.00XS",
-    "VariantID": 46527480823946,
-    "Name": "Pants Lis | Black | Studio Amaya",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 54.0,
-    "NetRevenue": 54.0
-  },
-  {
     "ID": "25983.90.0042",
     "VariantID": 47137511637130,
     "Name": "Winterboots Frosty | Zwart | Unisa",
@@ -4258,16 +4278,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 25.0,
     "NetRevenue": 25.0
-  },
-  {
-    "ID": "PP2098S",
-    "VariantID": 46166038577290,
-    "Name": "Behang Desert animals | Background | Taupe | Staaltje",
-    "SoldQuantity": 28,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 28,
-    "GrossRevenue": 55.72000000000001,
-    "NetRevenue": 55.72000000000001
   },
   {
     "ID": "111182.70",
@@ -10118,16 +10128,6 @@
     "NetQuantity": 133,
     "GrossRevenue": 5113.67999999999,
     "NetRevenue": 5113.67999999999
-  },
-  {
-    "ID": "PP2090S",
-    "VariantID": 46166021996682,
-    "Name": "Behang Desert animals | Background | Roze | Staaltje",
-    "SoldQuantity": 16,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 16,
-    "GrossRevenue": 31.83999999999999,
-    "NetRevenue": 31.83999999999999
   },
   {
     "ID": "24560.20.00XL",
