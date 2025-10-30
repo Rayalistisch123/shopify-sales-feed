@@ -1,5 +1,85 @@
 [
   {
+    "ID": "211911.90.000S",
+    "VariantID": 47140689772682,
+    "Name": "Knitted rib top Zohra | Black | Refined Department",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 245.0,
+    "NetRevenue": 245.0
+  },
+  {
+    "ID": "212003.80",
+    "VariantID": 47218210504842,
+    "Name": "Sjaal strawberry soft | Red/pink | Studio Poespas",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 15.0,
+    "NetRevenue": 15.0
+  },
+  {
+    "ID": "211908.21.000S",
+    "VariantID": 47140688363658,
+    "Name": "Knitted vest Mady | Bordeaux | Refined Department",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 621.0,
+    "NetRevenue": 621.0
+  },
+  {
+    "ID": "PP2231S",
+    "VariantID": 46272435880074,
+    "Name": "Behang Botanical Blossom | Peach | Staaltje",
+    "SoldQuantity": 20,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 20,
+    "GrossRevenue": 39.8,
+    "NetRevenue": 39.8
+  },
+  {
+    "ID": "212009.70",
+    "VariantID": 47218210701450,
+    "Name": "Bag charm dog | Studio Poespas",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 12.0,
+    "NetRevenue": 12.0
+  },
+  {
+    "ID": "25021.22.000S",
+    "VariantID": 46527479709834,
+    "Name": "Blouse Montana | Orange | Studio Amaya",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 711.0,
+    "NetRevenue": 711.0
+  },
+  {
+    "ID": "24301.14.000M",
+    "VariantID": 46151060160650,
+    "Name": "Blouse Bennie | Mist pink stripe | Freebird",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 181.75,
+    "NetRevenue": 181.75
+  },
+  {
+    "ID": "VARIANT_46165129822346",
+    "VariantID": 46165129822346,
+    "Name": "Behang Giraffe | Beige",
+    "SoldQuantity": 68,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 68,
+    "GrossRevenue": 21874.840000000004,
+    "NetRevenue": 21874.840000000004
+  },
+  {
     "ID": "211746.9000OS",
     "VariantID": 46151163084938,
     "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
@@ -8,16 +88,6 @@
     "NetQuantity": 821,
     "GrossRevenue": 14769.0,
     "NetRevenue": 14769.0
-  },
-  {
-    "ID": "211908.21.000S",
-    "VariantID": 47140688363658,
-    "Name": "Knitted vest Mady | Bordeaux | Refined Department",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 552.0,
-    "NetRevenue": 552.0
   },
   {
     "ID": "211909.18.000S",
@@ -158,16 +228,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 49.0,
     "NetRevenue": 49.0
-  },
-  {
-    "ID": "211911.90.000S",
-    "VariantID": 47140689772682,
-    "Name": "Knitted rib top Zohra | Black | Refined Department",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 196.0,
-    "NetRevenue": 196.0
   },
   {
     "ID": "211903.21.000M",
@@ -1810,16 +1870,6 @@
     "NetRevenue": 1602.0
   },
   {
-    "ID": "VARIANT_46165129822346",
-    "VariantID": 46165129822346,
-    "Name": "Behang Giraffe | Beige",
-    "SoldQuantity": 67,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 67,
-    "GrossRevenue": 21783.640000000007,
-    "NetRevenue": 21783.640000000007
-  },
-  {
     "ID": "14274.64.0444",
     "VariantID": 46151050461322,
     "Name": "Swimsuit Fresia | Geranium pink | Konges Slojd",
@@ -3400,16 +3450,6 @@
     "NetRevenue": 237.0
   },
   {
-    "ID": "25021.22.000S",
-    "VariantID": 46527479709834,
-    "Name": "Blouse Montana | Orange | Studio Amaya",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 632.0,
-    "NetRevenue": 632.0
-  },
-  {
     "ID": "15007.20.0506",
     "VariantID": 46527540854922,
     "Name": "Lila sequins dress | Sparkling sangria | Konges Slojd",
@@ -4938,16 +4978,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 109.99,
     "NetRevenue": 109.99
-  },
-  {
-    "ID": "PP2231S",
-    "VariantID": 46272435880074,
-    "Name": "Behang Botanical Blossom | Peach | Staaltje",
-    "SoldQuantity": 19,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 19,
-    "GrossRevenue": 37.809999999999995,
-    "NetRevenue": 37.809999999999995
   },
   {
     "ID": "PP1031S",
@@ -39368,16 +39398,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 14.7,
     "NetRevenue": 14.7
-  },
-  {
-    "ID": "24301.14.000M",
-    "VariantID": 46151060160650,
-    "Name": "Blouse Bennie | Mist pink stripe | Freebird",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 155.75,
-    "NetRevenue": 155.75
   },
   {
     "ID": "211615.80",
