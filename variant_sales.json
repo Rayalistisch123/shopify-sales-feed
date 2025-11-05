@@ -1,5 +1,45 @@
 [
   {
+    "ID": "24242.42.00S1",
+    "VariantID": 46529921613962,
+    "Name": "The Snowsweater | Champagne | Studio Poespas",
+    "SoldQuantity": 69,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 69,
+    "GrossRevenue": 4119.300000000004,
+    "NetRevenue": 4119.300000000004
+  },
+  {
+    "ID": "25093.64",
+    "VariantID": 47179219632266,
+    "Name": "Paspoorthoes Adventure | Pink leopard | Studio Poespas",
+    "SoldQuantity": 44,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 44,
+    "GrossRevenue": 1225.0399999999993,
+    "NetRevenue": 1225.0399999999993
+  },
+  {
+    "ID": "34265.80",
+    "VariantID": 46151169441930,
+    "Name": "Family paspoort | Smiley | Studio Poespas",
+    "SoldQuantity": 1846,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1846,
+    "GrossRevenue": 56427.5,
+    "NetRevenue": 56427.5
+  },
+  {
+    "ID": "14597.60.0134",
+    "VariantID": 46511430893706,
+    "Name": "Jacket quilt solid | Ebony | En Fant",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 178.0,
+    "NetRevenue": 178.0
+  },
+  {
     "ID": "24242.42.00S2",
     "VariantID": 46529921646730,
     "Name": "The Snowsweater | Champagne | Studio Poespas",
@@ -200,16 +240,6 @@
     "NetRevenue": 4792.05
   },
   {
-    "ID": "24242.42.00S1",
-    "VariantID": 46529921613962,
-    "Name": "The Snowsweater | Champagne | Studio Poespas",
-    "SoldQuantity": 68,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 68,
-    "GrossRevenue": 4050.3000000000043,
-    "NetRevenue": 4050.3000000000043
-  },
-  {
     "ID": "212007.74",
     "VariantID": 47218210635914,
     "Name": "Sjaal autumn grey figures | Rib | Studio Poespas",
@@ -328,16 +358,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 40.0,
     "NetRevenue": 40.0
-  },
-  {
-    "ID": "25093.64",
-    "VariantID": 47179219632266,
-    "Name": "Paspoorthoes Adventure | Pink leopard | Studio Poespas",
-    "SoldQuantity": 43,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 43,
-    "GrossRevenue": 1192.5399999999995,
-    "NetRevenue": 1192.5399999999995
   },
   {
     "ID": "24383.72.00S2",
@@ -578,16 +598,6 @@
     "NetQuantity": 9,
     "GrossRevenue": 243.0,
     "NetRevenue": 243.0
-  },
-  {
-    "ID": "34265.80",
-    "VariantID": 46151169441930,
-    "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 1845,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1845,
-    "GrossRevenue": 56395.0,
-    "NetRevenue": 56395.0
   },
   {
     "ID": "25095.42",
@@ -17238,16 +17248,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 177.0,
     "NetRevenue": 177.0
-  },
-  {
-    "ID": "14597.60.0134",
-    "VariantID": 46511430893706,
-    "Name": "Jacket quilt solid | Ebony | En Fant",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 89.0,
-    "NetRevenue": 89.0
   },
   {
     "ID": "211879.80.00S1",
