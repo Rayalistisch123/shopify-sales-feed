@@ -1,5 +1,105 @@
 [
   {
+    "ID": "25014.61.000L",
+    "VariantID": 46527478595722,
+    "Name": "Pants Jasmin | Blue | Studio Amaya",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 207.0,
+    "NetRevenue": 207.0
+  },
+  {
+    "ID": "212025.61.000M",
+    "VariantID": 47179414470794,
+    "Name": "Jacket Snow | Blue | Studio Amaya",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 316.0,
+    "NetRevenue": 316.0
+  },
+  {
+    "ID": "25014.61.000M",
+    "VariantID": 46527478562954,
+    "Name": "Pants Jasmin | Blue | Studio Amaya",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 483.0,
+    "NetRevenue": 483.0
+  },
+  {
+    "ID": "25022.22.000L",
+    "VariantID": 46527479971978,
+    "Name": "Pants Jasmin | Orange | Studio Amaya",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 474.0,
+    "NetRevenue": 474.0
+  },
+  {
+    "ID": "25022.22.000M",
+    "VariantID": 46527479939210,
+    "Name": "Pants Jasmin | Orange | Studio Amaya",
+    "SoldQuantity": 10,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 10,
+    "GrossRevenue": 790.0,
+    "NetRevenue": 790.0
+  },
+  {
+    "ID": "25021.22.000M",
+    "VariantID": 46527479742602,
+    "Name": "Blouse Montana | Orange | Studio Amaya",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 711.0,
+    "NetRevenue": 711.0
+  },
+  {
+    "ID": "25030.72.000M",
+    "VariantID": 46527481708682,
+    "Name": "Blazer Midnight | Multi print | Studio Amaya",
+    "SoldQuantity": 15,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 15,
+    "GrossRevenue": 2085.0,
+    "NetRevenue": 2085.0
+  },
+  {
+    "ID": "211899.10.000M",
+    "VariantID": 47140684955786,
+    "Name": "Hourglass blouse Liva | White | Refined Department",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 177.0,
+    "NetRevenue": 177.0
+  },
+  {
+    "ID": "PP2225S",
+    "VariantID": 46168731189386,
+    "Name": "Behang Onderzee | Beige | Staaltje",
+    "SoldQuantity": 43,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 43,
+    "GrossRevenue": 85.56999999999996,
+    "NetRevenue": 85.56999999999996
+  },
+  {
+    "ID": "PP2213S",
+    "VariantID": 46168730599562,
+    "Name": "Behang Onderzee | Blauw | Staaltje",
+    "SoldQuantity": 39,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 39,
+    "GrossRevenue": 77.60999999999999,
+    "NetRevenue": 77.60999999999999
+  },
+  {
     "ID": "211989.64.0XSS",
     "VariantID": 47151741894794,
     "Name": "PRE-ORDER: Cardigan Partypopper | Pink | Studio Poespas",
@@ -468,16 +568,6 @@
     "NetQuantity": 11,
     "GrossRevenue": 869.0,
     "NetRevenue": 869.0
-  },
-  {
-    "ID": "25022.22.000M",
-    "VariantID": 46527479939210,
-    "Name": "Pants Jasmin | Orange | Studio Amaya",
-    "SoldQuantity": 9,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 9,
-    "GrossRevenue": 711.0,
-    "NetRevenue": 711.0
   },
   {
     "ID": "25019.20.000S",
@@ -1230,16 +1320,6 @@
     "NetRevenue": 598.0
   },
   {
-    "ID": "25030.72.000M",
-    "VariantID": 46527481708682,
-    "Name": "Blazer Midnight | Multi print | Studio Amaya",
-    "SoldQuantity": 14,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 14,
-    "GrossRevenue": 1946.0,
-    "NetRevenue": 1946.0
-  },
-  {
     "ID": "25031.72.00XL",
     "VariantID": 47155574276234,
     "Name": "Short Glow | Multi print | Studio Amaya",
@@ -1478,26 +1558,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 188.0,
     "NetRevenue": 188.0
-  },
-  {
-    "ID": "212025.61.000M",
-    "VariantID": 47179414470794,
-    "Name": "Jacket Snow | Blue | Studio Amaya",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 237.0,
-    "NetRevenue": 237.0
-  },
-  {
-    "ID": "25014.61.000M",
-    "VariantID": 46527478562954,
-    "Name": "Pants Jasmin | Blue | Studio Amaya",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 414.0,
-    "NetRevenue": 414.0
   },
   {
     "ID": "15053.64.0710",
@@ -2098,26 +2158,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 25.0,
     "NetRevenue": 25.0
-  },
-  {
-    "ID": "PP2213S",
-    "VariantID": 46168730599562,
-    "Name": "Behang Onderzee | Blauw | Staaltje",
-    "SoldQuantity": 38,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 38,
-    "GrossRevenue": 75.61999999999999,
-    "NetRevenue": 75.61999999999999
-  },
-  {
-    "ID": "PP2225S",
-    "VariantID": 46168731189386,
-    "Name": "Behang Onderzee | Beige | Staaltje",
-    "SoldQuantity": 42,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 42,
-    "GrossRevenue": 83.57999999999997,
-    "NetRevenue": 83.57999999999997
   },
   {
     "ID": "PP3117",
@@ -5440,16 +5480,6 @@
     "NetRevenue": 6625.8099999999995
   },
   {
-    "ID": "211899.10.000M",
-    "VariantID": 47140684955786,
-    "Name": "Hourglass blouse Liva | White | Refined Department",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 59.0,
-    "NetRevenue": 59.0
-  },
-  {
     "ID": "24323.72.0027",
     "VariantID": 46205156884618,
     "Name": "Pants Mayra | Lexie leopard | Harper & Yve",
@@ -7148,16 +7178,6 @@
     "NetQuantity": 6,
     "GrossRevenue": 474.0,
     "NetRevenue": 474.0
-  },
-  {
-    "ID": "25022.22.000L",
-    "VariantID": 46527479971978,
-    "Name": "Pants Jasmin | Orange | Studio Amaya",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 395.0,
-    "NetRevenue": 395.0
   },
   {
     "ID": "25031.72.00XS",
@@ -8860,16 +8880,6 @@
     "NetRevenue": 799.96
   },
   {
-    "ID": "25021.22.000M",
-    "VariantID": 46527479742602,
-    "Name": "Blouse Montana | Orange | Studio Amaya",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 632.0,
-    "NetRevenue": 632.0
-  },
-  {
     "ID": "211894.64.00S4",
     "VariantID": 46151048134794,
     "Name": "Sweater Strawberry milkshake | Studio Poespas",
@@ -10168,16 +10178,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 79.95,
     "NetRevenue": 79.95
-  },
-  {
-    "ID": "25014.61.000L",
-    "VariantID": 46527478595722,
-    "Name": "Pants Jasmin | Blue | Studio Amaya",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 138.0,
-    "NetRevenue": 138.0
   },
   {
     "ID": "211608.74.0039",
