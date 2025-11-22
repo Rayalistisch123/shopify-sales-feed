@@ -1,13 +1,123 @@
 [
   {
+    "ID": "25019.20.000L",
+    "VariantID": 46527479447690,
+    "Name": "Top Eden | Red | Studio Amaya",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 236.0,
+    "NetRevenue": 236.0
+  },
+  {
+    "ID": "24375.92.00S2",
+    "VariantID": 47137837613194,
+    "Name": "Sweat Macaron | Sparkling | Studio Poespas",
+    "SoldQuantity": 126,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 126,
+    "GrossRevenue": 7517.25,
+    "NetRevenue": 7517.25
+  },
+  {
+    "ID": "14600.20.0028",
+    "VariantID": 46506617602186,
+    "Name": "Thermo boots | Rose taupe | En Fant",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 196.0,
+    "NetRevenue": 196.0
+  },
+  {
+    "ID": "14599.74.0031",
+    "VariantID": 46506610131082,
+    "Name": "Thermo boots | Pine bark | En Fant",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 98.0,
+    "NetRevenue": 98.0
+  },
+  {
+    "ID": "211955.64.00S1",
+    "VariantID": 46151021297802,
+    "Name": "Clea jacket | Pink peach | Bô-Dôme",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 681.0,
+    "NetRevenue": 681.0
+  },
+  {
+    "ID": "212025.61.000S",
+    "VariantID": 47179414438026,
+    "Name": "Jacket Snow | Blue | Studio Amaya",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 395.0,
+    "NetRevenue": 395.0
+  },
+  {
+    "ID": "24466.60.0036",
+    "VariantID": 46367525568650,
+    "Name": "Short Jildau | Blue denim | Studio Poespas",
+    "SoldQuantity": 90,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 90,
+    "GrossRevenue": 4050.0,
+    "NetRevenue": 4050.0
+  },
+  {
+    "ID": "211982.70.0036",
+    "VariantID": 46277099618442,
+    "Name": "Short Jildau | Leopard | Studio Poespas",
+    "SoldQuantity": 266,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 266,
+    "GrossRevenue": 11970.0,
+    "NetRevenue": 11970.0
+  },
+  {
+    "ID": "211902.92.00XS",
+    "VariantID": 47140685709450,
+    "Name": "Relaxed pants Kalea | Light grey | Refined Department",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 237.0,
+    "NetRevenue": 237.0
+  },
+  {
+    "ID": "211859.60.00S1",
+    "VariantID": 46151048167562,
+    "Name": "Lovefest Mr blue sky | Studio Poespas",
+    "SoldQuantity": 70,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 70,
+    "GrossRevenue": 4778.25,
+    "NetRevenue": 4778.25
+  },
+  {
+    "ID": "25038.21.00XS",
+    "VariantID": 46547793641610,
+    "Name": "Pants Vera | Bordeaux | Amaya Amsterdam",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 238.0,
+    "NetRevenue": 238.0
+  },
+  {
     "ID": "24375.92.00S3",
     "VariantID": 47137837645962,
     "Name": "Sweat Macaron | Sparkling | Studio Poespas",
-    "SoldQuantity": 44,
+    "SoldQuantity": 45,
     "ReturnedQuantity": 0,
-    "NetQuantity": 44,
-    "GrossRevenue": 2674.75,
-    "NetRevenue": 2674.75
+    "NetQuantity": 45,
+    "GrossRevenue": 2739.75,
+    "NetRevenue": 2739.75
   },
   {
     "ID": "24245.64.00S2",
@@ -538,16 +648,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 118.0,
     "NetRevenue": 118.0
-  },
-  {
-    "ID": "24375.92.00S2",
-    "VariantID": 47137837613194,
-    "Name": "Sweat Macaron | Sparkling | Studio Poespas",
-    "SoldQuantity": 125,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 125,
-    "GrossRevenue": 7452.25,
-    "NetRevenue": 7452.25
   },
   {
     "ID": "PP3512",
@@ -1580,16 +1680,6 @@
     "NetRevenue": 2614.0
   },
   {
-    "ID": "211859.60.00S1",
-    "VariantID": 46151048167562,
-    "Name": "Lovefest Mr blue sky | Studio Poespas",
-    "SoldQuantity": 69,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 69,
-    "GrossRevenue": 4709.25,
-    "NetRevenue": 4709.25
-  },
-  {
     "ID": "PP3098S",
     "VariantID": 46161848795274,
     "Name": "Behang Safari | Circle of Life Collection | Staaltje",
@@ -2490,16 +2580,6 @@
     "NetRevenue": 3009.2799999999997
   },
   {
-    "ID": "14599.74.0031",
-    "VariantID": 46506610131082,
-    "Name": "Thermo boots | Pine bark | En Fant",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 49.0,
-    "NetRevenue": 49.0
-  },
-  {
     "ID": "14600.20.0026",
     "VariantID": 46506617536650,
     "Name": "Thermo boots | Rose taupe | En Fant",
@@ -3118,16 +3198,6 @@
     "NetQuantity": 12,
     "GrossRevenue": 660.0,
     "NetRevenue": 660.0
-  },
-  {
-    "ID": "211902.92.00XS",
-    "VariantID": 47140685709450,
-    "Name": "Relaxed pants Kalea | Light grey | Refined Department",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 158.0,
-    "NetRevenue": 158.0
   },
   {
     "ID": "25084.72.00ML",
@@ -6910,16 +6980,6 @@
     "NetRevenue": 49.75000000000001
   },
   {
-    "ID": "211982.70.0036",
-    "VariantID": 46277099618442,
-    "Name": "Short Jildau | Leopard | Studio Poespas",
-    "SoldQuantity": 265,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 265,
-    "GrossRevenue": 11925.0,
-    "NetRevenue": 11925.0
-  },
-  {
     "ID": "211899.10.000L",
     "VariantID": 47140685021322,
     "Name": "Hourglass blouse Liva | White | Refined Department",
@@ -8000,16 +8060,6 @@
     "NetRevenue": 379.0
   },
   {
-    "ID": "25019.20.000L",
-    "VariantID": 46527479447690,
-    "Name": "Top Eden | Red | Studio Amaya",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 177.0,
-    "NetRevenue": 177.0
-  },
-  {
     "ID": "3437.10.200200",
     "VariantID": 46151074185354,
     "Name": "Zomerdekbed | 200×200 cm",
@@ -8138,16 +8188,6 @@
     "NetQuantity": 64,
     "GrossRevenue": 3939.900000000004,
     "NetRevenue": 3939.900000000004
-  },
-  {
-    "ID": "212025.61.000S",
-    "VariantID": 47179414438026,
-    "Name": "Jacket Snow | Blue | Studio Amaya",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 316.0,
-    "NetRevenue": 316.0
   },
   {
     "ID": "15012.70.0506",
@@ -11268,16 +11308,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 20.0,
     "NetRevenue": 20.0
-  },
-  {
-    "ID": "211955.64.00S1",
-    "VariantID": 46151021297802,
-    "Name": "Clea jacket | Pink peach | Bô-Dôme",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 631.0,
-    "NetRevenue": 631.0
   },
   {
     "ID": "111226.12",
@@ -16140,16 +16170,6 @@
     "NetRevenue": 689.97
   },
   {
-    "ID": "25038.21.00XS",
-    "VariantID": 46547793641610,
-    "Name": "Pants Vera | Bordeaux | Amaya Amsterdam",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 119.0,
-    "NetRevenue": 119.0
-  },
-  {
     "ID": "PP2014",
     "VariantID": 46151196311690,
     "Name": "Behang Morning bird | Roze",
@@ -18678,16 +18698,6 @@
     "NetQuantity": 15,
     "GrossRevenue": 495.0,
     "NetRevenue": 495.0
-  },
-  {
-    "ID": "14600.20.0028",
-    "VariantID": 46506617602186,
-    "Name": "Thermo boots | Rose taupe | En Fant",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 147.0,
-    "NetRevenue": 147.0
   },
   {
     "ID": "24568.62.00XS",
@@ -22988,16 +22998,6 @@
     "NetQuantity": 13,
     "GrossRevenue": 195.0,
     "NetRevenue": 195.0
-  },
-  {
-    "ID": "24466.60.0036",
-    "VariantID": 46367525568650,
-    "Name": "Short Jildau | Blue denim | Studio Poespas",
-    "SoldQuantity": 89,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 89,
-    "GrossRevenue": 4005.0,
-    "NetRevenue": 4005.0
   },
   {
     "ID": "211880.60.00XS",
