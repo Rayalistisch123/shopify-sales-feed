@@ -1,13 +1,63 @@
 [
   {
+    "ID": "VARIANT_46165229830282",
+    "VariantID": 46165229830282,
+    "Name": "Behang Giraffe | Roze",
+    "SoldQuantity": 29,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 29,
+    "GrossRevenue": 9660.280000000002,
+    "NetRevenue": 9660.280000000002
+  },
+  {
+    "ID": "24470.70.00S3",
+    "VariantID": 47141184143498,
+    "Name": "PRE-ORDER: Sweat Macaron | Sweet coffee  | Studio Poespas",
+    "SoldQuantity": 41,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 41,
+    "GrossRevenue": 2489.5,
+    "NetRevenue": 2489.5
+  },
+  {
     "ID": "824-114",
     "VariantID": 47059623968906,
     "Name": "PRE-ORDER: Dekbedovertrekset Love on Top | SJUMO x Poespas | 240 x 220 cm (2 gratis kussenslopen)",
-    "SoldQuantity": 156,
+    "SoldQuantity": 157,
     "ReturnedQuantity": 0,
-    "NetQuantity": 156,
-    "GrossRevenue": 23141.599999999948,
-    "NetRevenue": 23141.599999999948
+    "NetQuantity": 157,
+    "GrossRevenue": 23276.55999999995,
+    "NetRevenue": 23276.55999999995
+  },
+  {
+    "ID": "212003.80",
+    "VariantID": 47218210504842,
+    "Name": "Sjaal strawberry soft | Red/pink | Studio Poespas",
+    "SoldQuantity": 79,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 79,
+    "GrossRevenue": 1505.0,
+    "NetRevenue": 1505.0
+  },
+  {
+    "ID": "34265.80",
+    "VariantID": 46151169441930,
+    "Name": "Family paspoort | Smiley | Studio Poespas",
+    "SoldQuantity": 1898,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1898,
+    "GrossRevenue": 58117.5,
+    "NetRevenue": 58117.5
+  },
+  {
+    "ID": "211906.90.000S",
+    "VariantID": 47140687970442,
+    "Name": "Hourglass blazerdress Star | Black | Refined Department",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 470.0,
+    "NetRevenue": 470.0
   },
   {
     "ID": "VARIANT_46161952276618",
@@ -38,16 +88,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 39.9,
     "NetRevenue": 39.9
-  },
-  {
-    "ID": "24470.70.00S3",
-    "VariantID": 47141184143498,
-    "Name": "PRE-ORDER: Sweat Macaron | Sweet coffee  | Studio Poespas",
-    "SoldQuantity": 40,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 40,
-    "GrossRevenue": 2424.5,
-    "NetRevenue": 2424.5
   },
   {
     "ID": "211996.74.000L",
@@ -88,16 +128,6 @@
     "NetQuantity": 14,
     "GrossRevenue": 1190.0,
     "NetRevenue": 1190.0
-  },
-  {
-    "ID": "212003.80",
-    "VariantID": 47218210504842,
-    "Name": "Sjaal strawberry soft | Red/pink | Studio Poespas",
-    "SoldQuantity": 78,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 78,
-    "GrossRevenue": 1485.0,
-    "NetRevenue": 1485.0
   },
   {
     "ID": "PP2191",
@@ -998,16 +1028,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 238.0,
     "NetRevenue": 238.0
-  },
-  {
-    "ID": "34265.80",
-    "VariantID": 46151169441930,
-    "Name": "Family paspoort | Smiley | Studio Poespas",
-    "SoldQuantity": 1897,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1897,
-    "GrossRevenue": 58085.0,
-    "NetRevenue": 58085.0
   },
   {
     "ID": "212020.74",
@@ -3420,16 +3440,6 @@
     "NetRevenue": 4415.0
   },
   {
-    "ID": "VARIANT_46165229830282",
-    "VariantID": 46165229830282,
-    "Name": "Behang Giraffe | Roze",
-    "SoldQuantity": 28,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 28,
-    "GrossRevenue": 9425.28,
-    "NetRevenue": 9425.28
-  },
-  {
     "ID": "24306.74.00S2",
     "VariantID": 46487743758474,
     "Name": "Top Bardot | Glitterclay | Studio Poespas",
@@ -3478,16 +3488,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 201.0,
     "NetRevenue": 201.0
-  },
-  {
-    "ID": "211906.90.000S",
-    "VariantID": 47140687970442,
-    "Name": "Hourglass blazerdress Star | Black | Refined Department",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 376.0,
-    "NetRevenue": 376.0
   },
   {
     "ID": "211994.92.000M",
