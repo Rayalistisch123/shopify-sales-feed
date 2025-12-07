@@ -1,5 +1,35 @@
 [
   {
+    "ID": "211996.74.000S",
+    "VariantID": 47250362925194,
+    "Name": "Jacket Praliné | Taupe | Studio Poespas",
+    "SoldQuantity": 61,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 61,
+    "GrossRevenue": 4453.799999999999,
+    "NetRevenue": 4453.799999999999
+  },
+  {
+    "ID": "211990.92.000S",
+    "VariantID": 47159599956106,
+    "Name": "Pants Praliné | Champagne nuit | Studio Poespas",
+    "SoldQuantity": 29,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 29,
+    "GrossRevenue": 1798.5999999999992,
+    "NetRevenue": 1798.5999999999992
+  },
+  {
+    "ID": "25088.94.XLXXL",
+    "VariantID": 47250342215818,
+    "Name": "Dress sparkle and shine | Champagne Nuit | Studio Poespas",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 524.8,
+    "NetRevenue": 524.8
+  },
+  {
     "ID": "211746.9000OS",
     "VariantID": 46151163084938,
     "Name": "Panty Emma | Zwart gevoerd | 200 Den | Studio Poespas",
@@ -368,26 +398,6 @@
     "NetQuantity": 20,
     "GrossRevenue": 1073.0,
     "NetRevenue": 1073.0
-  },
-  {
-    "ID": "211996.74.000S",
-    "VariantID": 47250362925194,
-    "Name": "Jacket Praliné | Taupe | Studio Poespas",
-    "SoldQuantity": 60,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 60,
-    "GrossRevenue": 4375.799999999999,
-    "NetRevenue": 4375.799999999999
-  },
-  {
-    "ID": "211990.92.000S",
-    "VariantID": 47159599956106,
-    "Name": "Pants Praliné | Champagne nuit | Studio Poespas",
-    "SoldQuantity": 28,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 28,
-    "GrossRevenue": 1730.5999999999995,
-    "NetRevenue": 1730.5999999999995
   },
   {
     "ID": "211908.12.000M",
@@ -3078,16 +3088,6 @@
     "NetQuantity": 168,
     "GrossRevenue": 9424.75,
     "NetRevenue": 9424.75
-  },
-  {
-    "ID": "25088.94.XLXXL",
-    "VariantID": 47250342215818,
-    "Name": "Dress sparkle and shine | Champagne Nuit | Studio Poespas",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 442.8,
-    "NetRevenue": 442.8
   },
   {
     "ID": "24459.80.000S",
