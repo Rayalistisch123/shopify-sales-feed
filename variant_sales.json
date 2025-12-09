@@ -1,5 +1,55 @@
 [
   {
+    "ID": "24275.20.00S2",
+    "VariantID": 47137832468618,
+    "Name": "Lovefest Hug me | Strawberry | Studio Poespas",
+    "SoldQuantity": 22,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 22,
+    "GrossRevenue": 1373.1000000000004,
+    "NetRevenue": 1373.1000000000004
+  },
+  {
+    "ID": "211689.80",
+    "VariantID": 46151161839754,
+    "Name": "Laptophoes Lollipop | Rood/roze | Studio Poespas",
+    "SoldQuantity": 36,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 36,
+    "GrossRevenue": 893.75,
+    "NetRevenue": 893.75
+  },
+  {
+    "ID": "211902.92.00XS",
+    "VariantID": 47140685709450,
+    "Name": "Relaxed pants Kalea | Light grey | Refined Department",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 297.0,
+    "NetRevenue": 297.0
+  },
+  {
+    "ID": "211900.92.00XS",
+    "VariantID": 47140685152394,
+    "Name": "Suit corset Steijn | Light grey | Refined Department",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 55.0,
+    "NetRevenue": 55.0
+  },
+  {
+    "ID": "211901.92.00XS",
+    "VariantID": 47140685414538,
+    "Name": "Oversized blazer Mikky | Light grey | Refined Department",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 189.0,
+    "NetRevenue": 189.0
+  },
+  {
     "ID": "24313.80.0001",
     "VariantID": 46268664774794,
     "Name": "Dress Flirty Flower | Studio Poespas",
@@ -158,16 +208,6 @@
     "NetQuantity": 46,
     "GrossRevenue": 2450.499999999999,
     "NetRevenue": 2450.499999999999
-  },
-  {
-    "ID": "24275.20.00S2",
-    "VariantID": 47137832468618,
-    "Name": "Lovefest Hug me | Strawberry | Studio Poespas",
-    "SoldQuantity": 21,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 21,
-    "GrossRevenue": 1304.1000000000001,
-    "NetRevenue": 1304.1000000000001
   },
   {
     "ID": "24383.72.00S2",
@@ -1238,16 +1278,6 @@
     "NetQuantity": 12,
     "GrossRevenue": 1008.0,
     "NetRevenue": 1008.0
-  },
-  {
-    "ID": "211689.80",
-    "VariantID": 46151161839754,
-    "Name": "Laptophoes Lollipop | Rood/roze | Studio Poespas",
-    "SoldQuantity": 35,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 35,
-    "GrossRevenue": 868.75,
-    "NetRevenue": 868.75
   },
   {
     "ID": "25015.94.00XS",
@@ -8600,16 +8630,6 @@
     "NetRevenue": 681.0
   },
   {
-    "ID": "211902.92.00XS",
-    "VariantID": 47140685709450,
-    "Name": "Relaxed pants Kalea | Light grey | Refined Department",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 237.0,
-    "NetRevenue": 237.0
-  },
-  {
     "ID": "25038.21.00XS",
     "VariantID": 46547793641610,
     "Name": "Pants Vera | Bordeaux | Amaya Amsterdam",
@@ -12338,16 +12358,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 316.0,
     "NetRevenue": 316.0
-  },
-  {
-    "ID": "211901.92.00XS",
-    "VariantID": 47140685414538,
-    "Name": "Oversized blazer Mikky | Light grey | Refined Department",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 109.0,
-    "NetRevenue": 109.0
   },
   {
     "ID": "24090.14.000S",
