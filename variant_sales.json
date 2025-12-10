@@ -1,13 +1,113 @@
 [
   {
+    "ID": "PP3300bS",
+    "VariantID": 46479891333258,
+    "Name": "Behang Leaf | Terra | Staaltje",
+    "SoldQuantity": 104,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 104,
+    "GrossRevenue": 206.9600000000002,
+    "NetRevenue": 206.9600000000002
+  },
+  {
+    "ID": "PP3315S",
+    "VariantID": 46479892119690,
+    "Name": "Behang Blush Bloom | Clay | Staaltje",
+    "SoldQuantity": 70,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 70,
+    "GrossRevenue": 139.2999999999999,
+    "NetRevenue": 139.2999999999999
+  },
+  {
+    "ID": "24471.62.00XL",
+    "VariantID": 46367481561226,
+    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
+    "SoldQuantity": 51,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 51,
+    "GrossRevenue": 2040.0,
+    "NetRevenue": 2040.0
+  },
+  {
     "ID": "211863.42",
     "VariantID": 46151165739146,
     "Name": "Ketting five tiny hearts | Goud | Studio Poespas",
-    "SoldQuantity": 81,
+    "SoldQuantity": 82,
     "ReturnedQuantity": 0,
-    "NetQuantity": 81,
-    "GrossRevenue": 1188.75,
-    "NetRevenue": 1188.75
+    "NetQuantity": 82,
+    "GrossRevenue": 1203.75,
+    "NetRevenue": 1203.75
+  },
+  {
+    "ID": "211894.64.00S2",
+    "VariantID": 46151048069258,
+    "Name": "Sweater Strawberry milkshake | Studio Poespas",
+    "SoldQuantity": 65,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 65,
+    "GrossRevenue": 3203.5,
+    "NetRevenue": 3203.5
+  },
+  {
+    "ID": "111605.80",
+    "VariantID": 46151159185546,
+    "Name": "Haarknipjes snowman glitter | 2 stuks | Rockahula",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 37.5,
+    "NetRevenue": 37.5
+  },
+  {
+    "ID": "15008.42.0444",
+    "VariantID": 46527540920458,
+    "Name": "Lila sequins dress | Gold glitter | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 94.0,
+    "NetRevenue": 94.0
+  },
+  {
+    "ID": "15102.80",
+    "VariantID": 47161743769738,
+    "Name": "Stripy christmas tree clips | Rockahula",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 37.5,
+    "NetRevenue": 37.5
+  },
+  {
+    "ID": "12000.80",
+    "VariantID": 46151093125258,
+    "Name": "Christmas tree glitter clips | Rockahula",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 7.5,
+    "NetRevenue": 7.5
+  },
+  {
+    "ID": "211907.10.00XL",
+    "VariantID": 47140688265354,
+    "Name": "Knitted crop top Mira | White | Refined Department",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 30.0,
+    "NetRevenue": 30.0
+  },
+  {
+    "ID": "211907.10.00XS",
+    "VariantID": 47140688134282,
+    "Name": "Knitted crop top Mira | White | Refined Department",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 69.0,
+    "NetRevenue": 69.0
   },
   {
     "ID": "211862.42",
@@ -598,16 +698,6 @@
     "NetQuantity": 27,
     "GrossRevenue": 1485.0,
     "NetRevenue": 1485.0
-  },
-  {
-    "ID": "211894.64.00S2",
-    "VariantID": 46151048069258,
-    "Name": "Sweater Strawberry milkshake | Studio Poespas",
-    "SoldQuantity": 64,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 64,
-    "GrossRevenue": 3173.5,
-    "NetRevenue": 3173.5
   },
   {
     "ID": "25093.64",
@@ -3180,16 +3270,6 @@
     "NetRevenue": 3802.5299999999997
   },
   {
-    "ID": "PP3300bS",
-    "VariantID": 46479891333258,
-    "Name": "Behang Leaf | Terra | Staaltje",
-    "SoldQuantity": 101,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 101,
-    "GrossRevenue": 200.9900000000002,
-    "NetRevenue": 200.9900000000002
-  },
-  {
     "ID": "VARIANT_46479942221962",
     "VariantID": 46479942221962,
     "Name": "Behang Blush Flowers | Mint",
@@ -4378,16 +4458,6 @@
     "NetQuantity": 27,
     "GrossRevenue": 1800.9000000000005,
     "NetRevenue": 1800.9000000000005
-  },
-  {
-    "ID": "15102.80",
-    "VariantID": 47161743769738,
-    "Name": "Stripy christmas tree clips | Rockahula",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 22.5,
-    "NetRevenue": 22.5
   },
   {
     "ID": "25049.72.000L",
@@ -6430,16 +6500,6 @@
     "NetRevenue": 1379.94
   },
   {
-    "ID": "24471.62.00XL",
-    "VariantID": 46367481561226,
-    "Name": "Shirt Back 2 the 90's | Purple | Studio Poespas",
-    "SoldQuantity": 50,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 50,
-    "GrossRevenue": 2000.0,
-    "NetRevenue": 2000.0
-  },
-  {
     "ID": "25045.62.000S",
     "VariantID": 47134914805898,
     "Name": "Jacket Nori | Wine berry | Harper & Yve",
@@ -7088,16 +7148,6 @@
     "NetQuantity": 81,
     "GrossRevenue": 161.18999999999997,
     "NetRevenue": 161.18999999999997
-  },
-  {
-    "ID": "PP3315S",
-    "VariantID": 46479892119690,
-    "Name": "Behang Blush Bloom | Clay | Staaltje",
-    "SoldQuantity": 69,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 69,
-    "GrossRevenue": 137.3099999999999,
-    "NetRevenue": 137.3099999999999
   },
   {
     "ID": "PP2170",
@@ -12118,16 +12168,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 108.0,
     "NetRevenue": 108.0
-  },
-  {
-    "ID": "211907.10.00XS",
-    "VariantID": 47140688134282,
-    "Name": "Knitted crop top Mira | White | Refined Department",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 39.0,
-    "NetRevenue": 39.0
   },
   {
     "ID": "PP3117",
@@ -27218,16 +27258,6 @@
     "NetQuantity": 5,
     "GrossRevenue": 115.0,
     "NetRevenue": 115.0
-  },
-  {
-    "ID": "111605.80",
-    "VariantID": 46151159185546,
-    "Name": "Haarknipjes snowman glitter | 2 stuks | Rockahula",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 30.0,
-    "NetRevenue": 30.0
   },
   {
     "ID": "24503.72.0036",
