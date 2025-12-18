@@ -1,5 +1,105 @@
 [
   {
+    "ID": "24205.14.000S",
+    "VariantID": 46151041810570,
+    "Name": "Oversized blouse Lottie | Flower | Refined Department",
+    "SoldQuantity": 9,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 9,
+    "GrossRevenue": 439.0,
+    "NetRevenue": 439.0
+  },
+  {
+    "ID": "24213.14.000L",
+    "VariantID": 46151044071562,
+    "Name": "Printed pants Novel | Flower | Refined Department",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 242.6,
+    "NetRevenue": 242.6
+  },
+  {
+    "ID": "211934.64.000L",
+    "VariantID": 46151044464778,
+    "Name": "Jacket Willow | Bittersweet pink | Harper & Yve",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 152.0,
+    "NetRevenue": 152.0
+  },
+  {
+    "ID": "PP3517-PP3520S",
+    "VariantID": 47151434858634,
+    "Name": "Behang Zwanenmeer | Staaltje",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 11.94,
+    "NetRevenue": 11.94
+  },
+  {
+    "ID": "24602.42.00S1",
+    "VariantID": 47151742648458,
+    "Name": "Bomber Loulou | Blu | Studio Poespas",
+    "SoldQuantity": 67,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 67,
+    "GrossRevenue": 5469.25,
+    "NetRevenue": 5469.25
+  },
+  {
+    "ID": "211805.42",
+    "VariantID": 46151163150474,
+    "Name": "Ketting smiley | Wit/goud | Studio Poespas",
+    "SoldQuantity": 82,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 82,
+    "GrossRevenue": 1332.0,
+    "NetRevenue": 1332.0
+  },
+  {
+    "ID": "25048.94.000M",
+    "VariantID": 47134917197962,
+    "Name": "Skirt Balou | Silver | Harper & Yve",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 125.99,
+    "NetRevenue": 125.99
+  },
+  {
+    "ID": "24533.20",
+    "VariantID": 46460454994058,
+    "Name": "Big puffy weekend bag Camill | Red wood | Tinne+Mia",
+    "SoldQuantity": 5,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 5,
+    "GrossRevenue": 395.0,
+    "NetRevenue": 395.0
+  },
+  {
+    "ID": "25080.42.XLXXL",
+    "VariantID": 47159599464586,
+    "Name": "Top Tarte royale | Champagne | Studio Poespas",
+    "SoldQuantity": 51,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 51,
+    "GrossRevenue": 2201.1000000000004,
+    "NetRevenue": 2201.1000000000004
+  },
+  {
+    "ID": "211804.42",
+    "VariantID": 46151162790026,
+    "Name": "Ketting hartje pixel | Wit/goud | Studio Poespas",
+    "SoldQuantity": 92,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 92,
+    "GrossRevenue": 728.62,
+    "NetRevenue": 728.62
+  },
+  {
     "ID": "25082.70.00ML",
     "VariantID": 47164062630026,
     "Name": "Top Camille | Champagne Nuit | Studio Poespas",
@@ -8,16 +108,6 @@
     "NetQuantity": 56,
     "GrossRevenue": 3030.499999999999,
     "NetRevenue": 3030.499999999999
-  },
-  {
-    "ID": "24602.42.00S1",
-    "VariantID": 47151742648458,
-    "Name": "Bomber Loulou | Blu | Studio Poespas",
-    "SoldQuantity": 66,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 66,
-    "GrossRevenue": 5404.25,
-    "NetRevenue": 5404.25
   },
   {
     "ID": "211746.9000OS",
@@ -200,16 +290,6 @@
     "NetRevenue": 1614.0
   },
   {
-    "ID": "211805.42",
-    "VariantID": 46151163150474,
-    "Name": "Ketting smiley | Wit/goud | Studio Poespas",
-    "SoldQuantity": 81,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 81,
-    "GrossRevenue": 1317.0,
-    "NetRevenue": 1317.0
-  },
-  {
     "ID": "24611.10.000L",
     "VariantID": 46527034622090,
     "Name": "Shirt Wavy princess | Off white | Studio Poespas",
@@ -348,16 +428,6 @@
     "NetQuantity": 55,
     "GrossRevenue": 2090.0,
     "NetRevenue": 2090.0
-  },
-  {
-    "ID": "211804.42",
-    "VariantID": 46151162790026,
-    "Name": "Ketting hartje pixel | Wit/goud | Studio Poespas",
-    "SoldQuantity": 91,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 91,
-    "GrossRevenue": 721.12,
-    "NetRevenue": 721.12
   },
   {
     "ID": "PP3323S",
@@ -3060,16 +3130,6 @@
     "NetRevenue": 645.0
   },
   {
-    "ID": "PP3517-PP3520S",
-    "VariantID": 47151434858634,
-    "Name": "Behang Zwanenmeer | Staaltje",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 9.95,
-    "NetRevenue": 9.95
-  },
-  {
     "ID": "PP3240S",
     "VariantID": 46165415362698,
     "Name": "Behang Coral Essence | Staaltje",
@@ -3408,16 +3468,6 @@
     "NetQuantity": 11,
     "GrossRevenue": 457.7,
     "NetRevenue": 457.7
-  },
-  {
-    "ID": "25080.42.XLXXL",
-    "VariantID": 47159599464586,
-    "Name": "Top Tarte royale | Champagne | Studio Poespas",
-    "SoldQuantity": 50,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 50,
-    "GrossRevenue": 2155.1000000000004,
-    "NetRevenue": 2155.1000000000004
   },
   {
     "ID": "24472.40.000L",
@@ -11670,16 +11720,6 @@
     "NetRevenue": 1.99
   },
   {
-    "ID": "25048.94.000M",
-    "VariantID": 47134917197962,
-    "Name": "Skirt Balou | Silver | Harper & Yve",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 69.99,
-    "NetRevenue": 69.99
-  },
-  {
     "ID": "15041.64.0508",
     "VariantID": 46992857694346,
     "Name": "Snow mittens Nohr print | Amour pink | Konges Slojd",
@@ -15510,16 +15550,6 @@
     "NetRevenue": 779.94
   },
   {
-    "ID": "24205.14.000S",
-    "VariantID": 46151041810570,
-    "Name": "Oversized blouse Lottie | Flower | Refined Department",
-    "SoldQuantity": 8,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 8,
-    "GrossRevenue": 407.0,
-    "NetRevenue": 407.0
-  },
-  {
     "ID": "27791.94.000S",
     "VariantID": 46419193135242,
     "Name": "Rok Lyon | Silver | Refined Department",
@@ -16118,16 +16148,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 80.0,
     "NetRevenue": 80.0
-  },
-  {
-    "ID": "24533.20",
-    "VariantID": 46460454994058,
-    "Name": "Big puffy weekend bag Camill | Red wood | Tinne+Mia",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 316.0,
-    "NetRevenue": 316.0
   },
   {
     "ID": "14451.80.0006",
@@ -19038,16 +19058,6 @@
     "NetQuantity": 15,
     "GrossRevenue": 986.8800000000001,
     "NetRevenue": 986.8800000000001
-  },
-  {
-    "ID": "211934.64.000L",
-    "VariantID": 46151044464778,
-    "Name": "Jacket Willow | Bittersweet pink | Harper & Yve",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 110.0,
-    "NetRevenue": 110.0
   },
   {
     "ID": "211647.70.0042",
@@ -40058,16 +40068,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 85.0,
     "NetRevenue": 85.0
-  },
-  {
-    "ID": "24213.14.000L",
-    "VariantID": 46151044071562,
-    "Name": "Printed pants Novel | Flower | Refined Department",
-    "SoldQuantity": 4,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 4,
-    "GrossRevenue": 217.6,
-    "NetRevenue": 217.6
   },
   {
     "ID": "211925.12.000L",
