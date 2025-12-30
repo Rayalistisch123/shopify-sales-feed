@@ -1,13 +1,83 @@
 [
   {
+    "ID": "14581.14.0003",
+    "VariantID": 46506091085962,
+    "Name": "Bomberjack Juno | Travertine bananas | Konges Slojd",
+    "SoldQuantity": 3,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 3,
+    "GrossRevenue": 197.0,
+    "NetRevenue": 197.0
+  },
+  {
+    "ID": "14581.14.0002",
+    "VariantID": 46506091053194,
+    "Name": "Bomberjack Juno | Travertine bananas | Konges Slojd",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 39.0,
+    "NetRevenue": 39.0
+  },
+  {
+    "ID": "25093.64",
+    "VariantID": 47179219632266,
+    "Name": "Paspoorthoes Adventure | Pink leopard | Studio Poespas",
+    "SoldQuantity": 135,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 135,
+    "GrossRevenue": 4109.339999999995,
+    "NetRevenue": 4109.339999999995
+  },
+  {
+    "ID": "PP2001S",
+    "VariantID": 46165137850506,
+    "Name": "Behang Giraffe | Beige | Staaltje",
+    "SoldQuantity": 110,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 110,
+    "GrossRevenue": 218.90000000000023,
+    "NetRevenue": 218.90000000000023
+  },
+  {
     "ID": "40032.72",
     "VariantID": 47492129128586,
     "Name": "Paspoorthoes | Brown Suede | Studio Poespas",
-    "SoldQuantity": 60,
+    "SoldQuantity": 61,
     "ReturnedQuantity": 0,
-    "NetQuantity": 60,
-    "GrossRevenue": 2100.0,
-    "NetRevenue": 2100.0
+    "NetQuantity": 61,
+    "GrossRevenue": 2135.0,
+    "NetRevenue": 2135.0
+  },
+  {
+    "ID": "40035.72",
+    "VariantID": 47492183064714,
+    "Name": "Wallet de luxe | Brown Suede | Studio Poespas",
+    "SoldQuantity": 18,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 18,
+    "GrossRevenue": 576.0,
+    "NetRevenue": 576.0
+  },
+  {
+    "ID": "29375.10.0045",
+    "VariantID": 46150774849674,
+    "Name": "Sneaker Possess | White/White | Heren | Steve Madden",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 149.0,
+    "NetRevenue": 149.0
+  },
+  {
+    "ID": "PP2013S",
+    "VariantID": 46165415985290,
+    "Name": "Behang Morning bird | Roze | Staaltje",
+    "SoldQuantity": 47,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 47,
+    "GrossRevenue": 93.52999999999994,
+    "NetRevenue": 93.52999999999994
   },
   {
     "ID": "211743.80.00S2",
@@ -180,16 +250,6 @@
     "NetRevenue": 1049.2500000000002
   },
   {
-    "ID": "25093.64",
-    "VariantID": 47179219632266,
-    "Name": "Paspoorthoes Adventure | Pink leopard | Studio Poespas",
-    "SoldQuantity": 134,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 134,
-    "GrossRevenue": 4076.8399999999947,
-    "NetRevenue": 4076.8399999999947
-  },
-  {
     "ID": "VARIANT_46165316796554",
     "VariantID": 46165316796554,
     "Name": "Behang Pink Flamingo",
@@ -288,16 +348,6 @@
     "NetQuantity": 29,
     "GrossRevenue": 57.71000000000001,
     "NetRevenue": 57.71000000000001
-  },
-  {
-    "ID": "40035.72",
-    "VariantID": 47492183064714,
-    "Name": "Wallet de luxe | Brown Suede | Studio Poespas",
-    "SoldQuantity": 17,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 544.0,
-    "NetRevenue": 544.0
   },
   {
     "ID": "212084.72",
@@ -578,16 +628,6 @@
     "NetQuantity": 90,
     "GrossRevenue": 2175.0,
     "NetRevenue": 2175.0
-  },
-  {
-    "ID": "PP2001S",
-    "VariantID": 46165137850506,
-    "Name": "Behang Giraffe | Beige | Staaltje",
-    "SoldQuantity": 109,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 109,
-    "GrossRevenue": 216.91000000000022,
-    "NetRevenue": 216.91000000000022
   },
   {
     "ID": "PP2082S",
@@ -4898,16 +4938,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 160.0,
     "NetRevenue": 160.0
-  },
-  {
-    "ID": "PP2013S",
-    "VariantID": 46165415985290,
-    "Name": "Behang Morning bird | Roze | Staaltje",
-    "SoldQuantity": 46,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 46,
-    "GrossRevenue": 91.53999999999995,
-    "NetRevenue": 91.53999999999995
   },
   {
     "ID": "24503.72.0038",
@@ -24110,16 +24140,6 @@
     "NetRevenue": 99.0
   },
   {
-    "ID": "14581.14.0003",
-    "VariantID": 46506091085962,
-    "Name": "Bomberjack Juno | Travertine bananas | Konges Slojd",
-    "SoldQuantity": 2,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 2,
-    "GrossRevenue": 158.0,
-    "NetRevenue": 158.0
-  },
-  {
     "ID": "PP1007S",
     "VariantID": 46166054305930,
     "Name": "Behang Ethnic nights | Taupe | Staaltje",
@@ -25378,16 +25398,6 @@
     "NetQuantity": 2,
     "GrossRevenue": 54.0,
     "NetRevenue": 54.0
-  },
-  {
-    "ID": "29375.10.0045",
-    "VariantID": 46150774849674,
-    "Name": "Sneaker Possess | White/White | Heren | Steve Madden",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 80.0,
-    "NetRevenue": 80.0
   },
   {
     "ID": "211901.60.0036",
