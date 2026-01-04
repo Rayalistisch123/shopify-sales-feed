@@ -1,13 +1,83 @@
 [
   {
+    "ID": "211998.12.00ML",
+    "VariantID": 47387388149898,
+    "Name": "PRE-ORDER: Sweat Macaron Polka pop | Oreo | Studio Poespas",
+    "SoldQuantity": 23,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 23,
+    "GrossRevenue": 1317.0,
+    "NetRevenue": 1317.0
+  },
+  {
     "ID": "24275.20.00S2",
     "VariantID": 47137832468618,
     "Name": "Lovefest Hug me | Strawberry | Studio Poespas",
-    "SoldQuantity": 39,
+    "SoldQuantity": 41,
     "ReturnedQuantity": 0,
-    "NetQuantity": 39,
-    "GrossRevenue": 2546.1000000000013,
-    "NetRevenue": 2546.1000000000013
+    "NetQuantity": 41,
+    "GrossRevenue": 2684.1000000000013,
+    "NetRevenue": 2684.1000000000013
+  },
+  {
+    "ID": "14434.72.0708",
+    "VariantID": 46494227988618,
+    "Name": "Bomberjack Juno | Walnut | Konges Slojd",
+    "SoldQuantity": 2,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 2,
+    "GrossRevenue": 149.0,
+    "NetRevenue": 149.0
+  },
+  {
+    "ID": "211909.18.000S",
+    "VariantID": 47140688625802,
+    "Name": "Oversized cropped blazer Jackie | Sand | Refined Department",
+    "SoldQuantity": 12,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 12,
+    "GrossRevenue": 986.0,
+    "NetRevenue": 986.0
+  },
+  {
+    "ID": "14599.74.0031",
+    "VariantID": 46506610131082,
+    "Name": "Thermo boots | Pine bark | En Fant",
+    "SoldQuantity": 6,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 6,
+    "GrossRevenue": 294.0,
+    "NetRevenue": 294.0
+  },
+  {
+    "ID": "15025.80.0122",
+    "VariantID": 46527542165642,
+    "Name": "Ski pants | Stormy weather | Color Kids",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 84.0,
+    "NetRevenue": 84.0
+  },
+  {
+    "ID": "15024.80.0122",
+    "VariantID": 46527541969034,
+    "Name": "Ski jacket | Stormy weather | Color Kids",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 114.0,
+    "NetRevenue": 114.0
+  },
+  {
+    "ID": "24275.20.00S3",
+    "VariantID": 47137832501386,
+    "Name": "Lovefest Hug me | Strawberry | Studio Poespas",
+    "SoldQuantity": 19,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 19,
+    "GrossRevenue": 1197.15,
+    "NetRevenue": 1197.15
   },
   {
     "ID": "VARIANT_46181233295498",
@@ -278,16 +348,6 @@
     "NetQuantity": 77,
     "GrossRevenue": 3964.0,
     "NetRevenue": 3964.0
-  },
-  {
-    "ID": "211998.12.00ML",
-    "VariantID": 47387388149898,
-    "Name": "PRE-ORDER: Sweat Macaron Polka pop | Oreo | Studio Poespas",
-    "SoldQuantity": 22,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 22,
-    "GrossRevenue": 1257.0,
-    "NetRevenue": 1257.0
   },
   {
     "ID": "212086.72",
@@ -1768,16 +1828,6 @@
     "NetQuantity": 45,
     "GrossRevenue": 2457.0,
     "NetRevenue": 2457.0
-  },
-  {
-    "ID": "211909.18.000S",
-    "VariantID": 47140688625802,
-    "Name": "Oversized cropped blazer Jackie | Sand | Refined Department",
-    "SoldQuantity": 11,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 11,
-    "GrossRevenue": 927.0,
-    "NetRevenue": 927.0
   },
   {
     "ID": "211994.92.000L",
@@ -3748,16 +3798,6 @@
     "NetQuantity": 1,
     "GrossRevenue": 48.0,
     "NetRevenue": 48.0
-  },
-  {
-    "ID": "24275.20.00S3",
-    "VariantID": 47137832501386,
-    "Name": "Lovefest Hug me | Strawberry | Studio Poespas",
-    "SoldQuantity": 18,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 18,
-    "GrossRevenue": 1128.1499999999999,
-    "NetRevenue": 1128.1499999999999
   },
   {
     "ID": "24312.80.0002",
@@ -7798,16 +7838,6 @@
     "NetQuantity": 104,
     "GrossRevenue": 3540.0,
     "NetRevenue": 3540.0
-  },
-  {
-    "ID": "14599.74.0031",
-    "VariantID": 46506610131082,
-    "Name": "Thermo boots | Pine bark | En Fant",
-    "SoldQuantity": 5,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 5,
-    "GrossRevenue": 245.0,
-    "NetRevenue": 245.0
   },
   {
     "ID": "212080.72",
@@ -22888,16 +22918,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 237.0,
     "NetRevenue": 237.0
-  },
-  {
-    "ID": "14434.72.0708",
-    "VariantID": 46494227988618,
-    "Name": "Bomberjack Juno | Walnut | Konges Slojd",
-    "SoldQuantity": 1,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 1,
-    "GrossRevenue": 79.0,
-    "NetRevenue": 79.0
   },
   {
     "ID": "24561.80.0XXL",
