@@ -1,13 +1,83 @@
 [
   {
+    "ID": "24569.64",
+    "VariantID": 46494100717706,
+    "Name": "Pet Out of the Office | Studio Poespas",
+    "SoldQuantity": 12,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 12,
+    "GrossRevenue": 255.0,
+    "NetRevenue": 255.0
+  },
+  {
+    "ID": "25062.72.000L",
+    "VariantID": 47137921958026,
+    "Name": "Top Cath | Bronze sequin | Harper & Yve",
+    "SoldQuantity": 4,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 4,
+    "GrossRevenue": 278.96999999999997,
+    "NetRevenue": 278.96999999999997
+  },
+  {
+    "ID": "PP3200S",
+    "VariantID": null,
+    "Name": "Behang Clay Sand | Staaltje",
+    "SoldQuantity": 35,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 35,
+    "GrossRevenue": 69.65,
+    "NetRevenue": 69.65
+  },
+  {
     "ID": "40032.72",
     "VariantID": 47492129128586,
     "Name": "Paspoorthoes | Brown Suede | Studio Poespas",
-    "SoldQuantity": 105,
+    "SoldQuantity": 107,
     "ReturnedQuantity": 0,
-    "NetQuantity": 105,
-    "GrossRevenue": 3675.0,
-    "NetRevenue": 3675.0
+    "NetQuantity": 107,
+    "GrossRevenue": 3745.0,
+    "NetRevenue": 3745.0
+  },
+  {
+    "ID": "25093.64",
+    "VariantID": 47179219632266,
+    "Name": "Paspoorthoes Adventure | Pink leopard | Studio Poespas",
+    "SoldQuantity": 148,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 148,
+    "GrossRevenue": 4531.839999999995,
+    "NetRevenue": 4531.839999999995
+  },
+  {
+    "ID": "15054.64",
+    "VariantID": 47008215498890,
+    "Name": "Knitted scarf cheerful cherry | Rockahula",
+    "SoldQuantity": 18,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 18,
+    "GrossRevenue": 360.0,
+    "NetRevenue": 360.0
+  },
+  {
+    "ID": "15053.64.0710",
+    "VariantID": 47008215466122,
+    "Name": "Knitted hat cheerful cherry | Rockahula",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 133.0,
+    "NetRevenue": 133.0
+  },
+  {
+    "ID": "15066.80",
+    "VariantID": 47017166176394,
+    "Name": "Mijn Tandenboekje | Apen | Studio Poespas",
+    "SoldQuantity": 146,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 146,
+    "GrossRevenue": 3975.0,
+    "NetRevenue": 3975.0
   },
   {
     "ID": "24582.64.000S",
@@ -48,16 +118,6 @@
     "NetQuantity": 3,
     "GrossRevenue": 447.0,
     "NetRevenue": 447.0
-  },
-  {
-    "ID": "25093.64",
-    "VariantID": 47179219632266,
-    "Name": "Paspoorthoes Adventure | Pink leopard | Studio Poespas",
-    "SoldQuantity": 147,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 147,
-    "GrossRevenue": 4499.339999999995,
-    "NetRevenue": 4499.339999999995
   },
   {
     "ID": "24583.64.000S",
@@ -238,16 +298,6 @@
     "NetQuantity": 181,
     "GrossRevenue": 8124.75,
     "NetRevenue": 8124.75
-  },
-  {
-    "ID": "15066.80",
-    "VariantID": 47017166176394,
-    "Name": "Mijn Tandenboekje | Apen | Studio Poespas",
-    "SoldQuantity": 145,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 145,
-    "GrossRevenue": 3945.0,
-    "NetRevenue": 3945.0
   },
   {
     "ID": "15027.80.0128",
@@ -838,16 +888,6 @@
     "NetQuantity": 4,
     "GrossRevenue": 67.8,
     "NetRevenue": 67.8
-  },
-  {
-    "ID": "24569.64",
-    "VariantID": 46494100717706,
-    "Name": "Pet Out of the Office | Studio Poespas",
-    "SoldQuantity": 11,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 11,
-    "GrossRevenue": 240.0,
-    "NetRevenue": 240.0
   },
   {
     "ID": "24383.72.00S2",
@@ -5198,16 +5238,6 @@
     "NetQuantity": 8,
     "GrossRevenue": 639.92,
     "NetRevenue": 639.92
-  },
-  {
-    "ID": "15053.64.0710",
-    "VariantID": 47008215466122,
-    "Name": "Knitted hat cheerful cherry | Rockahula",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 114.0,
-    "NetRevenue": 114.0
   },
   {
     "ID": "14285.66.0222",
@@ -10340,16 +10370,6 @@
     "NetRevenue": 108.0
   },
   {
-    "ID": "15054.64",
-    "VariantID": 47008215498890,
-    "Name": "Knitted scarf cheerful cherry | Rockahula",
-    "SoldQuantity": 17,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 17,
-    "GrossRevenue": 340.0,
-    "NetRevenue": 340.0
-  },
-  {
     "ID": "111717.64.1218M",
     "VariantID": 46150987153546,
     "Name": "Bow cap Kim gots | Flamingo plume check | Konges Slojd",
@@ -10960,16 +10980,6 @@
     "NetRevenue": 45.0
   },
   {
-    "ID": "PP3200S",
-    "VariantID": null,
-    "Name": "Behang Clay Sand | Staaltje",
-    "SoldQuantity": 34,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 34,
-    "GrossRevenue": 67.66000000000001,
-    "NetRevenue": 67.66000000000001
-  },
-  {
     "ID": "14526.50.0205",
     "VariantID": 46443028840586,
     "Name": "Rugzak Smiley | Hello Hossy",
@@ -11218,16 +11228,6 @@
     "NetQuantity": 7,
     "GrossRevenue": 194.97000000000003,
     "NetRevenue": 194.97000000000003
-  },
-  {
-    "ID": "25062.72.000L",
-    "VariantID": 47137921958026,
-    "Name": "Top Cath | Bronze sequin | Harper & Yve",
-    "SoldQuantity": 3,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 3,
-    "GrossRevenue": 239.96999999999997,
-    "NetRevenue": 239.96999999999997
   },
   {
     "ID": "24719.90.000L",
