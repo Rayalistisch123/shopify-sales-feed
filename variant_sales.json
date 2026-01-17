@@ -1,5 +1,25 @@
 [
   {
+    "ID": "25080.42.XLXXL",
+    "VariantID": 47159599464586,
+    "Name": "Top Tarte royale | Champagne | Studio Poespas",
+    "SoldQuantity": 65,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 65,
+    "GrossRevenue": 2747.0999999999985,
+    "NetRevenue": 2747.0999999999985
+  },
+  {
+    "ID": "25080.42.00ML",
+    "VariantID": 47159599431818,
+    "Name": "Top Tarte royale | Champagne | Studio Poespas",
+    "SoldQuantity": 133,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 133,
+    "GrossRevenue": 5557.0,
+    "NetRevenue": 5557.0
+  },
+  {
     "ID": "25082.70.00ML",
     "VariantID": 47164062630026,
     "Name": "Top Camille | Champagne Nuit | Studio Poespas",
@@ -8,16 +28,6 @@
     "NetQuantity": 70,
     "GrossRevenue": 3742.5000000000023,
     "NetRevenue": 3742.5000000000023
-  },
-  {
-    "ID": "25080.42.00ML",
-    "VariantID": 47159599431818,
-    "Name": "Top Tarte royale | Champagne | Studio Poespas",
-    "SoldQuantity": 132,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 132,
-    "GrossRevenue": 5518.999999999999,
-    "NetRevenue": 5518.999999999999
   },
   {
     "ID": "11991.64",
@@ -38,16 +48,6 @@
     "NetQuantity": 19,
     "GrossRevenue": 6715.09,
     "NetRevenue": 6715.09
-  },
-  {
-    "ID": "25080.42.XLXXL",
-    "VariantID": 47159599464586,
-    "Name": "Top Tarte royale | Champagne | Studio Poespas",
-    "SoldQuantity": 64,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 64,
-    "GrossRevenue": 2709.0999999999985,
-    "NetRevenue": 2709.0999999999985
   },
   {
     "ID": "24608.20.00S2",
