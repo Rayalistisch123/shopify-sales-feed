@@ -1,5 +1,35 @@
 [
   {
+    "ID": "24554.20.000M",
+    "VariantID": 46485529329802,
+    "Name": "Jacket Willow | Brick red | Harper & Yve",
+    "SoldQuantity": 1,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 1,
+    "GrossRevenue": 74.0,
+    "NetRevenue": 74.0
+  },
+  {
+    "ID": "24554.20.000S",
+    "VariantID": 46485529297034,
+    "Name": "Jacket Willow | Brick red | Harper & Yve",
+    "SoldQuantity": 7,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 7,
+    "GrossRevenue": 777.97,
+    "NetRevenue": 777.97
+  },
+  {
+    "ID": "VARIANT_46165129822346",
+    "VariantID": 46165129822346,
+    "Name": "Behang Giraffe | Beige",
+    "SoldQuantity": 97,
+    "ReturnedQuantity": 0,
+    "NetQuantity": 97,
+    "GrossRevenue": 31069.160000000003,
+    "NetRevenue": 31069.160000000003
+  },
+  {
     "ID": "PP3059S",
     "VariantID": 46166091432074,
     "Name": "Behang Bronze stuc | Staaltje",
@@ -2390,16 +2420,6 @@
     "NetRevenue": 79.0
   },
   {
-    "ID": "24554.20.000S",
-    "VariantID": 46485529297034,
-    "Name": "Jacket Willow | Brick red | Harper & Yve",
-    "SoldQuantity": 6,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 6,
-    "GrossRevenue": 703.97,
-    "NetRevenue": 703.97
-  },
-  {
     "ID": "24555.20.0026",
     "VariantID": 46485577302154,
     "Name": "Pants Yve | Brick red | Harper & Yve",
@@ -2458,16 +2478,6 @@
     "NetQuantity": 9,
     "GrossRevenue": 3888.5099999999998,
     "NetRevenue": 3888.5099999999998
-  },
-  {
-    "ID": "VARIANT_46165129822346",
-    "VariantID": 46165129822346,
-    "Name": "Behang Giraffe | Beige",
-    "SoldQuantity": 96,
-    "ReturnedQuantity": 0,
-    "NetQuantity": 96,
-    "GrossRevenue": 30711.48,
-    "NetRevenue": 30711.48
   },
   {
     "ID": "24383.72.00S2",
